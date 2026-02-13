@@ -1,0 +1,185 @@
+{{ define "main" }}
+
+<!-- Breadcrumb (AEO) -->
+<nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4" aria-label="Breadcrumb">
+  <ol class="flex items-center space-x-2 text-sm text-gray-500">
+    <li><a href="/" class="hover:text-blue-700">Home</a></li>
+    {{ with .Params.categories }}
+    <li><span class="mx-1">/</span></li>
+    <li><a href="/categories/{{ index . 0 | urlize }}/" class="hover:text-blue-700">{{ index . 0 | humanize | title }}</a></li>
+    {{ end }}
+    <li><span class="mx-1">/</span></li>
+    <li class="text-gray-900 font-medium truncate max-w-xs">{{ .Title }}</li>
+  </ol>
+</nav>
+
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+  <div class="lg:grid lg:grid-cols-12 lg:gap-8">
+    
+    <!-- Main Content -->
+    <article class="lg:col-span-8" itemscope itemtype="https://schema.org/Article">
+      
+      <!-- Article Header -->
+      <header class="mb-8">
+        {{ with .Params.categories }}
+        <a href="/categories/{{ index . 0 | urlize }}/" class="inline-block px-3 py-1 text-xs font-semibold text-blue-700 bg-blue-50 rounded-full mb-4 hover:bg-blue-100">{{ index . 0 | humanize | title }}</a>
+        {{ end }}
+        
+        <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight mb-4" itemprop="headline">
+          {{ .Title }}
+        </h1>
+        
+        {{ with .Description }}
+        <p class="text-lg text-gray-600 leading-relaxed mb-4" itemprop="description">{{ . }}</p>
+        {{ end }}
+        
+        <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500 pb-6 border-b border-gray-200">
+          <div class="flex items-center gap-2">
+            <div class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
+              <span class="text-blue-700 font-bold text-xs">SFG</span>
+            </div>
+            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+              <span itemprop="name">{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}</span>
+            </span>
+          </div>
+          <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ .Date.Format "January 2, 2006" }}</time>
+          <span>{{ .ReadingTime }} min read</span>
+          <meta itemprop="dateModified" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+        </div>
+      </header>
+      
+      <!-- Featured Image -->
+      {{ with .Params.image }}
+      <figure class="mb-8 rounded-xl overflow-hidden">
+        <img src="{{ . }}" alt="{{ $.Title }}" class="w-full" loading="eager" itemprop="image">
+        {{ with $.Params.imageCaption }}<figcaption class="text-sm text-gray-500 mt-2 text-center">{{ . }}</figcaption>{{ end }}
+      </figure>
+      {{ end }}
+      
+      <!-- Ad: Before content -->
+      {{ partial "ad-in-article.html" . }}
+      
+      <!-- Table of Contents (AEO) -->
+      {{ if .Params.toc | default true }}
+      {{ if gt (len .TableOfContents) 100 }}
+      <nav class="bg-blue-50 border border-blue-100 rounded-xl p-5 mb-8" aria-label="Table of Contents">
+        <h2 class="text-lg font-bold text-gray-900 mb-3">Table of Contents</h2>
+        <div class="toc text-sm text-gray-700 space-y-1">
+          {{ .TableOfContents }}
+        </div>
+      </nav>
+      {{ end }}
+      {{ end }}
+      
+      <!-- Key Takeaways Box (GEO - AI loves citing these) -->
+      {{ with .Params.takeaways }}
+      <div class="bg-green-50 border-l-4 border-green-500 p-5 mb-8 rounded-r-xl">
+        <h2 class="text-lg font-bold text-green-900 mb-3">Key Takeaways</h2>
+        <ul class="space-y-2 text-sm text-green-800">
+          {{ range . }}
+          <li class="flex items-start gap-2">
+            <svg class="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+            <span>{{ . }}</span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      
+      <!-- Article Body -->
+      <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-a:text-blue-700 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl" itemprop="articleBody">
+        {{ .Content }}
+      </div>
+      
+      <!-- Ad: After content -->
+      <div class="mt-8">
+        {{ partial "ad-in-article.html" . }}
+      </div>
+      
+      <!-- FAQ Section (AEO - Featured Snippet target) -->
+      {{ with .Params.faq }}
+      <section class="mt-12 bg-gray-50 rounded-xl p-6 md:p-8" id="faq">
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <details class="bg-white rounded-lg border border-gray-200 overflow-hidden group">
+            <summary class="flex items-center justify-between p-4 cursor-pointer font-semibold text-gray-900 hover:bg-gray-50 transition-colors">
+              <span>{{ .question }}</span>
+              <svg class="w-5 h-5 text-gray-400 group-open:rotate-180 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </summary>
+            <div class="px-4 pb-4 text-gray-700 leading-relaxed">
+              {{ .answer | markdownify }}
+            </div>
+          </details>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+      
+      <!-- Tags -->
+      {{ with .Params.tags }}
+      <div class="mt-8 flex flex-wrap gap-2">
+        {{ range . }}
+        <a href="/tags/{{ . | urlize }}/" class="px-3 py-1 text-xs font-medium text-gray-600 bg-gray-100 rounded-full hover:bg-blue-50 hover:text-blue-700 transition-colors">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+      
+      <!-- Related Posts -->
+      {{ $related := .Site.RegularPages.Related . | first 3 }}
+      {{ with $related }}
+      <section class="mt-12 pt-8 border-t border-gray-200">
+        <h2 class="text-xl font-bold text-gray-900 mb-6">Related Articles</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {{ range . }}
+          <a href="{{ .Permalink }}" class="block p-4 bg-white rounded-lg border border-gray-100 hover:border-blue-200 hover:shadow-sm transition-all">
+            <h3 class="text-sm font-semibold text-gray-900 mb-1 line-clamp-2">{{ .Title }}</h3>
+            <p class="text-xs text-gray-500">{{ .Date.Format "Jan 2, 2006" }}</p>
+          </a>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+      
+    </article>
+    
+    <!-- Sidebar -->
+    <aside class="lg:col-span-4 mt-8 lg:mt-0" role="complementary">
+      <div class="space-y-6">
+        
+        <!-- Sidebar Ad -->
+        {{ partial "ad-sidebar.html" . }}
+        
+        <!-- Popular Posts -->
+        <div class="bg-white rounded-xl border border-gray-100 p-5">
+          <h3 class="text-lg font-bold text-gray-900 mb-4">Popular Guides</h3>
+          <div class="space-y-3">
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <a href="{{ .Permalink }}" class="block group">
+              <h4 class="text-sm font-medium text-gray-800 group-hover:text-blue-700 line-clamp-2">{{ .Title }}</h4>
+              <p class="text-xs text-gray-400 mt-1">{{ .ReadingTime }} min read</p>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        
+        <!-- Newsletter CTA -->
+        <div class="bg-blue-50 rounded-xl p-5 border border-blue-100">
+          <h3 class="text-lg font-bold text-gray-900 mb-2">Stay Updated</h3>
+          <p class="text-sm text-gray-600 mb-4">Get the latest insurance tips and financial guides delivered weekly.</p>
+          <form class="space-y-2" action="#" method="post">
+            <input type="email" placeholder="your@email.com" class="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500" required>
+            <button type="submit" class="w-full px-3 py-2 bg-blue-700 text-white text-sm font-semibold rounded-lg hover:bg-blue-800 transition-colors">Subscribe Free</button>
+          </form>
+        </div>
+        
+        <!-- Second Sidebar Ad -->
+        {{ partial "ad-sidebar.html" . }}
+        
+      </div>
+    </aside>
+    
+  </div>
+</div>
+
+{{ end }}

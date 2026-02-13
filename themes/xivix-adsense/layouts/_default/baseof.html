@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}" itemscope itemtype="https://schema.org/WebPage">
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body class="font-sans antialiased bg-gray-50 text-gray-900">
+  {{- partial "header.html" . -}}
+  
+  <main id="main-content" role="main" class="min-h-screen">
+    {{- block "main" . }}{{- end }}
+  </main>
+
+  {{- partial "footer.html" . -}}
+  
+  <!-- Core Web Vitals optimized JS -->
+  <script defer src="/js/main.js"></script>
+  
+  <!-- AdSense Auto Ads -->
+  {{ if .Site.Params.adsensePublisher }}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsensePublisher }}" crossorigin="anonymous"></script>
+  {{ end }}
+  
+  <!-- Google Analytics 4 -->
+  {{ if .Site.Params.googleAnalytics }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ .Site.Params.googleAnalytics }}');
+  </script>
+  {{ end }}
+</body>
+</html>

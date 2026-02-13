@@ -1,0 +1,13 @@
+<!-- AdSense In-Article Ad Unit -->
+<!-- Place this between content sections for highest CTR -->
+{{ if .Site.Params.adsensePublisher }}
+<div class="adsense-container my-8 text-center" aria-label="Advertisement">
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="{{ .Site.Params.adsensePublisher }}"
+       data-ad-slot="XXXXXXXXXX"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{ end }}

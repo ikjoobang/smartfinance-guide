@@ -1,0 +1,82 @@
+baseURL = "https://smartfinance.guide/"
+languageCode = "en-us"
+title = "Smart Finance Guide — Insurance, Loans & AI Tools"
+theme = "xivix-adsense"
+
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = false
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[pagination]
+  pagerSize = 12
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+[params]
+  description = "Expert guides on insurance, personal finance, loans, and AI tools. Save money with our free calculators and comparison tools."
+  author = "Smart Finance Guide"
+  locale = "en_US"
+  adsensePublisher = "ca-pub-XXXXXXXXXXXXXXXX"
+  googleAnalytics = "G-XXXXXXXXXX"
+  keywords = ["car insurance", "life insurance", "personal finance", "loan calculator", "AI tools", "insurance comparison"]
+  ogImage = "/images/og-default.jpg"
+  twitterHandle = "@xivixtech"
+  allowAICrawlers = true
+  logo = "/images/logo.svg"
+  favicon = "/images/favicon.ico"
+
+[[menus.main]]
+  name = "Insurance"
+  url = "/categories/insurance/"
+  weight = 1
+[[menus.main]]
+  name = "Finance"
+  url = "/categories/finance/"
+  weight = 2
+[[menus.main]]
+  name = "AI Tools"
+  url = "/categories/ai-tools/"
+  weight = 3
+[[menus.main]]
+  name = "Calculators"
+  url = "/categories/calculators/"
+  weight = 4
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
+
+[[menus.footer]]
+  name = "Privacy Policy"
+  url = "/privacy-policy/"
+  weight = 1
+[[menus.footer]]
+  name = "Terms of Service"
+  url = "/terms/"
+  weight = 2
+[[menus.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3

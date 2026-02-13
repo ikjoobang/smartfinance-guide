@@ -1,0 +1,36 @@
+<footer class="bg-gray-900 text-gray-300 mt-16" role="contentinfo">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- About -->
+      <div>
+        <h3 class="text-white text-lg font-semibold mb-4">{{ .Site.Title }}</h3>
+        <p class="text-sm leading-relaxed">{{ .Site.Params.description }}</p>
+      </div>
+      
+      <!-- Categories -->
+      <div>
+        <h3 class="text-white text-lg font-semibold mb-4">Categories</h3>
+        <ul class="space-y-2 text-sm">
+          {{ range .Site.Taxonomies.categories }}
+          <li><a href="{{ .Page.Permalink }}" class="hover:text-white transition-colors">{{ .Page.Title }} ({{ .Count }})</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      
+      <!-- Links -->
+      <div>
+        <h3 class="text-white text-lg font-semibold mb-4">Legal</h3>
+        <ul class="space-y-2 text-sm">
+          {{ range .Site.Menus.footer }}
+          <li><a href="{{ .URL }}" class="hover:text-white transition-colors">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    
+    <div class="border-t border-gray-700 mt-8 pt-8 text-sm text-center">
+      <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
+      <p class="mt-2 text-xs text-gray-500">Powered by <a href="https://xivix.net" class="hover:text-gray-300" rel="noopener">XIVIX</a></p>
+    </div>
+  </div>
+</footer>

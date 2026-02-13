@@ -1,0 +1,94 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="bg-gradient-to-br from-blue-700 via-blue-800 to-indigo-900 text-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+    <div class="max-w-3xl">
+      <h1 class="text-3xl md:text-5xl font-extrabold leading-tight mb-4">
+        Save Money on Insurance, Loans & Discover the Best AI Tools
+      </h1>
+      <p class="text-lg md:text-xl text-blue-100 mb-8 leading-relaxed">
+        Expert guides, free calculators, and unbiased comparisons to help you make smarter financial decisions in 2026.
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/categories/insurance/" class="inline-flex items-center px-5 py-3 bg-white text-blue-800 font-semibold rounded-lg hover:bg-blue-50 transition-colors">
+          Insurance Guides
+        </a>
+        <a href="/categories/calculators/" class="inline-flex items-center px-5 py-3 bg-blue-600 text-white font-semibold rounded-lg border border-blue-400 hover:bg-blue-500 transition-colors">
+          Free Calculators
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Ad: Below Hero -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+  {{ partial "ad-in-article.html" . }}
+</div>
+
+<!-- Latest Posts -->
+<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-8">Latest Guides</h2>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
+    <article class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-md transition-shadow group">
+      {{ with .Params.image }}
+      <div class="aspect-w-16 aspect-h-9 overflow-hidden">
+        <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" loading="lazy" width="400" height="225">
+      </div>
+      {{ else }}
+      <div class="h-48 bg-gradient-to-br from-blue-100 to-indigo-100 flex items-center justify-center">
+        <svg class="w-12 h-12 text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+      </div>
+      {{ end }}
+      
+      <div class="p-5">
+        {{ with .Params.categories }}
+        <span class="inline-block px-2 py-1 text-xs font-semibold text-blue-700 bg-blue-50 rounded-full mb-3">{{ index . 0 }}</span>
+        {{ end }}
+        
+        <h3 class="text-lg font-bold text-gray-900 mb-2 line-clamp-2 group-hover:text-blue-700 transition-colors">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h3>
+        
+        <p class="text-sm text-gray-600 mb-3 line-clamp-2">{{ .Summary | plainify | truncate 120 }}</p>
+        
+        <div class="flex items-center justify-between text-xs text-gray-400">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          <span>{{ .ReadingTime }} min read</span>
+        </div>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+  
+  <div class="text-center mt-10">
+    <a href="/posts/" class="inline-flex items-center px-6 py-3 text-blue-700 font-semibold bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
+      View All Articles &rarr;
+    </a>
+  </div>
+</section>
+
+<!-- Categories Section -->
+<section class="bg-white border-t border-gray-100">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-8">Browse by Category</h2>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      <a href="{{ "/categories/" }}{{ $name | urlize }}/" class="p-6 bg-gray-50 rounded-xl text-center hover:bg-blue-50 hover:border-blue-200 border border-gray-100 transition-colors group">
+        <div class="text-2xl font-bold text-blue-700 mb-1">{{ len $taxonomy }}</div>
+        <div class="text-sm font-medium text-gray-700 group-hover:text-blue-700">{{ $name | humanize | title }}</div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- Bottom Ad -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+  {{ partial "ad-in-article.html" . }}
+</div>
+
+{{ end }}

@@ -1,0 +1,160 @@
+<!-- WebSite Schema (for all pages) -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.author }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.logo | absURL }}"
+    }
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ end }}
+
+<!-- Article Schema (for blog posts) -->
+{{ if and .IsPage (eq .Section "posts") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 200 }}{{ end }}",
+  "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ $.Site.Params.ogImage | absURL }}{{ end }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}",
+    "url": "{{ .Site.BaseURL }}about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.author }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.logo | absURL }}"
+    }
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "wordCount": {{ .WordCount }},
+  "articleSection": "{{ with .Params.categories }}{{ index . 0 }}{{ end }}"
+  {{ if .Params.faq }}
+  ,"hasPart": [
+    {{ range $i, $faq := .Params.faq }}
+    {{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+  {{ end }}
+}
+</script>
+
+<!-- FAQPage Schema (for posts with FAQ) -->
+{{ if .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := .Params.faq }}
+    {{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<!-- HowTo Schema (for posts with steps) -->
+{{ if .Params.howto }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "{{ .Params.howto.title | default .Title }}",
+  "description": "{{ .Params.howto.description | default .Description }}",
+  "totalTime": "{{ .Params.howto.time | default "PT10M" }}",
+  "step": [
+    {{ range $i, $step := .Params.howto.steps }}
+    {{ if $i }},{{ end }}
+    {
+      "@type": "HowToStep",
+      "position": {{ add $i 1 }},
+      "name": "{{ $step.name }}",
+      "text": "{{ $step.text }}"
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}
+
+<!-- BreadcrumbList Schema (for all pages except home) -->
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{ if .Params.categories }}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ index .Params.categories 0 }}",
+      "item": "{{ .Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize }}/"
+    }
+    ,{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{ else }}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}

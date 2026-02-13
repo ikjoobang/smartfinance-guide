@@ -1,0 +1,18 @@
+# Smart Finance Guide
+> Expert guides on insurance, personal finance, loans, and AI tools.
+
+## About
+Smart Finance Guide provides free, expert-reviewed financial guides to help consumers make informed decisions about insurance, loans, and financial products.
+
+## Content Categories
+- Insurance (car, life, health, home)
+- Personal Finance (loans, credit, budgeting)
+- AI Tools (comparisons, reviews, guides)
+- Calculators (insurance, loan, budget tools)
+
+## Contact
+- Website: https://smartfinance.guide
+- Email: hello@smartfinance.guide
+
+## Sitemap
+- https://smartfinance.guide/sitemap.xml
