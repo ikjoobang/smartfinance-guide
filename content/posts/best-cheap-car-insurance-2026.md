@@ -7,7 +7,7 @@ categories: ["insurance"]
 tags: ["car insurance", "auto insurance", "cheap car insurance", "insurance comparison", "save money"]
 keywords: ["cheap car insurance", "best car insurance 2026", "car insurance comparison", "auto insurance rates", "car insurance quotes"]
 author: "Smart Finance Guide"
-image: "https://images.unsplash.com/photo-1449965408869-ebd3fee7c1f0?w=800&h=450&fit=crop"
+image: "/images/car-insurance.jpg"
 toc: true
 takeaways:
   - "The average American pays $2,014/year for full coverage car insurance in 2026"

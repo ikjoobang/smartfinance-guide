@@ -7,7 +7,7 @@ categories: ["insurance"]
 tags: ["home insurance", "homeowners insurance", "property insurance", "best home insurance"]
 keywords: ["best home insurance 2026", "cheapest homeowners insurance", "home insurance comparison", "homeowners insurance rates"]
 author: "Smart Finance Guide"
-image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=450&fit=crop"
+image: "/images/home-insurance.jpg"
 toc: true
 takeaways:
   - "The average homeowners insurance premium in 2026 is $2,377/year nationally"

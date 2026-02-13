@@ -7,7 +7,7 @@ categories: ["finance"]
 tags: ["personal loans", "debt consolidation", "low interest loans", "best loans 2026"]
 keywords: ["best personal loans 2026", "low interest personal loan", "debt consolidation loan", "personal loan comparison"]
 author: "Smart Finance Guide"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=450&fit=crop"
+image: "/images/personal-loans.jpg"
 toc: true
 takeaways:
   - "The best personal loan rates in 2026 start at 5.99% APR for excellent credit borrowers"
