@@ -60,13 +60,9 @@ enableEmoji = false
   url = "/categories/ai-tools/"
   weight = 3
 [[menus.main]]
-  name = "Calculators"
-  url = "/categories/calculators/"
-  weight = 4
-[[menus.main]]
   name = "About"
   url = "/about/"
-  weight = 5
+  weight = 4
 
 [[menus.footer]]
   name = "Privacy Policy"
