@@ -7,6 +7,7 @@ categories: ["insurance"]
 tags: ["life insurance", "term life insurance", "life insurance calculator", "insurance guide"]
 keywords: ["how much life insurance do I need", "life insurance calculator", "cheap life insurance", "term life insurance rates 2026", "best life insurance companies"]
 author: "Smart Finance Guide"
+image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop"
 toc: true
 takeaways:
   - "Most financial experts recommend 10-15x your annual income in life insurance coverage"

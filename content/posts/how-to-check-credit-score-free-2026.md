@@ -7,6 +7,7 @@ categories: ["finance"]
 tags: ["credit score", "free credit score", "improve credit score", "FICO score"]
 keywords: ["free credit score", "check credit score", "improve credit score fast", "how to raise credit score"]
 author: "Smart Finance Guide"
+image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=450&fit=crop"
 toc: true
 takeaways:
   - "You can check your credit score completely free through Credit Karma, Discover, or AnnualCreditReport.com"
