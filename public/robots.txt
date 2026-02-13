@@ -21,4 +21,4 @@ Allow: /
 User-agent: Bytespider
 Disallow: /
 
-Sitemap: https://smartfinance-guide.pages.dev/sitemap.xml
+Sitemap: https://blog.studiojuai-global.com/sitemap.xml
