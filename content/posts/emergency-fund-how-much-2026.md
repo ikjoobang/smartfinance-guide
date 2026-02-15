@@ -3,7 +3,7 @@ title: "Emergency Fund — How Much Do You Really Need in 2026?"
 description: "emergency fund — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
 date: 2026-02-14T09:00:00-05:00
 lastmod: 2026-02-14T09:00:00-05:00
-draft: true
+draft: false
 categories: ["Finance"]
 tags: ["how much emergency fund", "emergency savings", "emergency-fund", "emergency-2026"]
 keywords: ["emergency fund calculator 2026", "how to build emergency fund fast"]

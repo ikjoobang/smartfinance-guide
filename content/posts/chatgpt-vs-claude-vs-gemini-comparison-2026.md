@@ -3,7 +3,7 @@ title: "ChatGPT vs Claude vs Gemini 2026 — Ultimate AI Comparison"
 description: "ChatGPT vs Claude vs Gemini — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
 date: 2026-02-14T09:00:00-05:00
 lastmod: 2026-02-14T09:00:00-05:00
-draft: true
+draft: false
 categories: ["AI Tools"]
 tags: ["best AI chatbot 2026", "AI comparison", "chatgpt-vs-claude-vs-gemini", "chatgpt-2026"]
 keywords: ["which AI is best for writing 2026", "ChatGPT vs Claude for coding"]
