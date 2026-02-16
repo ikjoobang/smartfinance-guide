@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["vision insurance", "eye care coverage", "vision insurance 2026", "best vision insurance"]
 keywords: ["vision insurance 2026", "best eye care coverage", "vision insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/vision-insurance-guide-2026.png"
+image: "/images/posts/vision-insurance-guide-2026.webp"
 toc: true
 ---
 

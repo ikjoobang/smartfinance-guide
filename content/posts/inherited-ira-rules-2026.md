@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["inherited-IRA", "beneficiary-IRA-rules", "inherited-ira-rules", "finance-guide", "money-2026"]
 keywords: ["inherited IRA guide 2026", "best beneficiary IRA rules 2026", "inherited IRA comparison"]
 author: "Finance Expert"
-image: "/images/posts/inherited-ira-rules-2026.png"
+image: "/images/posts/inherited-ira-rules-2026.webp"
 toc: true
 ---
 

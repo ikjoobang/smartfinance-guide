@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["insurance-after-accident", "car-accident-insurance-rate", "car-insurance-after-accident", "finance-guide", "money-2026"]
 keywords: ["insurance after accident guide 2026", "best car accident insurance rate 2026", "insurance after accident comparison"]
 author: "Finance Expert"
-image: "/images/posts/car-insurance-after-accident-2026.png"
+image: "/images/posts/car-insurance-after-accident-2026.webp"
 toc: true
 ---
 

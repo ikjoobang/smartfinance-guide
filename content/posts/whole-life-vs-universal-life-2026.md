@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["whole-life-vs-universal", "permanent-life-insurance", "whole-life-vs-universal-life", "finance-guide", "money-2026"]
 keywords: ["whole life vs universal guide 2026", "best permanent life insurance 2026", "whole life vs universal comparison"]
 author: "Finance Expert"
-image: "/images/posts/whole-life-vs-universal-life-2026.png"
+image: "/images/posts/whole-life-vs-universal-life-2026.webp"
 toc: true
 ---
 

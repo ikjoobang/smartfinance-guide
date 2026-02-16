@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["no exam life insurance", "instant life insurance approval", "no exam life insurance 2026", "best no exam life insurance"]
 keywords: ["no exam life insurance 2026", "best instant life insurance approval", "no exam life insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/no-exam-life-insurance-2026.png"
+image: "/images/posts/no-exam-life-insurance-2026.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["first time home buyer", "home buyer assistance programs", "first time home buyer 2026", "best first time home buyer"]
 keywords: ["first time home buyer 2026", "best home buyer assistance programs", "first time home buyer comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/first-time-home-buyer-2026.png"
+image: "/images/posts/first-time-home-buyer-2026.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["high-yield-checking", "interest-checking-account", "best-high-yield-checking", "finance-guide", "money-2026"]
 keywords: ["high yield checking guide 2026", "best interest checking account 2026", "high yield checking comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-high-yield-checking-2026.png"
+image: "/images/posts/best-high-yield-checking-2026.webp"
 toc: true
 ---
 

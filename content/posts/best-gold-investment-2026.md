@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["gold-investment", "buy-gold-online", "best-gold-investment", "finance-guide", "money-2026"]
 keywords: ["gold investment guide 2026", "best buy gold online 2026", "gold investment comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-gold-investment-2026.png"
+image: "/images/posts/best-gold-investment-2026.webp"
 toc: true
 ---
 

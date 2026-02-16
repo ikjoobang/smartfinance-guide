@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["identity theft protection", "identity monitoring services", "identity theft protection 2026", "best identity theft protection"]
 keywords: ["identity theft protection 2026", "best identity monitoring services", "identity theft protection comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/identity-theft-protection-2026.png"
+image: "/images/posts/identity-theft-protection-2026.webp"
 toc: true
 ---
 

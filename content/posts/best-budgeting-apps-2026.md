@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["budgeting apps", "personal finance apps", "budgeting apps 2026", "best budgeting apps"]
 keywords: ["budgeting apps 2026", "best personal finance apps", "budgeting apps comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/best-budgeting-apps-2026.png"
+image: "/images/posts/best-budgeting-apps-2026.webp"
 toc: true
 ---
 

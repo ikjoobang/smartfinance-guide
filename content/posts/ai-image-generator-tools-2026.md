@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["AI image generators", "AI art tools", "AI image generators 2026", "best AI image generators"]
 keywords: ["AI image generators 2026", "best AI art tools", "AI image generators comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/ai-image-generator-tools-2026.png"
+image: "/images/posts/ai-image-generator-tools-2026.webp"
 toc: true
 ---
 

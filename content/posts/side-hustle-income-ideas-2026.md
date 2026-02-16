@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["side hustle ideas", "extra income ideas", "side hustle ideas 2026", "best side hustle ideas"]
 keywords: ["side hustle ideas 2026", "best extra income ideas", "side hustle ideas comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/side-hustle-income-ideas-2026.png"
+image: "/images/posts/side-hustle-income-ideas-2026.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["life-insurance-amount", "life-insurance-calculator", "how-much-life-insurance-need", "finance-guide", "money-2026"]
 keywords: ["life insurance amount guide 2026", "best life insurance calculator 2026", "life insurance amount comparison"]
 author: "Finance Expert"
-image: "/images/posts/how-much-life-insurance-need-2026.png"
+image: "/images/posts/how-much-life-insurance-need-2026.webp"
 toc: true
 ---
 

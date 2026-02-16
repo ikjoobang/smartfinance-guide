@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["401k vs IRA", "retirement account comparison", "401k vs IRA 2026", "best 401k vs IRA"]
 keywords: ["401k vs IRA 2026", "best retirement account comparison", "401k vs IRA comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/401k-vs-ira-comparison-2026.png"
+image: "/images/posts/401k-vs-ira-comparison-2026.webp"
 toc: true
 ---
 

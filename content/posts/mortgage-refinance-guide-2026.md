@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["mortgage refinance", "home loan refinancing", "mortgage refinance 2026", "best mortgage refinance"]
 keywords: ["mortgage refinance 2026", "best home loan refinancing", "mortgage refinance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/mortgage-refinance-guide-2026.png"
+image: "/images/posts/mortgage-refinance-guide-2026.webp"
 toc: true
 ---
 

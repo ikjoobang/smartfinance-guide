@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["dental insurance", "dental coverage plans", "dental insurance 2026", "best dental insurance"]
 keywords: ["dental insurance 2026", "best dental coverage plans", "dental insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/best-dental-insurance-plans-2026.png"
+image: "/images/posts/best-dental-insurance-plans-2026.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["negotiate-medical-bills", "reduce-hospital-bills", "how-to-negotiate-medical-bills", "finance-guide", "money-2026"]
 keywords: ["negotiate medical bills guide 2026", "best reduce hospital bills 2026", "negotiate medical bills comparison"]
 author: "Finance Expert"
-image: "/images/posts/how-to-negotiate-medical-bills-2026.png"
+image: "/images/posts/how-to-negotiate-medical-bills-2026.webp"
 toc: true
 ---
 

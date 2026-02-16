@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["robo-advisor", "automated-investing", "best-robo-advisors", "finance-guide", "money-2026"]
 keywords: ["robo advisor guide 2026", "best automated investing 2026", "robo advisor comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-robo-advisors-2026.png"
+image: "/images/posts/best-robo-advisors-2026.webp"
 toc: true
 ---
 

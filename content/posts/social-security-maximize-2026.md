@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["maximize-social-security", "social-security-strategy", "social-security-maximize", "finance-guide", "money-2026"]
 keywords: ["maximize social security guide 2026", "best social security strategy 2026", "maximize social security comparison"]
 author: "Finance Expert"
-image: "/images/posts/social-security-maximize-2026.png"
+image: "/images/posts/social-security-maximize-2026.webp"
 toc: true
 ---
 

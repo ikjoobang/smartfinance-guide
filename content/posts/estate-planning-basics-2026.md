@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["estate-planning", "will-and-trust", "estate-planning-basics", "finance-guide", "money-2026"]
 keywords: ["estate planning guide 2026", "best will and trust 2026", "estate planning comparison"]
 author: "Finance Expert"
-image: "/images/posts/estate-planning-basics-2026.png"
+image: "/images/posts/estate-planning-basics-2026.webp"
 toc: true
 ---
 

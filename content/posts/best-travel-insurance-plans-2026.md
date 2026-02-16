@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["travel insurance", "trip protection insurance", "travel insurance 2026", "best travel insurance"]
 keywords: ["travel insurance 2026", "best trip protection insurance", "travel insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/best-travel-insurance-plans-2026.png"
+image: "/images/posts/best-travel-insurance-plans-2026.webp"
 toc: true
 ---
 

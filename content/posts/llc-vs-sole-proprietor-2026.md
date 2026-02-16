@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["LLC-vs-sole-proprietor", "business-structure", "llc-vs-sole-proprietor", "finance-guide", "money-2026"]
 keywords: ["LLC vs sole proprietor guide 2026", "best business structure 2026", "LLC vs sole proprietor comparison"]
 author: "Finance Expert"
-image: "/images/posts/llc-vs-sole-proprietor-2026.png"
+image: "/images/posts/llc-vs-sole-proprietor-2026.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["AI-finance-tools", "AI-budgeting", "ai-personal-finance-tools", "finance-guide", "money-2026"]
 keywords: ["AI finance tools guide 2026", "best AI budgeting 2026", "AI finance tools comparison"]
 author: "Finance Expert"
-image: "/images/posts/ai-personal-finance-tools-2026.png"
+image: "/images/posts/ai-personal-finance-tools-2026.webp"
 toc: true
 ---
 

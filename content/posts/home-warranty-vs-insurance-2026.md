@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["home warranty", "home warranty vs insurance", "home warranty 2026", "best home warranty"]
 keywords: ["home warranty 2026", "best home warranty vs insurance", "home warranty comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/home-warranty-vs-insurance-2026.png"
+image: "/images/posts/home-warranty-vs-insurance-2026.webp"
 toc: true
 ---
 

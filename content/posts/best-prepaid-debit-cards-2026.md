@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["prepaid-debit-card", "no-bank-account-card", "best-prepaid-debit-cards", "finance-guide", "money-2026"]
 keywords: ["prepaid debit card guide 2026", "best no bank account card 2026", "prepaid debit card comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-prepaid-debit-cards-2026.png"
+image: "/images/posts/best-prepaid-debit-cards-2026.webp"
 toc: true
 ---
 
