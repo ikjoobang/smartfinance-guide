@@ -7,8 +7,6 @@ enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = false
 
-disableKinds = ["sitemap"]
-
 [taxonomies]
   category = "categories"
   tag = "tags"
