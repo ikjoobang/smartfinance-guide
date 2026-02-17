@@ -1,8 +1,8 @@
 ---
 title: "Best Bond Funds for Income — Your Complete 2026 Guide"
 description: "Compare best bond funds options for 2026. Expert analysis of bond fund investing, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-04T07:30:00-05:00
+lastmod: 2026-02-04T07:30:00-05:00
 draft: false
 categories: ["Investing"]
 tags: ["best bond funds", "bond fund investing", "Bond Funds", "personal finance 2026", "money management"]
