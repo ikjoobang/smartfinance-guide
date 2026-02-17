@@ -9,11 +9,6 @@ enableEmoji = false
 
 disableKinds = ["sitemap"]
 
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
-
 [taxonomies]
   category = "categories"
   tag = "tags"
