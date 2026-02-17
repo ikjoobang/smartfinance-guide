@@ -1,8 +1,8 @@
 ---
 title: "Home Equity Loan vs HELOC — Your Complete 2026 Guide"
 description: "Compare the home equity loan vs HELOC options for 2026. Expert analysis of home equity line of credit, costs, pros and cons. Find the best home equity loan vs HELOC strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-11T14:58:00+09:00
+lastmod: 2026-02-11T14:58:00+09:00
 draft: false
 categories: ["Loans"]
 tags: ["home equity loan vs HELOC", "home equity line of credit", "HELOC Guide", "personal finance 2026", "money management"]

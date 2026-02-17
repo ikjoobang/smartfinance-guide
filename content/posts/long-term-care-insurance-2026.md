@@ -1,8 +1,8 @@
 ---
 title: "Long Term Care Insurance Guide 2026 — Complete Comparison & Expert Picks"
 description: "Long Term Care Insurance Guide 2026. Compare top options, costs, and coverage. Expert recommendations for long term care insurance to help you save money and get the best protection."
-date: 2026-02-13T21:00:00-05:00
-lastmod: 2026-02-13T21:00:00-05:00
+date: 2026-02-12T15:19:00+09:00
+lastmod: 2026-02-12T15:19:00+09:00
 draft: false
 categories: ["Insurance & Finance"]
 tags: ["long term care insurance", "LTC insurance", "long term care insurance 2026", "best long term care insurance"]

@@ -1,8 +1,8 @@
 ---
 title: "Medical Debt Relief Guide — Your Complete 2026 Guide"
 description: "Compare the medical debt relief options for 2026. Expert analysis of hospital bill negotiation, costs, pros and cons. Find the best medical debt relief strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-12T18:57:00+09:00
+lastmod: 2026-02-12T18:57:00+09:00
 draft: false
 categories: ["Debt"]
 tags: ["medical debt relief", "hospital bill negotiation", "Medical Debt", "personal finance 2026", "money management"]

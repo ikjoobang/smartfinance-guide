@@ -1,8 +1,8 @@
 ---
 title: "Convertible Bond Investing Guide — Your Complete 2026 Guide"
 description: "Compare convertible bonds options for 2026. Expert analysis of convertible bond funds, costs, pros and cons. Find the best convertible bonds strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-10T12:46:00+09:00
+lastmod: 2026-02-10T12:46:00+09:00
 draft: false
 categories: ["Investing"]
 tags: ["convertible bonds", "convertible bond funds", "Convertible Bonds", "personal finance 2026", "money management"]

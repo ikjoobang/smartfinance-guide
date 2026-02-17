@@ -1,8 +1,8 @@
 ---
 title: "Best Total Market Funds — Your Complete 2026 Guide"
 description: "Compare total market fund options for 2026. Expert analysis of total stock market fund, costs, pros and cons. Find the best total market fund strategy."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-09T12:08:00+09:00
+lastmod: 2026-02-09T12:08:00+09:00
 draft: false
 categories: ["Investing"]
 tags: ["total market fund", "total stock market fund", "Total Market Fund", "personal finance 2026", "money management"]

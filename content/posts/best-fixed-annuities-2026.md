@@ -1,8 +1,8 @@
 ---
 title: "Best Fixed Annuities — Your Complete 2026 Guide"
 description: "Compare best fixed annuities options for 2026. Expert analysis of guaranteed annuity rates, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-05T16:38:00+09:00
+lastmod: 2026-02-05T16:38:00+09:00
 draft: false
 categories: ["Retirement"]
 tags: ["best fixed annuities", "guaranteed annuity rates", "Fixed Annuities", "personal finance 2026", "money management"]

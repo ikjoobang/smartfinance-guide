@@ -1,8 +1,8 @@
 ---
 title: "Pension Plan Types Explained — Your Complete 2026 Guide"
 description: "Compare pension plan types options for 2026. Expert analysis of defined benefit plan, costs, pros and cons. Find the best pension plan types strategy."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-13T14:22:00+09:00
+lastmod: 2026-02-13T14:22:00+09:00
 draft: false
 categories: ["Retirement"]
 tags: ["pension plan types", "defined benefit plan", "Pension Plans", "personal finance 2026", "money management"]

@@ -1,8 +1,8 @@
 ---
 title: "Zero-Based Budgeting Guide — Your Complete 2026 Guide"
 description: "Compare zero based budgeting options for 2026. Expert analysis of budgeting method, costs, pros and cons. Find the best zero based budgeting strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-16T10:08:00+09:00
+lastmod: 2026-02-16T10:08:00+09:00
 draft: false
 categories: ["Budgeting"]
 tags: ["zero based budgeting", "budgeting method", "Zero-Based Budget", "personal finance 2026", "money management"]

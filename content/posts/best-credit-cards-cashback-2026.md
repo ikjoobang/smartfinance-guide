@@ -1,8 +1,8 @@
 ---
 title: "Best Cash Back Credit Cards 2026 — Earn Up to 5% on Everything"
 description: "best cash back credit cards — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-05T16:50:00-05:00
-lastmod: 2026-02-05T16:50:00-05:00
+date: 2026-02-04T14:35:00+09:00
+lastmod: 2026-02-04T14:35:00+09:00
 draft: false
 categories: ["Credit"]
 tags: ["cashback rewards cards", "best rewards credit cards", "best-cash-back-credit-cards", "best-2026"]

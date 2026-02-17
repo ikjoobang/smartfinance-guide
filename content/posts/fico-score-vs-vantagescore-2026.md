@@ -1,8 +1,8 @@
 ---
 title: "FICO Score vs VantageScore 2026 — Complete Guide & Expert Comparison"
 description: "FICO Score vs VantageScore 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-11T09:41:00+09:00
+lastmod: 2026-02-11T09:41:00+09:00
 draft: false
 categories: ["Finance Guide"]
 tags: ["FICO-vs-VantageScore", "credit-score-difference", "fico-score-vs-vantagescore", "finance-guide", "money-2026"]

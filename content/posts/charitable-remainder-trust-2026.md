@@ -1,8 +1,8 @@
 ---
 title: "Charitable Remainder Trust Guide — Your Complete 2026 Guide"
 description: "Compare charitable remainder trust options for 2026. Expert analysis of CRT tax benefits, costs, pros and cons. Find the best charitable remainder trust strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-09T18:43:00+09:00
+lastmod: 2026-02-09T18:43:00+09:00
 draft: false
 categories: ["Taxes"]
 tags: ["charitable remainder trust", "CRT tax benefits", "CRT Guide", "personal finance 2026", "money management"]

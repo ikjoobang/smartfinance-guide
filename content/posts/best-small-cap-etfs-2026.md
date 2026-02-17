@@ -1,8 +1,8 @@
 ---
 title: "Best Small-Cap ETFs — Your Complete 2026 Guide"
 description: "Compare best small cap ETFs options for 2026. Expert analysis of small cap investing, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-08T19:44:00+09:00
+lastmod: 2026-02-08T19:44:00+09:00
 draft: false
 categories: ["Investing"]
 tags: ["best small cap ETFs", "small cap investing", "Small-Cap ETFs", "personal finance 2026", "money management"]

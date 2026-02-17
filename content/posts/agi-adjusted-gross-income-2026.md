@@ -1,8 +1,8 @@
 ---
 title: "Adjusted Gross Income Guide — Your Complete 2026 Guide"
 description: "Compare adjusted gross income options for 2026. Expert analysis of AGI calculation, costs, pros and cons. Find the best adjusted gross income strategy for your situation."
-date: 2026-02-03T15:03:00-05:00
-lastmod: 2026-02-03T15:03:00-05:00
+date: 2026-02-03T15:01:00+09:00
+lastmod: 2026-02-03T15:01:00+09:00
 draft: false
 categories: ["Taxes"]
 tags: ["adjusted gross income", "AGI calculation", "AGI Guide", "personal finance 2026", "money management"]

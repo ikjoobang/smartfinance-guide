@@ -1,8 +1,8 @@
 ---
 title: "Best Personal Loans for Bad Credit — Your Complete 2026 Guide"
 description: "Compare personal loans bad credit options for 2026. Expert analysis of bad credit lending, costs, pros and cons. Find the best personal loans bad credit strategy."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-07T16:14:00+09:00
+lastmod: 2026-02-07T16:14:00+09:00
 draft: false
 categories: ["Loans"]
 tags: ["personal loans bad credit", "bad credit lending", "Bad Credit Loans", "personal finance 2026", "money management"]

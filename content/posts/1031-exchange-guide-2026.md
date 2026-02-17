@@ -1,8 +1,8 @@
 ---
 title: "1031 Exchange Guide — Your Complete 2026 Guide"
 description: "Compare 1031 exchange options for 2026. Expert analysis of like kind exchange, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-03T17:26:00-05:00
-lastmod: 2026-02-03T17:26:00-05:00
+date: 2026-02-03T09:25:00+09:00
+lastmod: 2026-02-03T09:25:00+09:00
 draft: false
 categories: ["Taxes"]
 tags: ["1031 exchange", "like kind exchange", "1031 Exchange", "personal finance 2026", "money management"]

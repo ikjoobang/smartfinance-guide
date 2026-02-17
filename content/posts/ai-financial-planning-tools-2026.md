@@ -1,8 +1,8 @@
 ---
 title: "Best AI Financial Planning Tools — Your Complete 2026 Guide"
 description: "Compare AI financial planning options for 2026. Expert analysis of AI investment tools, costs, pros and cons. Find the best AI financial planning strategy."
-date: 2026-02-03T10:17:00-05:00
-lastmod: 2026-02-03T10:17:00-05:00
+date: 2026-02-03T15:35:00+09:00
+lastmod: 2026-02-03T15:35:00+09:00
 draft: false
 categories: ["Tools"]
 tags: ["AI financial planning", "AI investment tools", "AI Finance Tools", "personal finance 2026", "money management"]

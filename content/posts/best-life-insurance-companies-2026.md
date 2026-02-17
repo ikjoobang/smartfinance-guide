@@ -1,8 +1,8 @@
 ---
 title: "10 Best Life Insurance Companies 2026 — Rates from $12/Month"
 description: "best life insurance companies — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-14T09:00:00-05:00
-lastmod: 2026-02-14T09:00:00-05:00
+date: 2026-02-06T20:52:00+09:00
+lastmod: 2026-02-06T20:52:00+09:00
 draft: false
 categories: ["Insurance"]
 tags: ["affordable life insurance", "term life insurance rates", "best-life-insurance-companies", "best-2026"]

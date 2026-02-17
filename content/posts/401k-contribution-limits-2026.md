@@ -1,8 +1,8 @@
 ---
 title: "401k Contribution Limits Guide — Your Complete 2026 Guide"
 description: "Compare 401k contribution limits options for 2026. Expert analysis of 401k max contribution, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-03T20:45:00-05:00
-lastmod: 2026-02-03T20:45:00-05:00
+date: 2026-02-03T09:39:00+09:00
+lastmod: 2026-02-03T09:39:00+09:00
 draft: false
 categories: ["Retirement"]
 tags: ["401k contribution limits", "401k max contribution", "401k Limits", "personal finance 2026", "money management"]

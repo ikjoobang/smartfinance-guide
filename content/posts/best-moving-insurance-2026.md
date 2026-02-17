@@ -1,8 +1,8 @@
 ---
 title: "Best Moving Insurance Options — Your Complete 2026 Guide"
 description: "Compare the moving insurance options for 2026. Expert analysis of relocation coverage, costs, pros and cons. Find the best moving insurance strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-07T10:03:00+09:00
+lastmod: 2026-02-07T10:03:00+09:00
 draft: false
 categories: ["Insurance"]
 tags: ["moving insurance", "relocation coverage", "Moving Insurance", "personal finance 2026", "money management"]

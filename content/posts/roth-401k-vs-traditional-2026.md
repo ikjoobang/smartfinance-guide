@@ -1,8 +1,8 @@
 ---
 title: "Roth 401k vs Traditional 401k — Your Complete 2026 Guide"
 description: "Compare the Roth 401k vs traditional options for 2026. Expert analysis of 401k comparison, costs, pros and cons. Find the best Roth 401k vs traditional strategy for your situation."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-13T20:58:00+09:00
+lastmod: 2026-02-13T20:58:00+09:00
 draft: false
 categories: ["Tax & Retirement"]
 tags: ["Roth 401k vs traditional", "401k comparison", "401k Comparison", "personal finance 2026", "money management"]

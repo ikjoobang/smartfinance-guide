@@ -1,8 +1,8 @@
 ---
 title: "Adjustable Rate Mortgage Guide — Your Complete 2026 Guide"
 description: "Compare adjustable rate mortgage options for 2026. Expert analysis of ARM loan guide, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-03T11:09:00-05:00
-lastmod: 2026-02-03T11:09:00-05:00
+date: 2026-02-03T14:00:00+09:00
+lastmod: 2026-02-03T14:00:00+09:00
 draft: false
 categories: ["Loans"]
 tags: ["adjustable rate mortgage", "ARM loan guide", "ARM Guide", "personal finance 2026", "money management"]

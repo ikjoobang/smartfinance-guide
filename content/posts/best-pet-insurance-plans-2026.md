@@ -1,8 +1,8 @@
 ---
 title: "Best Pet Insurance Plans 2026 — Complete Comparison & Expert Picks"
 description: "Best Pet Insurance Plans 2026. Compare top options, costs, and coverage. Expert recommendations for pet insurance to help you save money and get the best protection."
-date: 2026-02-14T21:00:00-05:00
-lastmod: 2026-02-14T21:00:00-05:00
+date: 2026-02-07T18:23:00+09:00
+lastmod: 2026-02-07T18:23:00+09:00
 draft: false
 categories: ["Insurance & Finance"]
 tags: ["pet insurance", "pet health coverage", "pet insurance 2026", "best pet insurance"]

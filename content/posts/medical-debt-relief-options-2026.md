@@ -1,8 +1,8 @@
 ---
 title: "Medical Debt Relief Options 2026 — How to Negotiate and Reduce Hospital Bills"
 description: "Medical debt relief options and hospital bill negotiation strategies for 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-02-16T10:00:00-05:00
-lastmod: 2026-02-16T10:00:00-05:00
+date: 2026-02-13T09:21:00+09:00
+lastmod: 2026-02-13T09:21:00+09:00
 draft: false
 categories:
   - "Finance"

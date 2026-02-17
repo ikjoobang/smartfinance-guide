@@ -1,8 +1,8 @@
 ---
 title: "Best CD Rates 2026 — Complete Comparison & Expert Picks"
 description: "Best CD Rates 2026. Compare top options, costs, and coverage. Expert recommendations for CD rates to help you save money and get the best protection."
-date: 2026-02-04T16:25:00-05:00
-lastmod: 2026-02-04T16:25:00-05:00
+date: 2026-02-04T12:30:00+09:00
+lastmod: 2026-02-04T12:30:00+09:00
 draft: false
 categories: ["Insurance & Finance"]
 tags: ["CD rates", "certificate of deposit rates", "CD rates 2026", "best CD rates"]

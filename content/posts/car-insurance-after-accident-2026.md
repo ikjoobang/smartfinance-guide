@@ -1,8 +1,8 @@
 ---
 title: "Car Insurance After an Accident 2026 — Complete Guide & Expert Comparison"
 description: "Car Insurance After an Accident 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-09T16:58:00+09:00
+lastmod: 2026-02-09T16:58:00+09:00
 draft: false
 categories: ["Finance Guide"]
 tags: ["insurance-after-accident", "car-accident-insurance-rate", "car-insurance-after-accident", "finance-guide", "money-2026"]

@@ -1,8 +1,8 @@
 ---
 title: "Mega Backdoor Roth Strategy — Your Complete 2026 Guide"
 description: "Compare the mega backdoor Roth options for 2026. Expert analysis of after-tax 401k, costs, pros and cons. Find the best mega backdoor Roth strategy for your situation."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-13T11:17:00+09:00
+lastmod: 2026-02-13T11:17:00+09:00
 draft: false
 categories: ["Tax & Retirement"]
 tags: ["mega backdoor Roth", "after-tax 401k", "Mega Backdoor Roth", "personal finance 2026", "money management"]

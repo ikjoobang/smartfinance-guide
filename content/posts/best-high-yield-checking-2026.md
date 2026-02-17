@@ -1,8 +1,8 @@
 ---
 title: "Best High-Yield Checking Accounts 2026 — Complete Guide & Expert Comparison"
 description: "Best High-Yield Checking Accounts 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-05T20:49:00+09:00
+lastmod: 2026-02-05T20:49:00+09:00
 draft: false
 categories: ["Finance Guide"]
 tags: ["high-yield-checking", "interest-checking-account", "best-high-yield-checking", "finance-guide", "money-2026"]

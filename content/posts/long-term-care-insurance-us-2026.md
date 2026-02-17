@@ -1,8 +1,8 @@
 ---
 title: "Long-Term Care Insurance Guide — Your Complete 2026 Guide"
 description: "Compare the long term care insurance options for 2026. Expert analysis of LTC insurance cost, costs, pros and cons. Find the best long term care insurance strategy for your situation."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-12T18:23:00+09:00
+lastmod: 2026-02-12T18:23:00+09:00
 draft: false
 categories: ["Insurance"]
 tags: ["long term care insurance", "LTC insurance cost", "LTC Insurance", "personal finance 2026", "money management"]

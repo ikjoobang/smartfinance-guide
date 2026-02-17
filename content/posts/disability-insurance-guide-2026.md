@@ -1,8 +1,8 @@
 ---
 title: "Disability Insurance 2026 — Why 1 in 4 Workers Will Need It"
 description: "disability insurance — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-14T09:00:00-05:00
-lastmod: 2026-02-14T09:00:00-05:00
+date: 2026-02-10T15:19:00+09:00
+lastmod: 2026-02-10T15:19:00+09:00
 draft: false
 categories: ["Insurance"]
 tags: ["long term disability insurance", "short term disability", "disability-insurance", "disability-2026"]

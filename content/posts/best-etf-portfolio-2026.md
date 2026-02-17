@@ -1,8 +1,8 @@
 ---
 title: "Best ETF Portfolio Strategy — Your Complete 2026 Guide"
 description: "Compare best ETF portfolio options for 2026. Expert analysis of ETF investing strategy, costs, pros and cons. Find the best best ETF portfolio strategy."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-05T15:41:00+09:00
+lastmod: 2026-02-05T15:41:00+09:00
 draft: false
 categories: ["Investing"]
 tags: ["best ETF portfolio", "ETF investing strategy", "ETF Portfolio", "personal finance 2026", "money management"]

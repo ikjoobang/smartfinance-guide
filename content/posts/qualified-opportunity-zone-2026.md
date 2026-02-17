@@ -1,8 +1,8 @@
 ---
 title: "Qualified Opportunity Zone Investing — Your Complete 2026 Guide"
 description: "Compare opportunity zone investing options for 2026. Expert analysis of QOZ tax benefits, costs, pros and cons. Find the best opportunity zone investing strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-13T15:27:00+09:00
+lastmod: 2026-02-13T15:27:00+09:00
 draft: false
 categories: ["Investing"]
 tags: ["opportunity zone investing", "QOZ tax benefits", "Opportunity Zone", "personal finance 2026", "money management"]

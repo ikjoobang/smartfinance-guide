@@ -1,8 +1,8 @@
 ---
 title: "How Much Life Insurance Do I Need 2026 — Complete Guide & Expert Comparison"
 description: "How Much Life Insurance Do I Need 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-11T16:31:00+09:00
+lastmod: 2026-02-11T16:31:00+09:00
 draft: false
 categories: ["Finance Guide"]
 tags: ["life-insurance-amount", "life-insurance-calculator", "how-much-life-insurance-need", "finance-guide", "money-2026"]

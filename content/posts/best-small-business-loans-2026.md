@@ -1,8 +1,8 @@
 ---
 title: "Best Small Business Loans 2026 — Compare Rates and Fast Funding Options"
 description: "Best small business loans compared by rates, terms, and speed for 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-02-16T10:00:00-05:00
-lastmod: 2026-02-16T10:00:00-05:00
+date: 2026-02-08T19:18:00+09:00
+lastmod: 2026-02-08T19:18:00+09:00
 draft: false
 categories:
   - "Finance"

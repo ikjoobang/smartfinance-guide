@@ -1,8 +1,8 @@
 ---
 title: "Best Index Funds for Beginners 2026 — Start Investing with $100"
 description: "Best index funds for beginner investors in 2026 with low minimums. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-02-16T10:00:00-05:00
-lastmod: 2026-02-16T10:00:00-05:00
+date: 2026-02-06T12:38:00+09:00
+lastmod: 2026-02-06T12:38:00+09:00
 draft: false
 categories:
   - "Finance"

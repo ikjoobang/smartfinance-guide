@@ -1,8 +1,8 @@
 ---
 title: "Required Minimum Distribution Guide — Your Complete 2026 Guide"
 description: "Compare the required minimum distribution options for 2026. Expert analysis of RMD rules, costs, pros and cons. Find the best required minimum distribution strategy for your situation."
-date: 2026-02-17
-lastmod: 2026-02-17
+date: 2026-02-13T18:06:00+09:00
+lastmod: 2026-02-13T18:06:00+09:00
 draft: false
 categories: ["Retirement"]
 tags: ["required minimum distribution", "RMD rules", "RMD Guide", "personal finance 2026", "money management"]

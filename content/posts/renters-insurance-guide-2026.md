@@ -1,8 +1,8 @@
 ---
 title: "Renters Insurance 2026 — Full Coverage from $12/Month"
 description: "renters insurance — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-14T09:00:00-05:00
-lastmod: 2026-02-14T09:00:00-05:00
+date: 2026-02-13T16:56:00+09:00
+lastmod: 2026-02-13T16:56:00+09:00
 draft: false
 categories: ["Insurance"]
 tags: ["cheap renters insurance", "renters insurance cost", "renters-insurance", "renters-2026"]

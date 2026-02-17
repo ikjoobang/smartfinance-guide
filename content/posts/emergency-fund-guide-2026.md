@@ -1,8 +1,8 @@
 ---
 title: "Emergency Fund Complete Guide — Your Complete 2026 Guide"
 description: "Compare the emergency fund options for 2026. Expert analysis of how much emergency fund, costs, pros and cons. Find the best emergency fund strategy for your situation."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-10T17:32:00+09:00
+lastmod: 2026-02-10T17:32:00+09:00
 draft: false
 categories: ["Investing"]
 tags: ["emergency fund", "how much emergency fund", "Emergency Fund", "personal finance 2026", "money management"]

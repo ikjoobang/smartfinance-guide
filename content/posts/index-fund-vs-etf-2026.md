@@ -1,8 +1,8 @@
 ---
 title: "Index Fund vs ETF — Your Complete 2026 Guide"
 description: "Compare the index fund vs ETF options for 2026. Expert analysis of ETF comparison, costs, pros and cons. Find the best index fund vs ETF strategy for your situation."
-date: 2026-02-16
-lastmod: 2026-02-16
+date: 2026-02-12T09:59:00+09:00
+lastmod: 2026-02-12T09:59:00+09:00
 draft: false
 categories: ["Investing"]
 tags: ["index fund vs ETF", "ETF comparison", "Index Fund vs ETF", "personal finance 2026", "money management"]
