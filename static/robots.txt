@@ -5,21 +5,21 @@ Disallow: /categories/
 Disallow: /admin/
 Disallow: /page/
 
-# AI Crawlers - ALLOW for GEO optimization
+# AI Crawlers - ALLOW for GEO/AEO optimization
 User-agent: GPTBot
-Allow: /posts/
+Allow: /
 
 User-agent: ChatGPT-User
-Allow: /posts/
+Allow: /
 
 User-agent: ClaudeBot
-Allow: /posts/
+Allow: /
 
 User-agent: PerplexityBot
-Allow: /posts/
+Allow: /
 
 User-agent: Google-Extended
-Allow: /posts/
+Allow: /
 
 User-agent: Bytespider
 Disallow: /
