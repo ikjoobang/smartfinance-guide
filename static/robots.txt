@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /admin/
+Disallow: /page/
+
+# AI Crawlers - ALLOW for GEO optimization
+User-agent: GPTBot
+Allow: /posts/
+
+User-agent: ChatGPT-User
+Allow: /posts/
+
+User-agent: ClaudeBot
+Allow: /posts/
+
+User-agent: PerplexityBot
+Allow: /posts/
+
+User-agent: Google-Extended
+Allow: /posts/
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://financeaiguide.com/sitemap.xml
