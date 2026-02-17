@@ -1,8 +1,8 @@
 ---
 title: "Charitable Giving Tax Benefits — Your Complete 2026 Guide"
 description: "Compare the charitable giving tax deduction options for 2026. Expert analysis of donor advised fund, costs, pros and cons. Find the best charitable giving tax deduction strategy for your situation."
-date: 2026-02-09T17:41:00+09:00
-lastmod: 2026-02-09T17:41:00+09:00
+date: 2026-02-09T15:14:00-05:00
+lastmod: 2026-02-09T15:14:00-05:00
 draft: false
 categories: ["Taxes"]
 tags: ["charitable giving tax deduction", "donor advised fund", "Charitable Giving", "personal finance 2026", "money management"]

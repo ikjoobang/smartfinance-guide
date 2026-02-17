@@ -1,8 +1,8 @@
 ---
 title: "How to Maximize Social Security Benefits 2026 — Complete Guide & Expert Comparison"
 description: "How to Maximize Social Security Benefits 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-02-14T12:52:00+09:00
-lastmod: 2026-02-14T12:52:00+09:00
+date: 2026-02-15T12:25:00-05:00
+lastmod: 2026-02-15T12:25:00-05:00
 draft: false
 categories: ["Finance Guide"]
 tags: ["maximize-social-security", "social-security-strategy", "social-security-maximize", "finance-guide", "money-2026"]

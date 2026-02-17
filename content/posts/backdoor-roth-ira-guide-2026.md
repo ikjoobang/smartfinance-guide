@@ -1,8 +1,8 @@
 ---
 title: "Backdoor Roth IRA Guide — Your Complete 2026 Guide"
 description: "Compare the backdoor Roth IRA options for 2026. Expert analysis of Roth conversion, costs, pros and cons. Find the best backdoor Roth IRA strategy for your situation."
-date: 2026-02-03T17:21:00+09:00
-lastmod: 2026-02-03T17:21:00+09:00
+date: 2026-02-02T22:23:00-05:00
+lastmod: 2026-02-02T22:23:00-05:00
 draft: false
 categories: ["Tax & Retirement"]
 tags: ["backdoor Roth IRA", "Roth conversion", "Backdoor Roth IRA", "personal finance 2026", "money management"]

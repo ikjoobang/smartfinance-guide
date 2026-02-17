@@ -1,8 +1,8 @@
 ---
 title: "Quarterly Tax Payment Guide — Your Complete 2026 Guide"
 description: "Compare the quarterly tax payments options for 2026. Expert analysis of estimated taxes, costs, pros and cons. Find the best quarterly tax payments strategy for your situation."
-date: 2026-02-13T15:31:00+09:00
-lastmod: 2026-02-13T15:31:00+09:00
+date: 2026-02-14T11:51:00-05:00
+lastmod: 2026-02-14T11:51:00-05:00
 draft: false
 categories: ["Tax & Retirement"]
 tags: ["quarterly tax payments", "estimated taxes", "Quarterly Taxes", "personal finance 2026", "money management"]

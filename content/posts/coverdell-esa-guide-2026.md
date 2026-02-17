@@ -1,8 +1,8 @@
 ---
 title: "Coverdell ESA Guide — Your Complete 2026 Guide"
 description: "Compare Coverdell ESA options for 2026. Expert analysis of education savings account, costs, pros and cons. Find the best Coverdell ESA strategy for your situation."
-date: 2026-02-10T13:31:00+09:00
-lastmod: 2026-02-10T13:31:00+09:00
+date: 2026-02-09T06:31:00-05:00
+lastmod: 2026-02-09T06:31:00-05:00
 draft: false
 categories: ["Savings"]
 tags: ["Coverdell ESA", "education savings account", "Coverdell ESA", "personal finance 2026", "money management"]

@@ -1,8 +1,8 @@
 ---
 title: "Best Auto Insurance Rates 2026 — How to Save $1,200/Year"
 description: "best auto insurance rates — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-03T20:36:00+09:00
-lastmod: 2026-02-03T20:36:00+09:00
+date: 2026-02-02T21:10:00-05:00
+lastmod: 2026-02-02T21:10:00-05:00
 draft: false
 categories: ["Insurance"]
 tags: ["cheap car insurance", "auto insurance comparison", "best-auto-insurance-rates", "best-2026"]

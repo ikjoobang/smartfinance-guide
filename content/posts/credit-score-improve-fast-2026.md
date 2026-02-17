@@ -1,8 +1,8 @@
 ---
 title: "How to Raise Credit Score 100 Points in 30 Days — 2026 Guide"
 description: "raise credit score fast — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-10T14:15:00+09:00
-lastmod: 2026-02-10T14:15:00+09:00
+date: 2026-02-09T14:09:00-05:00
+lastmod: 2026-02-09T14:09:00-05:00
 draft: false
 categories: ["Credit"]
 tags: ["improve credit score", "boost credit score", "raise-credit-score-fast", "raise-2026"]

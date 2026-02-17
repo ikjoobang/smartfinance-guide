@@ -1,8 +1,8 @@
 ---
 title: "Disability vs Life Insurance 2026 — Complete Guide & Expert Comparison"
 description: "Disability vs Life Insurance 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-02-10T15:38:00+09:00
-lastmod: 2026-02-10T15:38:00+09:00
+date: 2026-02-10T18:07:00-05:00
+lastmod: 2026-02-10T18:07:00-05:00
 draft: false
 categories: ["Finance Guide"]
 tags: ["disability-vs-life-insurance", "income-protection", "disability-vs-life-insurance", "finance-guide", "money-2026"]

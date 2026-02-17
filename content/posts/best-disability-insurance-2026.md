@@ -1,8 +1,8 @@
 ---
 title: "Best Disability Insurance — Your Complete 2026 Guide"
 description: "Compare disability insurance options for 2026. Expert analysis of income protection insurance, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-05T12:04:00+09:00
-lastmod: 2026-02-05T12:04:00+09:00
+date: 2026-02-03T14:59:00-05:00
+lastmod: 2026-02-03T14:59:00-05:00
 draft: false
 categories: ["Insurance"]
 tags: ["disability insurance", "income protection insurance", "Disability Insurance", "personal finance 2026", "money management"]

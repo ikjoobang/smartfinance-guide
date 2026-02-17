@@ -1,8 +1,8 @@
 ---
 title: "Spousal IRA Guide — Your Complete 2026 Guide"
 description: "Compare the spousal IRA options for 2026. Expert analysis of non-working spouse IRA, costs, pros and cons. Find the best spousal IRA strategy for your situation."
-date: 2026-02-14T13:21:00+09:00
-lastmod: 2026-02-14T13:21:00+09:00
+date: 2026-02-15T20:57:00-05:00
+lastmod: 2026-02-15T20:57:00-05:00
 draft: false
 categories: ["Retirement"]
 tags: ["spousal IRA", "non-working spouse IRA", "Spousal IRA", "personal finance 2026", "money management"]

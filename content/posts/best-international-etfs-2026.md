@@ -1,8 +1,8 @@
 ---
 title: "Best International ETFs — Your Complete 2026 Guide"
 description: "Compare international ETFs options for 2026. Expert analysis of global investing ETF, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-06T14:26:00+09:00
-lastmod: 2026-02-06T14:26:00+09:00
+date: 2026-02-05T16:46:00-05:00
+lastmod: 2026-02-05T16:46:00-05:00
 draft: false
 categories: ["Investing"]
 tags: ["international ETFs", "global investing ETF", "International ETFs", "personal finance 2026", "money management"]

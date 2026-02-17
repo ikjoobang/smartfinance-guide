@@ -1,8 +1,8 @@
 ---
 title: "Best Health Insurance for Self-Employed 2026 — Freelancer Coverage Guide"
 description: "Best health insurance options for self-employed and freelancers in 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-02-05T18:43:00+09:00
-lastmod: 2026-02-05T18:43:00+09:00
+date: 2026-02-04T18:14:00-05:00
+lastmod: 2026-02-04T18:14:00-05:00
 draft: false
 categories:
   - "Insurance"

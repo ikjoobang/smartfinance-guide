@@ -1,8 +1,8 @@
 ---
 title: "Roth IRA vs Traditional IRA 2026 — Which Saves You More in Taxes?"
 description: "Roth IRA vs Traditional IRA — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-13T21:23:00+09:00
-lastmod: 2026-02-13T21:23:00+09:00
+date: 2026-02-14T18:09:00-05:00
+lastmod: 2026-02-14T18:09:00-05:00
 draft: false
 categories: ["Finance"]
 tags: ["IRA comparison", "retirement account types", "roth-ira-vs-traditional-ira", "roth-2026"]

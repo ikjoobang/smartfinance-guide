@@ -1,8 +1,8 @@
 ---
 title: "SEP IRA Guide for Self-Employed — Your Complete 2026 Guide"
 description: "Compare the SEP IRA options for 2026. Expert analysis of self-employed retirement, costs, pros and cons. Find the best SEP IRA strategy for your situation."
-date: 2026-02-14T09:03:00+09:00
-lastmod: 2026-02-14T09:03:00+09:00
+date: 2026-02-14T13:19:00-05:00
+lastmod: 2026-02-14T13:19:00-05:00
 draft: false
 categories: ["Retirement"]
 tags: ["SEP IRA", "self-employed retirement", "SEP IRA", "personal finance 2026", "money management"]

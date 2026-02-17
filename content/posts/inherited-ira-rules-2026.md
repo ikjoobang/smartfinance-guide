@@ -1,8 +1,8 @@
 ---
 title: "Inherited IRA Rules 2026 — Complete Guide & Expert Comparison"
 description: "Inherited IRA Rules 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-02-12T10:32:00+09:00
-lastmod: 2026-02-12T10:32:00+09:00
+date: 2026-02-12T22:13:00-05:00
+lastmod: 2026-02-12T22:13:00-05:00
 draft: false
 categories: ["Finance Guide"]
 tags: ["inherited-IRA", "beneficiary-IRA-rules", "inherited-ira-rules", "finance-guide", "money-2026"]

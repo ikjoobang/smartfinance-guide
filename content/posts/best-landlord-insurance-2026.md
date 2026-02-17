@@ -1,8 +1,8 @@
 ---
 title: "Best Landlord Insurance — Your Complete 2026 Guide"
 description: "Compare landlord insurance options for 2026. Expert analysis of rental property insurance, costs, pros and cons. Find the best landlord insurance strategy."
-date: 2026-02-06T20:29:00+09:00
-lastmod: 2026-02-06T20:29:00+09:00
+date: 2026-02-05T15:56:00-05:00
+lastmod: 2026-02-05T15:56:00-05:00
 draft: false
 categories: ["Insurance"]
 tags: ["landlord insurance", "rental property insurance", "Landlord Insurance", "personal finance 2026", "money management"]

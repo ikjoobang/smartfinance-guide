@@ -1,8 +1,8 @@
 ---
 title: "529 College Savings Plan Guide — Your Complete 2026 Guide"
 description: "Compare the 529 plan options for 2026. Expert analysis of college savings, costs, pros and cons. Find the best 529 plan strategy for your situation."
-date: 2026-02-03T13:12:00+09:00
-lastmod: 2026-02-03T13:12:00+09:00
+date: 2026-02-01T06:38:00-05:00
+lastmod: 2026-02-01T06:38:00-05:00
 draft: false
 categories: ["Banking & Savings"]
 tags: ["529 plan", "college savings", "529 Plan", "personal finance 2026", "money management"]

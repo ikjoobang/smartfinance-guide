@@ -1,8 +1,8 @@
 ---
 title: "Solo 401k Guide for Self-Employed — Your Complete 2026 Guide"
 description: "Compare the solo 401k options for 2026. Expert analysis of individual 401k, costs, pros and cons. Find the best solo 401k strategy for your situation."
-date: 2026-02-14T12:58:00+09:00
-lastmod: 2026-02-14T12:58:00+09:00
+date: 2026-02-15T22:42:00-05:00
+lastmod: 2026-02-15T22:42:00-05:00
 draft: false
 categories: ["Retirement"]
 tags: ["solo 401k", "individual 401k", "Solo 401k", "personal finance 2026", "money management"]

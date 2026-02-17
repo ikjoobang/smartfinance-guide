@@ -1,8 +1,8 @@
 ---
 title: "Small Business Insurance 2026 — Types, Costs & Best Providers"
 description: "small business insurance — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-09T16:12:00+09:00
-lastmod: 2026-02-09T16:12:00+09:00
+date: 2026-02-08T17:21:00-05:00
+lastmod: 2026-02-08T17:21:00-05:00
 draft: false
 categories: ["Insurance"]
 tags: ["business liability insurance", "commercial insurance", "small-business-insurance", "small-2026"]

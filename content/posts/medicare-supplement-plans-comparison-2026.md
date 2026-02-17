@@ -1,8 +1,8 @@
 ---
 title: "Medicare Supplement Plans Comparison 2026 — Plan F vs G vs N"
 description: "medicare supplement plans — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-02-13T10:39:00+09:00
-lastmod: 2026-02-13T10:39:00+09:00
+date: 2026-02-13T07:03:00-05:00
+lastmod: 2026-02-13T07:03:00-05:00
 draft: false
 categories: ["Insurance"]
 tags: ["medigap plans comparison", "best medicare supplement", "medicare-supplement-plans", "medicare-2026"]

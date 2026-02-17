@@ -1,8 +1,8 @@
 ---
 title: "Tax Filing Mistakes to Avoid — Your Complete 2026 Guide"
 description: "Compare the tax filing mistakes options for 2026. Expert analysis of common tax errors, costs, pros and cons. Find the best tax filing mistakes strategy for your situation."
-date: 2026-02-15T10:33:00+09:00
-lastmod: 2026-02-15T10:33:00+09:00
+date: 2026-02-15T09:24:00-05:00
+lastmod: 2026-02-15T09:24:00-05:00
 draft: false
 categories: ["Taxes"]
 tags: ["tax filing mistakes", "common tax errors", "Tax Mistakes", "personal finance 2026", "money management"]

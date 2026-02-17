@@ -1,8 +1,8 @@
 ---
 title: "Financial Power of Attorney Guide — Your Complete 2026 Guide"
 description: "Compare financial power of attorney options for 2026. Expert analysis of POA document, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-13T14:38:00+09:00
-lastmod: 2026-02-13T14:38:00+09:00
+date: 2026-02-13T17:38:00-05:00
+lastmod: 2026-02-13T17:38:00-05:00
 draft: false
 categories: ["Planning"]
 tags: ["financial power of attorney", "POA document", "Financial POA", "personal finance 2026", "money management"]

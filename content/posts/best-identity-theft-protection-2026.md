@@ -1,8 +1,8 @@
 ---
 title: "Best Identity Theft Protection — Your Complete 2026 Guide"
 description: "Compare the identity theft protection options for 2026. Expert analysis of credit monitoring, costs, pros and cons. Find the best identity theft protection strategy for your situation."
-date: 2026-02-06T10:30:00+09:00
-lastmod: 2026-02-06T10:30:00+09:00
+date: 2026-02-05T08:55:00-05:00
+lastmod: 2026-02-05T08:55:00-05:00
 draft: false
 categories: ["Personal Finance"]
 tags: ["identity theft protection", "credit monitoring", "ID Theft Protection", "personal finance 2026", "money management"]

@@ -1,8 +1,8 @@
 ---
 title: "Estate Tax Planning Guide 2026 — Protect Your Wealth for Future Generations"
 description: "Estate tax planning strategies and exemption limits for 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-02-10T21:31:00+09:00
-lastmod: 2026-02-10T21:31:00+09:00
+date: 2026-02-10T21:47:00-05:00
+lastmod: 2026-02-10T21:47:00-05:00
 draft: false
 categories:
   - "Finance"

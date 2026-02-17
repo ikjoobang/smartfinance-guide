@@ -1,8 +1,8 @@
 ---
 title: "Tax Bracket Guide Explained — Your Complete 2026 Guide"
 description: "Compare tax brackets 2026 options for 2026. Expert analysis of marginal tax rate, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-14T20:46:00+09:00
-lastmod: 2026-02-14T20:46:00+09:00
+date: 2026-02-15T07:53:00-05:00
+lastmod: 2026-02-15T07:53:00-05:00
 draft: false
 categories: ["Taxes"]
 tags: ["tax brackets 2026", "marginal tax rate", "Tax Brackets", "personal finance 2026", "money management"]

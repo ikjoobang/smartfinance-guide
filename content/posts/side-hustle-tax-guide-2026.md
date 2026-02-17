@@ -1,8 +1,8 @@
 ---
 title: "Side Hustle Tax Guide — Your Complete 2026 Guide"
 description: "Compare the side hustle taxes options for 2026. Expert analysis of freelance tax deductions, costs, pros and cons. Find the best side hustle taxes strategy for your situation."
-date: 2026-02-14T12:33:00+09:00
-lastmod: 2026-02-14T12:33:00+09:00
+date: 2026-02-14T09:07:00-05:00
+lastmod: 2026-02-14T09:07:00-05:00
 draft: false
 categories: ["Tax & Retirement"]
 tags: ["side hustle taxes", "freelance tax deductions", "Side Hustle Tax", "personal finance 2026", "money management"]

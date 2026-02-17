@@ -1,8 +1,8 @@
 ---
 title: "Best Insurance for Nonprofits — Your Complete 2026 Guide"
 description: "Compare nonprofit insurance options for 2026. Expert analysis of 501c3 insurance, costs, pros and cons. Find the best nonprofit insurance strategy for your situation."
-date: 2026-02-07T13:31:00+09:00
-lastmod: 2026-02-07T13:31:00+09:00
+date: 2026-02-06T11:55:00-05:00
+lastmod: 2026-02-06T11:55:00-05:00
 draft: false
 categories: ["Insurance"]
 tags: ["nonprofit insurance", "501c3 insurance", "Nonprofit Insurance", "personal finance 2026", "money management"]
