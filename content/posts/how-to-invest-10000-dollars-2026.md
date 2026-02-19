@@ -24,7 +24,7 @@ Did you know that inflation ate away at nearly 5% of your savings last year? Tha
 
 If you're thinking about how to invest 10000 dollars for the long haul, focusing on a diversified portfolio that balances risk and potential return is key. Long-term growth usually means decades of investment, allowing you to ride out market fluctuations and benefit from compounding. The best investments 2026 often include a mix of stocks, bonds, and potentially real estate.
 
-**Stocks:** Investing in stocks, particularly through index funds or ETFs (Exchange-Traded Funds), gives you exposure to a wide range of companies and sectors. Consider allocating around $3,000 - $4,000 of your $10,000 to a broad market index fund like the S&P 500. According to data from the Bureau of Labor Statistics, historically, the stock market has provided an average annual return of around 10%, although past performance is not indicative of future results.
+**Stocks:** Investing in stocks, particularly through index funds or ETFs (Exchange-Traded Funds), gives you exposure to a wide range of companies and sectors. Consider allocating around $3,000 - $4,000 of your $10,000 to a broad market index fund like the S&P 500. Historically, broad market index funds have delivered solid long-term returns, though past performance does not guarantee future results.
 
 **Bonds:** Bonds are generally less volatile than stocks and can provide a steady stream of income. Consider investing $2,000 - $3,000 in a mix of government and corporate bonds through bond ETFs. These can help stabilize your portfolio, especially during economic downturns.
 

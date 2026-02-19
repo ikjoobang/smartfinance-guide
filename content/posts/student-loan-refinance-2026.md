@@ -97,7 +97,7 @@ Before making a decision, carefully weigh the pros and cons and consider your in
 
 ## How Does Student Loan Refinancing Impact My Emergency Fund?
 
-Refinancing your student loans, particularly if it lowers your monthly payments, can free up cash flow that you can then allocate to building or strengthening your emergency fund. Having an [Emergency Fund Guide](/posts/emergency-fund-how-much-2026/) is crucial for financial stability. A lower monthly loan payment means less financial stress and more resources to prepare for unexpected expenses. According to the Bureau of Labor Statistics, the average unexpected expense for a household in 2026 is around $1,500. Refinancing your loans can help you better prepare for these situations.
+Refinancing your student loans, particularly if it lowers your monthly payments, can free up cash flow that you can then allocate to building or strengthening your emergency fund. Having an [Emergency Fund Guide](/posts/emergency-fund-how-much-2026/) is crucial for financial stability. A lower monthly loan payment means less financial stress and more resources to prepare for unexpected expenses. Unexpected expenses can strain your budget significantly. Refinancing your loans can help you better prepare for these situations.
 
 ## Expert Recommendation / Conclusion
 

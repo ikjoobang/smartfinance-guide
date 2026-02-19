@@ -38,7 +38,7 @@ Here's a comparison table highlighting some of the top contenders:
 
 ## How Can I Find the Best Cash Back Credit Card No Annual Fee in 2026?
 
-Finding the best cash back credit card no annual fee in 2026 requires careful consideration of your spending habits and reward preferences. Many excellent cashback rewards cards waive annual fees, making them a cost-effective way to earn rewards. Focus on cards that offer high rewards in categories where you spend the most. According to a recent survey by the Bureau of Labor Statistics, the average household spends approximately $7,291 per year on food, making a card with high cashback on groceries particularly valuable.
+Finding the best cash back credit card no annual fee in 2026 requires careful consideration of your spending habits and reward preferences. Many excellent cashback rewards cards waive annual fees, making them a cost-effective way to earn rewards. Focus on cards that offer high rewards in categories where you spend the most. Groceries represent a major household expense, making a card with high cashback on grocery purchases particularly valuable.
 
 Here are a few tips for finding the best no annual fee cashback card:
 

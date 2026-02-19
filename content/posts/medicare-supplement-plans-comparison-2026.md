@@ -106,7 +106,7 @@ Finding the best medicare supplement plans requires careful research and compari
 *   **Understand the Policy Details:** Read the policy carefully to understand what's covered and what's not. Pay attention to any exclusions or limitations.
 *   **Consider a Medicare Broker:** A Medicare broker can help you compare plans and find the best option for your needs. They are typically paid by the insurance companies, so their services are usually free to you.
 
-Remember, the best medicare supplement plans are the ones that meet your individual needs and budget. Don't rush the decision, and take the time to research your options thoroughly. According to the Bureau of Labor Statistics, healthcare costs continue to rise, making it even more important to have adequate coverage. Also, remember to consider the long-term implications of your choice and how your needs may change over time.
+Remember, the best medicare supplement plans are the ones that meet your individual needs and budget. Don't rush the decision, and take the time to research your options thoroughly. Healthcare costs continue to rise, making adequate coverage increasingly important. Also, remember to consider the long-term implications of your choice and how your needs may change over time.
 
 ***
 
