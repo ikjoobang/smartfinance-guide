@@ -50,7 +50,7 @@ Here are some of the key factors that influence *cyber insurance* premiums:
 * **Claims History:** If your business has experienced cyberattacks or data breaches in the past, you can expect to pay higher premiums.
 * **Policy Limits and Deductibles:** Higher policy limits and lower deductibles will result in higher premiums, while lower policy limits and higher deductibles will result in lower premiums.
 
-It's important to note that *cyber insurance* premiums are expected to continue to rise in 2026 due to the increasing frequency and severity of cyberattacks. According to a report by the National Association of Insurance Commissioners (NAIC), *cyber insurance* claims have increased by 40% in the past year.
+It's important to note that *cyber insurance* premiums are expected to continue to rise in 2026 due to the increasing frequency and severity of cyberattacks. Cyber insurance claims have been rising steadily as cyber threats continue to evolve.
 
 ## Comparing Cyber Insurance Policies: What to Look For
 
