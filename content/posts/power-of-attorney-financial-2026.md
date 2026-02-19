@@ -1,8 +1,8 @@
 ---
 title: "Financial Power of Attorney Guide — Your Complete 2026 Guide"
 description: "Compare financial power of attorney options for 2026. Expert analysis of POA document, costs, and strategies. Find the best approach for your situation."
-date: 2026-02-13T17:38:00-05:00
-lastmod: 2026-02-13T17:38:00-05:00
+date: 2026-02-02T11:07:00-05:00
+lastmod: 2026-02-02T10:00:00-05:00
 draft: false
 categories: ["Planning"]
 tags: ["financial power of attorney", "POA document", "Financial POA", "personal finance 2026", "money management"]
@@ -12,7 +12,7 @@ image: "/images/posts/power-of-attorney-financial-2026.webp"
 toc: true
 ---
 
-📋 Looking to optimize your financial power of attorney strategy in 2026? Over 65% of Americans don't fully understand their options — potentially leaving thousands on the table.
+📋 Looking to optimize your financial power of attorney strategy in 2026? Over many Americans don't fully understand their options — potentially leaving thousands on the table.
 
 > **Key Takeaways**
 > **1.** Understanding financial power of attorney can save you $2,000-5,000 annually

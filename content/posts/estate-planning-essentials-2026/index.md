@@ -1,21 +1,21 @@
 ---
 title: "Estate Planning 2026: The 7 Documents Every Adult Needs (Before It's Too Late)"
-description: "60% of Americans don't have a will. Estate planning costs $300-3,000 but saves your family $50,000+ in probate. The 7 essential documents you need in 2026."
-date: 2026-02-16T22:00:00+00:00
-lastmod: 2026-02-16T22:00:00+00:00
+description: "many Americans don't have a will. Estate planning costs hundreds to thousands of dollars but saves your family $50,000+ in probate. The 7 essential documents you need in 2026."
+date: 2026-01-17T11:19:00-05:00
+lastmod: 2026-01-17T16:26:00-05:00
 draft: false
 categories:
-  - "finance"
+ - "finance"
 tags:
-  - "estate planning"
-  - "will and trust"
-  - "probate avoidance"
-  - "living trust"
-  - "estate planning 2026"
+ - "estate planning"
+ - "will and trust"
+ - "probate avoidance"
+ - "living trust"
+ - "estate planning 2026"
 keywords:
-  - "estate planning essentials 2026"
-  - "estate planning documents checklist"
-  - "how to create a living trust"
+ - "estate planning essentials 2026"
+ - "estate planning documents checklist"
+ - "how to create a living trust"
 author: "Smart Finance Guide Editorial Team"
 image: "/images/posts/estate-planning-essentials-2026.webp"
 toc: true
@@ -40,7 +40,7 @@ Estate Planning has evolved significantly as we enter 2026. With new regulations
 
 At its core, estate planning provides a structured approach to managing financial risk. The will and trust market has grown 22% since 2024, reflecting increased consumer awareness and demand for better products and services.
 
-Industry experts estimate that the average American could save $800-2,500 annually by optimizing their estate planning strategy. Yet our research shows 55% of consumers haven't reviewed their will and trust options in the past two years.
+Taking time to compare your options and review your current plan can lead to meaningful savings. Many consumers benefit from an annual review of their financial products.
 
 For related coverage, see our [best personal loans](/posts/best-personal-loans-2026/).
 
