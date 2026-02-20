@@ -51,7 +51,7 @@
       <!-- Featured Image -->
       {{ with .Params.image }}
       <figure class="mb-8 rounded-xl overflow-hidden">
-        <img src="{{ . }}" alt="{{ $.Title }}" class="w-full" loading="eager" itemprop="image">
+        <img src="{{ . }}?v={{ now.Unix }}" alt="{{ $.Title }}" class="w-full" loading="eager" itemprop="image">
         {{ with $.Params.imageCaption }}<figcaption class="text-sm text-gray-500 mt-2 text-center">{{ . }}</figcaption>{{ end }}
       </figure>
       {{ end }}
