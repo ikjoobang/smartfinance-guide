@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["best life insurance companies 2026", "life insurance comparison", "term life insurance", "whole life insurance", "life insurance quotes"]
 keywords: ["best life insurance companies 2026", "cheapest life insurance 2026", "term vs whole life insurance comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-life-insurance-2026.png"
+image: "/images/posts/best-life-insurance-companies-2026-v3.webp"
 toc: true
 ---
 
