@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["cheap renters insurance", "renters insurance cost", "renters-insurance", "renters-2026"]
 keywords: ["is renters insurance worth it", "best renters insurance for apartments 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/renters-insurance-guide-2026.webp"
+image: "/images/posts/renters-insurance-guide-2026-v2.webp"
 toc: true
 ---
 

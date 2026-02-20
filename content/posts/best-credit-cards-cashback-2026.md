@@ -8,7 +8,7 @@ categories: ["Credit"]
 tags: ["cashback rewards cards", "best rewards credit cards", "best-cash-back-credit-cards", "best-2026"]
 keywords: ["best cash back credit card no annual fee 2026", "highest cashback rate credit cards"]
 author: "Smart Finance Guide"
-image: "/images/posts/best-credit-cards-cashback-2026.webp"
+image: "/images/posts/best-credit-cards-cashback-2026-v2.webp"
 toc: true
 ---
 

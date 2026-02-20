@@ -8,7 +8,7 @@ categories: ["Loans"]
 tags: ["low interest personal loans", "personal loan rates", "best-personal-loans", "best-2026"]
 keywords: ["best personal loans for good credit 2026", "personal loans with lowest APR"]
 author: "Smart Finance Guide"
-image: "/images/posts/best-personal-loans-low-interest-2026.webp"
+image: "/images/posts/best-personal-loans-low-interest-2026-v2.webp"
 toc: true
 ---
 

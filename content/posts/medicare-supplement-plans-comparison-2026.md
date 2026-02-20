@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["medigap plans comparison", "best medicare supplement", "medicare-supplement-plans", "medicare-2026"]
 keywords: ["medicare supplement plan F vs G which is better", "cheapest medigap plans 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/medicare-supplement-plans-comparison-2026.webp"
+image: "/images/posts/medicare-supplement-plans-comparison-2026-v2.webp"
 toc: true
 ---
 

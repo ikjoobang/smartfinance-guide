@@ -8,7 +8,7 @@ categories: ["Loans"]
 tags: ["refinance student loans", "student loan rates", "student-loan-refinancing", "student-2026"]
 keywords: ["should I refinance student loans 2026", "best student loan refinance rates"]
 author: "Smart Finance Guide"
-image: "/images/posts/student-loan-refinance-2026.webp"
+image: "/images/posts/student-loan-refinance-2026-v2.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Finance"]
 tags: ["best investments 2026", "where to invest money", "how-to-invest-10000-dollars", "how-2026"]
 keywords: ["best way to invest 10k for beginners", "invest 10000 for passive income 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/how-to-invest-10000-dollars-2026.webp"
+image: "/images/posts/how-to-invest-10000-dollars-2026-v2.webp"
 toc: true
 ---
 
