@@ -17,7 +17,7 @@ keywords:
  - "Midjourney vs DALL-E 3 comparison"
  - "AI image generator quality test"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-image-generators-comparison-2026-v3.webp""
+image: "/images/posts/ai-image-generators-comparison-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

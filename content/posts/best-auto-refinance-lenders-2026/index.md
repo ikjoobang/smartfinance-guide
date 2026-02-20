@@ -17,7 +17,7 @@ keywords:
  - "auto refinance rates today"
  - "car loan refinance calculator"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-auto-refinance-lenders-2026-v3.webp""
+image: "/images/posts/best-auto-refinance-lenders-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

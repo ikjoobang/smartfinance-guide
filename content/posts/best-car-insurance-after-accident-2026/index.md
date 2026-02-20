@@ -17,7 +17,7 @@ keywords:
  - "accident forgiveness car insurance"
  - "cheapest insurance after at-fault accident"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-car-insurance-after-accident-2026-v3.webp""
+image: "/images/posts/best-car-insurance-after-accident-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

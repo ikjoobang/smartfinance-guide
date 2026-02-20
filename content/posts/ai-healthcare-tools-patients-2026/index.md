@@ -17,7 +17,7 @@ keywords:
  - "best AI health apps"
  - "AI symptom checker accuracy"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-healthcare-tools-patients-2026-v3.webp""
+image: "/images/posts/ai-healthcare-tools-patients-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

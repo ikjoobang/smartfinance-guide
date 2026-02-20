@@ -17,7 +17,7 @@ keywords:
  - "AI resume writer comparison"
  - "ATS friendly resume builder"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-resume-builders-ranked-2026-v3.webp""
+image: "/images/posts/ai-resume-builders-ranked-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

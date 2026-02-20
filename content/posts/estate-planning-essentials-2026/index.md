@@ -17,7 +17,7 @@ keywords:
  - "estate planning documents checklist"
  - "how to create a living trust"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/estate-planning-essentials-2026-v3.webp""
+image: "/images/posts/estate-planning-essentials-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

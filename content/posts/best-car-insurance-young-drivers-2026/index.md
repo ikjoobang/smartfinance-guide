@@ -17,7 +17,7 @@ keywords:
  - "cheapest car insurance under 25"
  - "student auto insurance discounts"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-car-insurance-young-drivers-2026-v3.webp""
+image: "/images/posts/best-car-insurance-young-drivers-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

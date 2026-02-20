@@ -17,7 +17,7 @@ keywords:
  - "best cyber insurance providers"
  - "do small businesses need cyber insurance"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/cyber-insurance-small-business-2026-v3.webp""
+image: "/images/posts/cyber-insurance-small-business-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

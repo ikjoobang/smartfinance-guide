@@ -17,7 +17,7 @@ keywords:
  - "best AI bookkeeping tools"
  - "automated accounting comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-accounting-software-small-business-2026-v3.webp""
+image: "/images/posts/ai-accounting-software-small-business-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

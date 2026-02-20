@@ -17,7 +17,7 @@ keywords:
  - "is gap insurance worth it"
  - "cheapest gap insurance providers"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/gap-insurance-explained-2026-v3.webp""
+image: "/images/posts/gap-insurance-explained-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

@@ -17,7 +17,7 @@ keywords:
  - "most overlooked tax deductions"
  - "tax deductions for remote workers 2026"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/tax-deductions-missing-2026-v3.webp""
+image: "/images/posts/tax-deductions-missing-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

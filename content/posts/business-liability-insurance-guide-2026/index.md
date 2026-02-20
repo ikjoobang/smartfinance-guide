@@ -17,7 +17,7 @@ keywords:
  - "types of business liability insurance"
  - "best small business liability insurance"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/business-liability-insurance-guide-2026-v3.webp""
+image: "/images/posts/business-liability-insurance-guide-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

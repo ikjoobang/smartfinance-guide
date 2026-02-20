@@ -17,7 +17,7 @@ keywords:
  - "AI email subject line generator"
  - "automated email marketing AI"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-email-marketing-tools-2026-v3.webp""
+image: "/images/posts/ai-email-marketing-tools-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

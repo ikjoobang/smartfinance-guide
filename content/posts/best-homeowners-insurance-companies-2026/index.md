@@ -17,7 +17,7 @@ keywords:
  - "homeowners insurance comparison"
  - "home insurance claims satisfaction"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-homeowners-insurance-companies-2026-v3.webp""
+image: "/images/posts/best-homeowners-insurance-companies-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

@@ -17,7 +17,7 @@ keywords:
  - "how to get SR-22 insurance fast"
  - "cheapest SR-22 insurance providers"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/sr22-insurance-complete-guide-2026-v3.webp""
+image: "/images/posts/sr22-insurance-complete-guide-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

@@ -17,7 +17,7 @@ keywords:
  - "AI property valuation tool"
  - "AI for real estate investing"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-real-estate-tools-2026-v3.webp""
+image: "/images/posts/ai-real-estate-tools-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

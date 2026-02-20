@@ -17,7 +17,7 @@ keywords:
  - "Medigap Plan G vs Plan F"
  - "cheapest Medicare supplement insurance"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/medicare-supplement-plans-2026-v3.webp""
+image: "/images/posts/medicare-supplement-plans-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

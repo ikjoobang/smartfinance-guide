@@ -17,7 +17,7 @@ keywords:
  - "medical bill negotiation script"
  - "reduce hospital bills"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/negotiate-medical-bills-guide-2026-v3.webp""
+image: "/images/posts/negotiate-medical-bills-guide-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

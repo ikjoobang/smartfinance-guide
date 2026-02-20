@@ -17,7 +17,7 @@ keywords:
  - "AI PowerPoint generator"
  - "AI slide deck creator comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-presentation-makers-2026-v3.webp""
+image: "/images/posts/ai-presentation-makers-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

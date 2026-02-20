@@ -17,7 +17,7 @@ keywords:
  - "first time homebuyer grants by state"
  - "FHA loan requirements 2026"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/first-time-homebuyer-programs-2026-v3.webp""
+image: "/images/posts/first-time-homebuyer-programs-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

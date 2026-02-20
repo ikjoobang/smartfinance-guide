@@ -17,7 +17,7 @@ keywords:
  - "best motorcycle insurance companies"
  - "cheap motorcycle insurance quotes"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/motorcycle-insurance-guide-2026-v3.webp""
+image: "/images/posts/motorcycle-insurance-guide-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

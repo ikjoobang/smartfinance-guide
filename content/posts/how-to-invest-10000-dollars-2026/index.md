@@ -17,7 +17,7 @@ keywords:
  - "best investment strategies for beginners"
  - "where to invest money 2026"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/how-to-invest-10000-dollars-2026-v3.webp""
+image: "/images/posts/how-to-invest-10000-dollars-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

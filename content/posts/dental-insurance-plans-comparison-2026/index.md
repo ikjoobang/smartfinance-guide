@@ -17,7 +17,7 @@ keywords:
  - "cheapest dental insurance with no waiting period"
  - "dental insurance comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/dental-insurance-plans-comparison-2026-v3.webp""
+image: "/images/posts/dental-insurance-plans-comparison-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

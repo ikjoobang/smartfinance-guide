@@ -17,7 +17,7 @@ keywords:
  - "free budgeting apps comparison"
  - "YNAB vs Monarch vs Copilot"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-budgeting-apps-2026-v3.webp""
+image: "/images/posts/best-budgeting-apps-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

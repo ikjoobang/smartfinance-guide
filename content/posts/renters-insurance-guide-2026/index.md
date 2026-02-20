@@ -17,7 +17,7 @@ keywords:
  - "cheapest renters insurance companies"
  - "what does renters insurance cover"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/renters-insurance-guide-2026-v3.webp""
+image: "/images/posts/renters-insurance-guide-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

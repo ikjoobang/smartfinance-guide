@@ -17,7 +17,7 @@ keywords:
  - "ACA open enrollment 2026"
  - "health insurance subsidy calculator"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/health-insurance-marketplace-guide-2026-v3.webp""
+image: "/images/posts/health-insurance-marketplace-guide-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

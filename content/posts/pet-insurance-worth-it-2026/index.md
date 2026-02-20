@@ -17,7 +17,7 @@ keywords:
  - "best pet insurance companies comparison"
  - "pet insurance cost per month"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/pet-insurance-worth-it-2026-v3.webp""
+image: "/images/posts/pet-insurance-worth-it-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

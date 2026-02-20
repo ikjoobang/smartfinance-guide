@@ -17,7 +17,7 @@ keywords:
  - "best AI chatbot for business"
  - "automated customer support"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-customer-service-tools-small-business-2026-v3.webp""
+image: "/images/posts/ai-customer-service-tools-small-business-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

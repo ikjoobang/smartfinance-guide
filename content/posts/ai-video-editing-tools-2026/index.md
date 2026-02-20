@@ -17,7 +17,7 @@ keywords:
  - "AI video editor comparison"
  - "automated video editing tools"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-video-editing-tools-2026-v3.webp""
+image: "/images/posts/ai-video-editing-tools-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

@@ -17,7 +17,7 @@ keywords:
  - "highest APY savings account"
  - "online savings account comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-high-yield-savings-accounts-2026-v3.webp""
+image: "/images/posts/best-high-yield-savings-accounts-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

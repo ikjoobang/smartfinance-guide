@@ -17,7 +17,7 @@ keywords:
  - "how to appeal insurance claim denial"
  - "insurance claim dispute process 2026"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/home-insurance-claims-denied-what-to-do-2026-v3.webp""
+image: "/images/posts/home-insurance-claims-denied-what-to-do-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

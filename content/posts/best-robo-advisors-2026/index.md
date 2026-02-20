@@ -17,7 +17,7 @@ keywords:
  - "robo advisor performance comparison"
  - "Betterment vs Wealthfront 2026"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-robo-advisors-2026-v3.webp""
+image: "/images/posts/best-robo-advisors-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

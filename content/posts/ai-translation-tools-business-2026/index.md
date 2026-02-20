@@ -17,7 +17,7 @@ keywords:
  - "best AI translation accuracy"
  - "AI translation platform comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-translation-tools-business-2026-v3.webp""
+image: "/images/posts/ai-translation-tools-business-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

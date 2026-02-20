@@ -17,7 +17,7 @@ keywords:
  - "AI SEO tool comparison test"
  - "AI content optimization for Google"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/ai-seo-tools-ranked-2026-v3.webp""
+image: "/images/posts/ai-seo-tools-ranked-2026-v3.webp"
 toc: true
 schema: "Article"
 ---

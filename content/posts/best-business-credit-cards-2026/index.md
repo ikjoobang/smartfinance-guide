@@ -17,7 +17,7 @@ keywords:
  - "business credit card comparison"
  - "best business credit card for startups"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-business-credit-cards-2026-v3.webp""
+image: "/images/posts/best-business-credit-cards-2026-v3.webp"
 toc: true
 schema: "Article"
 ---
