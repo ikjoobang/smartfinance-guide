@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["long term care insurance", "LTC insurance", "long term care insurance 2026", "best long term care insurance"]
 keywords: ["long term care insurance 2026", "best LTC insurance", "long term care insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/long-term-care-insurance-2026-v3.webp"
+image: "/images/posts/long-term-care-insurance-2026-v4.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["stretch IRA", "IRA distribution strategy", "Stretch IRA", "personal finance 2026", "money management"]
 keywords: ["stretch IRA 2026", "best IRA distribution strategy", "stretch IRA guide"]
 author: "Finance Expert"
-image: "/images/posts/stretch-ira-strategy-2026-v3.webp"
+image: "/images/posts/stretch-ira-strategy-2026-v4.webp"
 toc: true
 ---
 

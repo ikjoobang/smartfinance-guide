@@ -8,7 +8,7 @@ categories: ["Debt"]
 tags: ["medical debt relief", "hospital bill negotiation", "Medical Debt", "personal finance 2026", "money management"]
 keywords: ["medical debt relief 2026", "best hospital bill negotiation", "medical debt relief guide"]
 author: "Finance Expert"
-image: "/images/posts/medical-debt-relief-guide-2026-v3.webp"
+image: "/images/posts/medical-debt-relief-guide-2026-v4.webp"
 toc: true
 ---
 

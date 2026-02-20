@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["wash sale rule", "wash sale tax", "Wash Sale Rule", "personal finance 2026", "money management"]
 keywords: ["wash sale rule 2026", "best wash sale tax", "wash sale rule guide"]
 author: "Finance Expert"
-image: "/images/posts/wash-sale-rule-guide-2026-v3.webp"
+image: "/images/posts/wash-sale-rule-guide-2026-v4.webp"
 toc: true
 ---
 

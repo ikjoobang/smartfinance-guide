@@ -8,7 +8,7 @@ categories: ["Loans"]
 tags: ["consolidate credit card debt", "debt consolidation rates", "debt-consolidation-loans", "debt-2026"]
 keywords: ["debt consolidation loans for bad credit", "is debt consolidation worth it 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/debt-consolidation-loans-guide-2026-v3.webp"
+image: "/images/posts/debt-consolidation-loans-guide-2026-v4.webp"
 toc: true
 ---
 

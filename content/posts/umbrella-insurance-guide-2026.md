@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["umbrella insurance", "personal liability coverage", "umbrella insurance 2026", "best umbrella insurance"]
 keywords: ["umbrella insurance 2026", "best personal liability coverage", "umbrella insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/umbrella-insurance-guide-2026-v3.webp"
+image: "/images/posts/umbrella-insurance-guide-2026-v4.webp"
 toc: true
 ---
 

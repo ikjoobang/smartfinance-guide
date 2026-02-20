@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["REIT investing", "real estate investment trust", "REIT Guide", "personal finance 2026", "money management"]
 keywords: ["REIT investing 2026", "best real estate investment trust", "REIT investing guide"]
 author: "Finance Expert"
-image: "/images/posts/reit-investing-guide-2026-v3.webp"
+image: "/images/posts/reit-investing-guide-2026-v4.webp"
 toc: true
 ---
 

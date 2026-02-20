@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["real estate investing beginners", "rental property", "Real Estate Investing", "personal finance 2026", "money management"]
 keywords: ["real estate investing beginners 2026", "best rental property", "real estate investing beginners guide"]
 author: "Finance Expert"
-image: "/images/posts/real-estate-investing-beginners-2026-v3.webp"
+image: "/images/posts/real-estate-investing-beginners-2026-v4.webp"
 toc: true
 ---
 

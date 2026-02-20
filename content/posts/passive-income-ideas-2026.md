@@ -8,7 +8,7 @@ categories: ["Income"]
 tags: ["passive income ideas", "passive income streams", "Passive Income", "personal finance 2026", "money management"]
 keywords: ["passive income ideas 2026", "best passive income streams", "passive income ideas guide"]
 author: "Finance Expert"
-image: "/images/posts/passive-income-ideas-2026-v3.webp"
+image: "/images/posts/passive-income-ideas-2026-v4.webp"
 toc: true
 ---
 

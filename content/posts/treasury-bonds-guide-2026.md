@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["treasury bonds", "T-bills investing", "Treasury Bonds", "personal finance 2026", "money management"]
 keywords: ["treasury bonds 2026", "best T-bills investing", "treasury bonds guide"]
 author: "Finance Expert"
-image: "/images/posts/treasury-bonds-guide-2026-v3.webp"
+image: "/images/posts/treasury-bonds-guide-2026-v4.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["SIMPLE IRA", "small business retirement", "SIMPLE IRA", "personal finance 2026", "money management"]
 keywords: ["SIMPLE IRA 2026", "best small business retirement", "SIMPLE IRA guide"]
 author: "Finance Expert"
-image: "/images/posts/simple-ira-guide-2026-v3.webp"
+image: "/images/posts/simple-ira-guide-2026-v4.webp"
 toc: true
 ---
 

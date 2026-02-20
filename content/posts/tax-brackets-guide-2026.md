@@ -17,7 +17,7 @@ keywords:
  - "federal income tax rates 2026"
  - "tax planning strategies"
 author: "Finance AI Guide Expert"
-image: "/images/posts/tax-brackets-guide-2026-v3.webp"
+image: "/images/posts/tax-brackets-guide-2026-v4.webp"
 toc: true
 ---
 

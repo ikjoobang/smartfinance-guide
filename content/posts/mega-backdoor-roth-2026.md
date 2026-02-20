@@ -8,7 +8,7 @@ categories: ["Tax & Retirement"]
 tags: ["mega backdoor Roth", "after-tax 401k", "Mega Backdoor Roth", "personal finance 2026", "money management"]
 keywords: ["mega backdoor Roth 2026", "best after-tax 401k", "mega backdoor Roth guide"]
 author: "Finance Expert"
-image: "/images/posts/mega-backdoor-roth-2026-v3.webp"
+image: "/images/posts/mega-backdoor-roth-2026-v4.webp"
 toc: true
 ---
 

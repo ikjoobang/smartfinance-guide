@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["self employment tax", "SE tax calculation", "SE Tax Guide", "personal finance 2026", "money management"]
 keywords: ["self employment tax 2026", "best SE tax calculation", "self employment tax guide"]
 author: "Finance Expert"
-image: "/images/posts/self-employment-tax-guide-2026-v3.webp"
+image: "/images/posts/self-employment-tax-guide-2026-v4.webp"
 toc: true
 ---
 

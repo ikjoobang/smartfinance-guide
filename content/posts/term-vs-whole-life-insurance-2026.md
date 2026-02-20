@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["term life insurance", "whole life insurance comparison", "term life insurance 2026", "best term life insurance"]
 keywords: ["term life insurance 2026", "best whole life insurance comparison", "term life insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/term-vs-whole-life-insurance-2026-v3.webp"
+image: "/images/posts/term-vs-whole-life-insurance-2026-v4.webp"
 toc: true
 ---
 

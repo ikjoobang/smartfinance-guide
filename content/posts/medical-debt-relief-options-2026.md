@@ -17,7 +17,7 @@ keywords:
  - "how to negotiate hospital bills"
  - "medical bill assistance programs"
 author: "Finance AI Guide Expert"
-image: "/images/posts/medical-debt-relief-options-2026-v3.webp"
+image: "/images/posts/medical-debt-relief-options-2026-v4.webp"
 toc: true
 ---
 

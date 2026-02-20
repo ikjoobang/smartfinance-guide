@@ -8,7 +8,7 @@ categories: ["Finance"]
 tags: ["how much emergency fund", "emergency savings", "emergency-fund", "emergency-2026"]
 keywords: ["emergency fund calculator 2026", "how to build emergency fund fast"]
 author: "Smart Finance Guide"
-image: "/images/posts/emergency-fund-how-much-2026-v3.webp"
+image: "/images/posts/emergency-fund-how-much-2026-v4.webp"
 toc: true
 ---
 

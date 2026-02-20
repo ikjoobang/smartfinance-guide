@@ -17,7 +17,7 @@ keywords:
  - "E&O insurance cost comparison"
  - "malpractice insurance guide"
 author: "Finance AI Guide Expert"
-image: "/images/posts/professional-liability-insurance-2026-v3.webp"
+image: "/images/posts/professional-liability-insurance-2026-v4.webp"
 toc: true
 ---
 

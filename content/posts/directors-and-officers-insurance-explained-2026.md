@@ -4,7 +4,7 @@ description: "Directors and officers insurance explained: Learn how D&O policies
 date: 2026-02-20
 lastmod: 2026-02-20
 draft: false
-image: "/images/posts/directors-and-officers-insurance-explained-2026-v3.webp"
+image: "/images/posts/directors-and-officers-insurance-explained-2026-v4.webp"
 categories: ["Finance"]
 tags: ["D&O Insurance", "Corporate Liability", "Risk Management", "Executive Protection", "Insurance 2026"]
 keywords: ["what does D&O insurance cover", "cost of directors and officers insurance", "side A vs side B coverage", "D&O exclusions explained"]

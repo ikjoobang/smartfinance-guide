@@ -8,7 +8,7 @@ categories: ["Loans & Real Estate"]
 tags: ["student loan forgiveness", "PSLF program", "Loan Forgiveness", "personal finance 2026", "money management"]
 keywords: ["student loan forgiveness 2026", "best PSLF program", "student loan forgiveness guide"]
 author: "Finance Expert"
-image: "/images/posts/student-loan-forgiveness-2026-v3.webp"
+image: "/images/posts/student-loan-forgiveness-2026-v4.webp"
 toc: true
 ---
 
