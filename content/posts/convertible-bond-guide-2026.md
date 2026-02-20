@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["convertible bonds", "convertible bond funds", "Convertible Bonds", "personal finance 2026", "money management"]
 keywords: ["convertible bonds 2026", "best convertible bond funds", "convertible bonds guide"]
 author: "Finance Expert"
-image: "/images/posts/convertible-bond-guide-2026.webp"
+image: "/images/posts/convertible-bond-guide-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["target date fund", "retirement target fund", "Target-Date Fund", "personal finance 2026", "money management"]
 keywords: ["target date fund 2026", "best retirement target fund", "target date fund guide"]
 author: "Finance Expert"
-image: "/images/posts/target-date-fund-guide-2026.webp"
+image: "/images/posts/target-date-fund-guide-2026-v3.webp"
 toc: true
 ---
 

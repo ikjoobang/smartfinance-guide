@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["money-market-account", "high-interest-savings", "best-money-market-accounts", "finance-guide", "money-2026"]
 keywords: ["money market account guide 2026", "best high interest savings 2026", "money market account comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-money-market-accounts-2026.webp"
+image: "/images/posts/best-money-market-accounts-2026-v3.webp"
 toc: true
 ---
 

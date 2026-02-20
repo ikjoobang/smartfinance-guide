@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["1031 exchange", "like kind exchange", "1031 Exchange", "personal finance 2026", "money management"]
 keywords: ["1031 exchange 2026", "best like kind exchange", "1031 exchange guide"]
 author: "Finance Expert"
-image: "/images/posts/1031-exchange-guide-2026.webp"
+image: "/images/posts/1031-exchange-guide-2026-v3.webp"
 toc: true
 ---
 

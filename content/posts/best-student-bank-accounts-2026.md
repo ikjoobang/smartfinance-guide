@@ -17,7 +17,7 @@ keywords:
  - "free checking for college students"
  - "student banking perks"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-student-bank-accounts-2026.webp"
+image: "/images/posts/best-student-bank-accounts-2026-v3.webp"
 toc: true
 ---
 

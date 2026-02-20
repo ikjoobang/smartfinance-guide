@@ -8,7 +8,7 @@ categories: ["Budgeting"]
 tags: ["envelope budgeting", "cash envelope system", "Envelope Budget", "personal finance 2026", "money management"]
 keywords: ["envelope budgeting 2026", "best cash envelope system", "envelope budgeting guide"]
 author: "Finance Expert"
-image: "/images/posts/envelope-budgeting-guide-2026.webp"
+image: "/images/posts/envelope-budgeting-guide-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["landlord insurance", "rental property insurance", "Landlord Insurance", "personal finance 2026", "money management"]
 keywords: ["landlord insurance 2026", "best rental property insurance", "landlord insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-landlord-insurance-2026.webp"
+image: "/images/posts/best-landlord-insurance-2026-v3.webp"
 toc: true
 ---
 

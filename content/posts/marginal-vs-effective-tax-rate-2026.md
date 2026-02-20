@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["marginal vs effective tax rate", "tax rate explained", "Tax Rate Comparison", "personal finance 2026", "money management"]
 keywords: ["marginal vs effective tax rate 2026", "best tax rate explained", "marginal vs effective tax rate guide"]
 author: "Finance Expert"
-image: "/images/posts/marginal-vs-effective-tax-rate-2026.webp"
+image: "/images/posts/marginal-vs-effective-tax-rate-2026-v3.webp"
 toc: true
 ---
 

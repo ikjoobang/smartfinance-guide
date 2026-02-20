@@ -8,7 +8,7 @@ categories: ["Tax & Retirement"]
 tags: ["quarterly tax payments", "estimated taxes", "Quarterly Taxes", "personal finance 2026", "money management"]
 keywords: ["quarterly tax payments 2026", "best estimated taxes", "quarterly tax payments guide"]
 author: "Finance Expert"
-image: "/images/posts/quarterly-tax-payment-guide-2026.webp"
+image: "/images/posts/quarterly-tax-payment-guide-2026-v3.webp"
 toc: true
 ---
 

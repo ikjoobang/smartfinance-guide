@@ -8,7 +8,7 @@ categories: ["Debt"]
 tags: ["debt consolidation", "consolidation loan", "Debt Consolidation", "personal finance 2026", "money management"]
 keywords: ["debt consolidation 2026", "best consolidation loan", "debt consolidation guide"]
 author: "Finance Expert"
-image: "/images/posts/best-debt-consolidation-2026.webp"
+image: "/images/posts/best-debt-consolidation-2026-v3.webp"
 toc: true
 ---
 

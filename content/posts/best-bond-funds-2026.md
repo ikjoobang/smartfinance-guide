@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["best bond funds", "bond fund investing", "Bond Funds", "personal finance 2026", "money management"]
 keywords: ["best bond funds 2026", "best bond fund investing", "best bond funds guide"]
 author: "Finance Expert"
-image: "/images/posts/best-bond-funds-2026.webp"
+image: "/images/posts/best-bond-funds-2026-v3.webp"
 toc: true
 ---
 

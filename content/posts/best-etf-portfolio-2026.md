@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["best ETF portfolio", "ETF investing strategy", "ETF Portfolio", "personal finance 2026", "money management"]
 keywords: ["best ETF portfolio 2026", "best ETF investing strategy", "best ETF portfolio guide"]
 author: "Finance Expert"
-image: "/images/posts/best-etf-portfolio-2026.webp"
+image: "/images/posts/best-etf-portfolio-2026-v3.webp"
 toc: true
 ---
 

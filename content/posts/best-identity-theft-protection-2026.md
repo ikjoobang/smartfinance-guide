@@ -8,7 +8,7 @@ categories: ["Personal Finance"]
 tags: ["identity theft protection", "credit monitoring", "ID Theft Protection", "personal finance 2026", "money management"]
 keywords: ["identity theft protection 2026", "best credit monitoring", "identity theft protection guide"]
 author: "Finance Expert"
-image: "/images/posts/best-identity-theft-protection-2026.webp"
+image: "/images/posts/best-identity-theft-protection-2026-v3.webp"
 toc: true
 ---
 

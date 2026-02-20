@@ -8,7 +8,7 @@ categories: ["Credit"]
 tags: ["improve credit score", "boost credit score", "raise-credit-score-fast", "raise-2026"]
 keywords: ["how to raise credit score 100 points in 30 days", "fastest way to improve credit 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/credit-score-improve-fast-2026-v2.webp"
+image: "/images/posts/credit-score-improve-fast-2026-v3.webp"
 toc: true
 ---
 

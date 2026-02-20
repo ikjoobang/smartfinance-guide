@@ -8,7 +8,7 @@ categories: ["Planning"]
 tags: ["trust fund basics", "revocable vs irrevocable trust", "Trust Fund", "personal finance 2026", "money management"]
 keywords: ["trust fund basics 2026", "best revocable vs irrevocable trust", "trust fund basics guide"]
 author: "Finance Expert"
-image: "/images/posts/trust-fund-basics-2026.webp"
+image: "/images/posts/trust-fund-basics-2026-v3.webp"
 toc: true
 ---
 

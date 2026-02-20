@@ -8,7 +8,7 @@ categories: ["Business"]
 tags: ["best payroll services", "small business payroll", "Payroll Services", "personal finance 2026", "money management"]
 keywords: ["best payroll services 2026", "best small business payroll", "best payroll services guide"]
 author: "Finance Expert"
-image: "/images/posts/best-payroll-services-2026.webp"
+image: "/images/posts/best-payroll-services-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["jewelry insurance", "engagement ring insurance", "Jewelry Insurance", "personal finance 2026", "money management"]
 keywords: ["jewelry insurance 2026", "best engagement ring insurance", "jewelry insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-jewelry-insurance-2026.webp"
+image: "/images/posts/best-jewelry-insurance-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["tax brackets 2026", "marginal tax rate", "Tax Brackets", "personal finance 2026", "money management"]
 keywords: ["tax brackets 2026 2026", "best marginal tax rate", "tax brackets 2026 guide"]
 author: "Finance Expert"
-image: "/images/posts/tax-bracket-guide-2026.webp"
+image: "/images/posts/tax-bracket-guide-2026-v3.webp"
 toc: true
 ---
 

@@ -17,7 +17,7 @@ keywords:
  - "freelancer health insurance options"
  - "individual health plan comparison"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-health-insurance-self-employed-2026.webp"
+image: "/images/posts/best-health-insurance-self-employed-2026-v3.webp"
 toc: true
 ---
 

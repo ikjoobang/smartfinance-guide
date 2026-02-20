@@ -17,7 +17,7 @@ keywords:
  - "zero interest balance transfer cards"
  - "no interest credit card offers"
 author: "Finance AI Guide Expert"
-image: "/images/posts/zero-interest-credit-cards-2026.webp"
+image: "/images/posts/zero-interest-credit-cards-2026-v3.webp"
 toc: true
 ---
 

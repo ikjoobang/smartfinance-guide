@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["opportunity zone investing", "QOZ tax benefits", "Opportunity Zone", "personal finance 2026", "money management"]
 keywords: ["opportunity zone investing 2026", "best QOZ tax benefits", "opportunity zone investing guide"]
 author: "Finance Expert"
-image: "/images/posts/qualified-opportunity-zone-2026.webp"
+image: "/images/posts/qualified-opportunity-zone-2026-v3.webp"
 toc: true
 ---
 

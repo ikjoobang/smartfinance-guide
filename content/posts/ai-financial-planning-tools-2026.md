@@ -8,7 +8,7 @@ categories: ["Tools"]
 tags: ["AI financial planning", "AI investment tools", "AI Finance Tools", "personal finance 2026", "money management"]
 keywords: ["AI financial planning 2026", "best AI investment tools", "AI financial planning guide"]
 author: "Finance Expert"
-image: "/images/posts/ai-financial-planning-tools-2026.webp"
+image: "/images/posts/ai-financial-planning-tools-2026-v3.webp"
 toc: true
 ---
 

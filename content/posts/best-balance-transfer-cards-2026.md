@@ -8,7 +8,7 @@ categories: ["Credit Cards"]
 tags: ["best balance transfer cards", "0 APR credit cards", "Balance Transfer", "personal finance 2026", "money management"]
 keywords: ["best balance transfer cards 2026", "best 0 APR credit cards", "best balance transfer cards guide"]
 author: "Finance Expert"
-image: "/images/posts/best-balance-transfer-cards-2026.webp"
+image: "/images/posts/best-balance-transfer-cards-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["wedding insurance", "event insurance", "Wedding Insurance", "personal finance 2026", "money management"]
 keywords: ["wedding insurance 2026", "best event insurance", "wedding insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-wedding-insurance-2026.webp"
+image: "/images/posts/best-wedding-insurance-2026-v3.webp"
 toc: true
 ---
 

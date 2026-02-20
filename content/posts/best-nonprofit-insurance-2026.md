@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["nonprofit insurance", "501c3 insurance", "Nonprofit Insurance", "personal finance 2026", "money management"]
 keywords: ["nonprofit insurance 2026", "best 501c3 insurance", "nonprofit insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-nonprofit-insurance-2026.webp"
+image: "/images/posts/best-nonprofit-insurance-2026-v3.webp"
 toc: true
 ---
 

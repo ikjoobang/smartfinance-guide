@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["tax filing mistakes", "common tax errors", "Tax Mistakes", "personal finance 2026", "money management"]
 keywords: ["tax filing mistakes 2026", "best common tax errors", "tax filing mistakes guide"]
 author: "Finance Expert"
-image: "/images/posts/tax-filing-mistakes-avoid-2026.webp"
+image: "/images/posts/tax-filing-mistakes-avoid-2026-v3.webp"
 toc: true
 ---
 

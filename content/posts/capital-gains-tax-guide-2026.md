@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["capital gains tax", "long term capital gains", "Capital Gains", "personal finance 2026", "money management"]
 keywords: ["capital gains tax 2026", "best long term capital gains", "capital gains tax guide"]
 author: "Finance Expert"
-image: "/images/posts/capital-gains-tax-guide-2026.webp"
+image: "/images/posts/capital-gains-tax-guide-2026-v3.webp"
 toc: true
 ---
 

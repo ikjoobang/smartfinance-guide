@@ -8,7 +8,7 @@ categories: ["Loans"]
 tags: ["personal loans bad credit", "bad credit lending", "Bad Credit Loans", "personal finance 2026", "money management"]
 keywords: ["personal loans bad credit 2026", "best bad credit lending", "personal loans bad credit guide"]
 author: "Finance Expert"
-image: "/images/posts/best-personal-loans-bad-credit-2026.webp"
+image: "/images/posts/best-personal-loans-bad-credit-2026-v3.webp"
 toc: true
 ---
 

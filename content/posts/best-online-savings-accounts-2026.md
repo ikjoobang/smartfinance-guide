@@ -8,7 +8,7 @@ categories: ["Savings"]
 tags: ["best online savings accounts", "high yield online savings", "Online Savings", "personal finance 2026", "money management"]
 keywords: ["best online savings accounts 2026", "best high yield online savings", "best online savings accounts guide"]
 author: "Finance Expert"
-image: "/images/posts/best-online-savings-accounts-2026.webp"
+image: "/images/posts/best-online-savings-accounts-2026-v3.webp"
 toc: true
 ---
 

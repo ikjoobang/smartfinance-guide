@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["total market fund", "total stock market fund", "Total Market Fund", "personal finance 2026", "money management"]
 keywords: ["total market fund 2026", "best total stock market fund", "total market fund guide"]
 author: "Finance Expert"
-image: "/images/posts/best-total-market-funds-2026.webp"
+image: "/images/posts/best-total-market-funds-2026-v3.webp"
 toc: true
 ---
 

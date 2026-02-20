@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["personal cyber insurance", "identity protection", "Cyber Insurance", "personal finance 2026", "money management"]
 keywords: ["personal cyber insurance 2026", "best identity protection", "personal cyber insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-cyber-insurance-personal-2026.webp"
+image: "/images/posts/best-cyber-insurance-personal-2026-v3.webp"
 toc: true
 ---
 

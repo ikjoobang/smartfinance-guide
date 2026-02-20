@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["earthquake insurance", "seismic coverage", "Earthquake Insurance", "personal finance 2026", "money management"]
 keywords: ["earthquake insurance 2026", "best seismic coverage", "earthquake insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-earthquake-insurance-2026.webp"
+image: "/images/posts/best-earthquake-insurance-2026-v3.webp"
 toc: true
 ---
 

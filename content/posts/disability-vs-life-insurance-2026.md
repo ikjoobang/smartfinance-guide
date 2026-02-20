@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["disability-vs-life-insurance", "income-protection", "disability-vs-life-insurance", "finance-guide", "money-2026"]
 keywords: ["disability vs life insurance guide 2026", "best income protection 2026", "disability vs life insurance comparison"]
 author: "Finance Expert"
-image: "/images/posts/disability-vs-life-insurance-2026.webp"
+image: "/images/posts/disability-vs-life-insurance-2026-v3.webp"
 toc: true
 ---
 

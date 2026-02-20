@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["best accident insurance", "accidental death insurance", "Accident Insurance", "personal finance 2026", "money management"]
 keywords: ["best accident insurance 2026", "best accidental death insurance", "best accident insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-accident-insurance-2026.webp"
+image: "/images/posts/best-accident-insurance-2026-v3.webp"
 toc: true
 ---
 

@@ -17,7 +17,7 @@ keywords:
  - "highest dividend yield stocks"
  - "passive income investing"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-dividend-stocks-2026.webp"
+image: "/images/posts/best-dividend-stocks-2026-v3.webp"
 toc: true
 ---
 

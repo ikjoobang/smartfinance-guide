@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["long term disability insurance", "short term disability", "disability-insurance", "disability-2026"]
 keywords: ["disability insurance cost per month 2026", "best disability insurance companies"]
 author: "Smart Finance Guide"
-image: "/images/posts/disability-insurance-guide-2026.webp"
+image: "/images/posts/disability-insurance-guide-2026-v3.webp"
 toc: true
 ---
 

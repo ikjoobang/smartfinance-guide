@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["municipal bonds", "muni bond tax free", "Municipal Bonds", "personal finance 2026", "money management"]
 keywords: ["municipal bonds 2026", "best muni bond tax free", "municipal bonds guide"]
 author: "Finance Expert"
-image: "/images/posts/municipal-bond-guide-2026.webp"
+image: "/images/posts/municipal-bond-guide-2026-v3.webp"
 toc: true
 ---
 

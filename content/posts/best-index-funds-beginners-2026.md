@@ -17,7 +17,7 @@ keywords:
  - "low cost index fund comparison"
  - "how to start investing index funds"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-index-funds-beginners-2026.webp"
+image: "/images/posts/best-index-funds-beginners-2026-v3.webp"
 toc: true
 ---
 

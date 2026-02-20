@@ -8,7 +8,7 @@ categories: ["Credit Cards"]
 tags: ["best business credit cards", "small business cards", "Business Cards", "personal finance 2026", "money management"]
 keywords: ["best business credit cards 2026", "best small business cards", "best business credit cards guide"]
 author: "Finance Expert"
-image: "/images/posts/best-business-credit-cards-2026.webp"
+image: "/images/posts/best-business-credit-cards-2026-v3.webp"
 toc: true
 ---
 

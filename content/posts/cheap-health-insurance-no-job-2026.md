@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["health-insurance-no-job", "affordable-health-insurance", "cheap-health-insurance-no-job", "finance-guide", "money-2026"]
 keywords: ["health insurance no job guide 2026", "best affordable health insurance 2026", "health insurance no job comparison"]
 author: "Finance Expert"
-image: "/images/posts/cheap-health-insurance-no-job-2026.webp"
+image: "/images/posts/cheap-health-insurance-no-job-2026-v3.webp"
 toc: true
 ---
 

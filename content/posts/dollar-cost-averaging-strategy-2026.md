@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["dollar cost averaging", "DCA investing", "DCA Strategy", "personal finance 2026", "money management"]
 keywords: ["dollar cost averaging 2026", "best DCA investing", "dollar cost averaging guide"]
 author: "Finance Expert"
-image: "/images/posts/dollar-cost-averaging-strategy-2026.webp"
+image: "/images/posts/dollar-cost-averaging-strategy-2026-v3.webp"
 toc: true
 ---
 

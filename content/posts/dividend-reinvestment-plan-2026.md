@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["dividend reinvestment plan", "DRIP investing", "DRIP Investing", "personal finance 2026", "money management"]
 keywords: ["dividend reinvestment plan 2026", "best DRIP investing", "dividend reinvestment plan guide"]
 author: "Finance Expert"
-image: "/images/posts/dividend-reinvestment-plan-2026.webp"
+image: "/images/posts/dividend-reinvestment-plan-2026-v3.webp"
 toc: true
 ---
 

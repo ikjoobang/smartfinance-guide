@@ -8,7 +8,7 @@ categories: ["Tax & Retirement"]
 tags: ["crypto tax reporting", "cryptocurrency taxes", "Crypto Tax", "personal finance 2026", "money management"]
 keywords: ["crypto tax reporting 2026", "best cryptocurrency taxes", "crypto tax reporting guide"]
 author: "Finance Expert"
-image: "/images/posts/crypto-tax-reporting-2026.webp"
+image: "/images/posts/crypto-tax-reporting-2026-v3.webp"
 toc: true
 ---
 

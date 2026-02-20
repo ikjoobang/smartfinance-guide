@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["ESG ETFs", "socially responsible investing", "ESG ETFs", "personal finance 2026", "money management"]
 keywords: ["ESG ETFs 2026", "best socially responsible investing", "ESG ETFs guide"]
 author: "Finance Expert"
-image: "/images/posts/best-socially-responsible-etfs-2026.webp"
+image: "/images/posts/best-socially-responsible-etfs-2026-v3.webp"
 toc: true
 ---
 

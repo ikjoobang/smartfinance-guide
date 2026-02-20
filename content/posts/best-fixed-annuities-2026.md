@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["best fixed annuities", "guaranteed annuity rates", "Fixed Annuities", "personal finance 2026", "money management"]
 keywords: ["best fixed annuities 2026", "best guaranteed annuity rates", "best fixed annuities guide"]
 author: "Finance Expert"
-image: "/images/posts/best-fixed-annuities-2026.webp"
+image: "/images/posts/best-fixed-annuities-2026-v3.webp"
 toc: true
 ---
 

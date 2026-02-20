@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["alternative minimum tax", "AMT calculation", "AMT Guide", "personal finance 2026", "money management"]
 keywords: ["alternative minimum tax 2026", "best AMT calculation", "alternative minimum tax guide"]
 author: "Finance Expert"
-image: "/images/posts/amt-alternative-minimum-tax-2026.webp"
+image: "/images/posts/amt-alternative-minimum-tax-2026-v3.webp"
 toc: true
 ---
 

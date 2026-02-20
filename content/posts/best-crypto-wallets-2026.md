@@ -17,7 +17,7 @@ keywords:
  - "most secure bitcoin wallet"
  - "cold wallet comparison"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-crypto-wallets-2026.webp"
+image: "/images/posts/best-crypto-wallets-2026-v3.webp"
 toc: true
 ---
 

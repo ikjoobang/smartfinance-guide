@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["zero-down-mortgage", "no-down-payment-home", "zero-down-home-loans", "finance-guide", "money-2026"]
 keywords: ["zero down mortgage guide 2026", "best no down payment home 2026", "zero down mortgage comparison"]
 author: "Finance Expert"
-image: "/images/posts/zero-down-home-loans-2026.webp"
+image: "/images/posts/zero-down-home-loans-2026-v3.webp"
 toc: true
 ---
 

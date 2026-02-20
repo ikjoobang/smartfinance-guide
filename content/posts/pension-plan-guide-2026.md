@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["pension plan types", "defined benefit plan", "Pension Plans", "personal finance 2026", "money management"]
 keywords: ["pension plan types 2026", "best defined benefit plan", "pension plan types guide"]
 author: "Finance Expert"
-image: "/images/posts/pension-plan-guide-2026.webp"
+image: "/images/posts/pension-plan-guide-2026-v3.webp"
 toc: true
 ---
 

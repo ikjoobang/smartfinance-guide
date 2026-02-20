@@ -8,7 +8,7 @@ categories: ["AI Tools"]
 tags: ["best AI chatbot 2026", "AI comparison", "chatgpt-vs-claude-vs-gemini", "chatgpt-2026"]
 keywords: ["which AI is best for writing 2026", "ChatGPT vs Claude for coding"]
 author: "Smart Finance Guide"
-image: "/images/posts/chatgpt-vs-claude-vs-gemini-comparison-2026.webp"
+image: "/images/posts/chatgpt-vs-claude-vs-gemini-comparison-2026-v3.webp"
 toc: true
 ---
 

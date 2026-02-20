@@ -8,7 +8,7 @@ categories: ["Credit Cards"]
 tags: ["best travel credit cards", "travel rewards", "Travel Credit Cards", "personal finance 2026", "money management"]
 keywords: ["best travel credit cards 2026", "best travel rewards", "best travel credit cards guide"]
 author: "Finance Expert"
-image: "/images/posts/best-travel-credit-cards-2026.webp"
+image: "/images/posts/best-travel-credit-cards-2026-v3.webp"
 toc: true
 ---
 

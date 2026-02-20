@@ -8,7 +8,7 @@ categories: ["Banking"]
 tags: ["reward checking accounts", "high interest checking", "Reward Checking", "personal finance 2026", "money management"]
 keywords: ["reward checking accounts 2026", "best high interest checking", "reward checking accounts guide"]
 author: "Finance Expert"
-image: "/images/posts/best-reward-checking-accounts-2026.webp"
+image: "/images/posts/best-reward-checking-accounts-2026-v3.webp"
 toc: true
 ---
 

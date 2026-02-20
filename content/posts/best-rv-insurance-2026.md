@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["RV insurance", "motorhome insurance", "RV Insurance", "personal finance 2026", "money management"]
 keywords: ["RV insurance 2026", "best motorhome insurance", "RV insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-rv-insurance-2026.webp"
+image: "/images/posts/best-rv-insurance-2026-v3.webp"
 toc: true
 ---
 

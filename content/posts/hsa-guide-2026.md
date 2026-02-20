@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["HSA guide", "health savings account benefits", "HSA guide 2026", "best HSA guide"]
 keywords: ["HSA guide 2026", "best health savings account benefits", "HSA guide comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/hsa-guide-2026.webp"
+image: "/images/posts/hsa-guide-2026-v3.webp"
 toc: true
 ---
 

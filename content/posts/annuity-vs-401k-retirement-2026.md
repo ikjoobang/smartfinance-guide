@@ -17,7 +17,7 @@ keywords:
  - "best retirement savings plan"
  - "annuity retirement benefits"
 author: "Finance AI Guide Expert"
-image: "/images/posts/annuity-vs-401k-retirement-2026.webp"
+image: "/images/posts/annuity-vs-401k-retirement-2026-v3.webp"
 toc: true
 ---
 

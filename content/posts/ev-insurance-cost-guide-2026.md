@@ -17,7 +17,7 @@ keywords:
  - "electric vehicle insurance rates"
  - "cheapest EV car insurance"
 author: "Finance AI Guide Expert"
-image: "/images/posts/ev-insurance-cost-guide-2026.webp"
+image: "/images/posts/ev-insurance-cost-guide-2026-v3.webp"
 toc: true
 ---
 

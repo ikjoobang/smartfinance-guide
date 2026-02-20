@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["SR-22 insurance", "high-risk auto insurance", "SR-22 insurance 2026", "best SR-22 insurance"]
 keywords: ["SR-22 insurance 2026", "best high-risk auto insurance", "SR-22 insurance comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/sr22-insurance-cheapest-2026.webp"
+image: "/images/posts/sr22-insurance-cheapest-2026-v3.webp"
 toc: true
 ---
 

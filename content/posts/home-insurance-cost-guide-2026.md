@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["homeowners insurance rates", "cheap home insurance", "home-insurance-cost", "home-2026"]
 keywords: ["average home insurance cost by state 2026", "how to reduce homeowners insurance premium"]
 author: "Smart Finance Guide"
-image: "/images/posts/home-insurance-cost-guide-2026-v2.webp"
+image: "/images/posts/home-insurance-cost-guide-2026-v3.webp"
 toc: true
 ---
 

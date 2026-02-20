@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["SEP IRA", "self-employed retirement", "SEP IRA", "personal finance 2026", "money management"]
 keywords: ["SEP IRA 2026", "best self-employed retirement", "SEP IRA guide"]
 author: "Finance Expert"
-image: "/images/posts/sep-ira-guide-2026.webp"
+image: "/images/posts/sep-ira-guide-2026-v3.webp"
 toc: true
 ---
 

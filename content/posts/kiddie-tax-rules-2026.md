@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["kiddie tax", "unearned income child", "Kiddie Tax", "personal finance 2026", "money management"]
 keywords: ["kiddie tax 2026", "best unearned income child", "kiddie tax guide"]
 author: "Finance Expert"
-image: "/images/posts/kiddie-tax-rules-2026.webp"
+image: "/images/posts/kiddie-tax-rules-2026-v3.webp"
 toc: true
 ---
 

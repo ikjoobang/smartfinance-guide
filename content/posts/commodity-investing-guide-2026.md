@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["commodity investing", "commodities ETF", "Commodities", "personal finance 2026", "money management"]
 keywords: ["commodity investing 2026", "best commodities ETF", "commodity investing guide"]
 author: "Finance Expert"
-image: "/images/posts/commodity-investing-guide-2026.webp"
+image: "/images/posts/commodity-investing-guide-2026-v3.webp"
 toc: true
 ---
 

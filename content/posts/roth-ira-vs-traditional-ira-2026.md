@@ -8,7 +8,7 @@ categories: ["Finance"]
 tags: ["IRA comparison", "retirement account types", "roth-ira-vs-traditional-ira", "roth-2026"]
 keywords: ["Roth IRA vs Traditional IRA calculator", "should I convert to Roth IRA 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/roth-ira-vs-traditional-ira-2026-v2.webp"
+image: "/images/posts/roth-ira-vs-traditional-ira-2026-v3.webp"
 toc: true
 ---
 

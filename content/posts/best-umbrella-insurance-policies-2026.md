@@ -8,7 +8,7 @@ categories: ["Finance"]
 tags: ["umbrella insurance", "liability coverage", "personal insurance", "asset protection", "insurance guide"]
 keywords: ["affordable umbrella insurance", "best umbrella insurance companies", "umbrella policy coverage limits"]
 author: "Finance Expert"
-image: "/images/posts/best-umbrella-insurance-policies-2026.webp"
+image: "/images/posts/best-umbrella-insurance-policies-2026-v3.webp"
 toc: true
 ---
 

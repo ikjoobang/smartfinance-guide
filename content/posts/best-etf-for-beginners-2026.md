@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["ETF-for-beginners", "index-fund-investing", "best-etf-for-beginners", "finance-guide", "money-2026"]
 keywords: ["ETF for beginners guide 2026", "best index fund investing 2026", "ETF for beginners comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-etf-for-beginners-2026.webp"
+image: "/images/posts/best-etf-for-beginners-2026-v3.webp"
 toc: true
 ---
 

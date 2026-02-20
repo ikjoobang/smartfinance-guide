@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["spousal IRA", "non-working spouse IRA", "Spousal IRA", "personal finance 2026", "money management"]
 keywords: ["spousal IRA 2026", "best non-working spouse IRA", "spousal IRA guide"]
 author: "Finance Expert"
-image: "/images/posts/spousal-ira-guide-2026.webp"
+image: "/images/posts/spousal-ira-guide-2026-v3.webp"
 toc: true
 ---
 

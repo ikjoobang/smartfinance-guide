@@ -8,7 +8,7 @@ categories: ["Tax & Retirement"]
 tags: ["tax loss harvesting", "capital gains offset", "Tax-Loss Harvesting", "personal finance 2026", "money management"]
 keywords: ["tax loss harvesting 2026", "best capital gains offset", "tax loss harvesting guide"]
 author: "Finance Expert"
-image: "/images/posts/tax-loss-harvesting-guide-2026.webp"
+image: "/images/posts/tax-loss-harvesting-guide-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["charitable remainder trust", "CRT tax benefits", "CRT Guide", "personal finance 2026", "money management"]
 keywords: ["charitable remainder trust 2026", "best CRT tax benefits", "charitable remainder trust guide"]
 author: "Finance Expert"
-image: "/images/posts/charitable-remainder-trust-2026.webp"
+image: "/images/posts/charitable-remainder-trust-2026-v3.webp"
 toc: true
 ---
 

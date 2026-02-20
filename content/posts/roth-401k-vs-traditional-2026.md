@@ -8,7 +8,7 @@ categories: ["Tax & Retirement"]
 tags: ["Roth 401k vs traditional", "401k comparison", "401k Comparison", "personal finance 2026", "money management"]
 keywords: ["Roth 401k vs traditional 2026", "best 401k comparison", "Roth 401k vs traditional guide"]
 author: "Finance Expert"
-image: "/images/posts/roth-401k-vs-traditional-2026.webp"
+image: "/images/posts/roth-401k-vs-traditional-2026-v3.webp"
 toc: true
 ---
 

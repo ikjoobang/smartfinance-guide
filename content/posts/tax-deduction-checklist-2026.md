@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["tax deductions", "tax write-offs", "tax deductions 2026", "best tax deductions"]
 keywords: ["tax deductions 2026", "best tax write-offs", "tax deductions comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/tax-deduction-checklist-2026.webp"
+image: "/images/posts/tax-deduction-checklist-2026-v3.webp"
 toc: true
 ---
 

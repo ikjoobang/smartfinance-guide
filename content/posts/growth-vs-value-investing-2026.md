@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["growth vs value investing", "investing style comparison", "Growth vs Value", "personal finance 2026", "money management"]
 keywords: ["growth vs value investing 2026", "best investing style comparison", "growth vs value investing guide"]
 author: "Finance Expert"
-image: "/images/posts/growth-vs-value-investing-2026.webp"
+image: "/images/posts/growth-vs-value-investing-2026-v3.webp"
 toc: true
 ---
 

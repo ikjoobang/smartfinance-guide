@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["charitable giving tax deduction", "donor advised fund", "Charitable Giving", "personal finance 2026", "money management"]
 keywords: ["charitable giving tax deduction 2026", "best donor advised fund", "charitable giving tax deduction guide"]
 author: "Finance Expert"
-image: "/images/posts/charitable-giving-tax-benefits-2026.webp"
+image: "/images/posts/charitable-giving-tax-benefits-2026-v3.webp"
 toc: true
 ---
 

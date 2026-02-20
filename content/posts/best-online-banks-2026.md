@@ -17,7 +17,7 @@ keywords:
  - "highest APY online bank"
  - "digital banking comparison"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-online-banks-2026.webp"
+image: "/images/posts/best-online-banks-2026-v3.webp"
 toc: true
 ---
 

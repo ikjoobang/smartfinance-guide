@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["Roth IRA income limits", "Roth IRA eligibility", "Roth IRA Limits", "personal finance 2026", "money management"]
 keywords: ["Roth IRA income limits 2026", "best Roth IRA eligibility", "Roth IRA income limits guide"]
 author: "Finance Expert"
-image: "/images/posts/roth-ira-income-limits-2026.webp"
+image: "/images/posts/roth-ira-income-limits-2026-v3.webp"
 toc: true
 ---
 

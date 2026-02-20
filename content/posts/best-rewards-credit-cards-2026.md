@@ -17,7 +17,7 @@ keywords:
  - "highest cashback credit card"
  - "travel rewards card comparison"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-rewards-credit-cards-2026.webp"
+image: "/images/posts/best-rewards-credit-cards-2026-v3.webp"
 toc: true
 ---
 

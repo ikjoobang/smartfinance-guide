@@ -8,7 +8,7 @@ categories: ["Banking"]
 tags: ["savings account bonuses", "bank sign up bonus", "Savings Bonuses", "personal finance 2026", "money management"]
 keywords: ["savings account bonuses 2026", "best bank sign up bonus", "savings account bonuses guide"]
 author: "Finance Expert"
-image: "/images/posts/best-savings-account-bonuses-2026.webp"
+image: "/images/posts/best-savings-account-bonuses-2026-v3.webp"
 toc: true
 ---
 

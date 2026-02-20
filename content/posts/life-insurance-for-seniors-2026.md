@@ -17,7 +17,7 @@ keywords:
  - "best life insurance over 60"
  - "guaranteed issue life insurance"
 author: "Finance AI Guide Expert"
-image: "/images/posts/life-insurance-for-seniors-2026.webp"
+image: "/images/posts/life-insurance-for-seniors-2026-v3.webp"
 toc: true
 ---
 

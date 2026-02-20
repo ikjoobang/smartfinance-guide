@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["best small cap ETFs", "small cap investing", "Small-Cap ETFs", "personal finance 2026", "money management"]
 keywords: ["best small cap ETFs 2026", "best small cap investing", "best small cap ETFs guide"]
 author: "Finance Expert"
-image: "/images/posts/best-small-cap-etfs-2026.webp"
+image: "/images/posts/best-small-cap-etfs-2026-v3.webp"
 toc: true
 ---
 

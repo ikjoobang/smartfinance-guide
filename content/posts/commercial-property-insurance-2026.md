@@ -17,7 +17,7 @@ keywords:
  - "business property coverage cost"
  - "commercial insurance comparison"
 author: "Finance AI Guide Expert"
-image: "/images/posts/commercial-property-insurance-2026.webp"
+image: "/images/posts/commercial-property-insurance-2026-v3.webp"
 toc: true
 ---
 

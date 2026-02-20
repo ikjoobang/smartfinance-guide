@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["best pet insurance", "pet insurance comparison", "Pet Insurance", "personal finance 2026", "money management"]
 keywords: ["best pet insurance 2026", "best pet insurance comparison", "best pet insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-pet-insurance-2026.webp"
+image: "/images/posts/best-pet-insurance-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["boat insurance", "marine insurance", "Boat Insurance", "personal finance 2026", "money management"]
 keywords: ["boat insurance 2026", "best marine insurance", "boat insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-boat-insurance-2026.webp"
+image: "/images/posts/best-boat-insurance-2026-v3.webp"
 toc: true
 ---
 

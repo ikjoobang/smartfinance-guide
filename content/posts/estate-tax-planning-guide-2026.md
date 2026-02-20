@@ -17,7 +17,7 @@ keywords:
  - "estate tax exemption 2026"
  - "wealth transfer strategies"
 author: "Finance AI Guide Expert"
-image: "/images/posts/estate-tax-planning-guide-2026.webp"
+image: "/images/posts/estate-tax-planning-guide-2026-v3.webp"
 toc: true
 ---
 

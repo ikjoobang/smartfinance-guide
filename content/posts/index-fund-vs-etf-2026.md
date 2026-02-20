@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["index fund vs ETF", "ETF comparison", "Index Fund vs ETF", "personal finance 2026", "money management"]
 keywords: ["index fund vs ETF 2026", "best ETF comparison", "index fund vs ETF guide"]
 author: "Finance Expert"
-image: "/images/posts/index-fund-vs-etf-2026.webp"
+image: "/images/posts/index-fund-vs-etf-2026-v3.webp"
 toc: true
 ---
 

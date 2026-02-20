@@ -8,7 +8,7 @@ categories: ["Career"]
 tags: ["employee benefits", "benefits negotiation", "Employee Benefits", "personal finance 2026", "money management"]
 keywords: ["employee benefits 2026", "best benefits negotiation", "employee benefits guide"]
 author: "Finance Expert"
-image: "/images/posts/best-employee-benefits-2026.webp"
+image: "/images/posts/best-employee-benefits-2026-v3.webp"
 toc: true
 ---
 

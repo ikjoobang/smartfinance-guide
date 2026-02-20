@@ -8,7 +8,7 @@ categories: ["Tax & Retirement"]
 tags: ["side hustle taxes", "freelance tax deductions", "Side Hustle Tax", "personal finance 2026", "money management"]
 keywords: ["side hustle taxes 2026", "best freelance tax deductions", "side hustle taxes guide"]
 author: "Finance Expert"
-image: "/images/posts/side-hustle-tax-guide-2026.webp"
+image: "/images/posts/side-hustle-tax-guide-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["short term investments", "low risk investments", "Short-Term Invest", "personal finance 2026", "money management"]
 keywords: ["short term investments 2026", "best low risk investments", "short term investments guide"]
 author: "Finance Expert"
-image: "/images/posts/best-short-term-investments-2026.webp"
+image: "/images/posts/best-short-term-investments-2026-v3.webp"
 toc: true
 ---
 

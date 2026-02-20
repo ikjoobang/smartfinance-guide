@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["required minimum distribution", "RMD rules", "RMD Guide", "personal finance 2026", "money management"]
 keywords: ["required minimum distribution 2026", "best RMD rules", "required minimum distribution guide"]
 author: "Finance Expert"
-image: "/images/posts/required-minimum-distribution-2026.webp"
+image: "/images/posts/required-minimum-distribution-2026-v3.webp"
 toc: true
 ---
 

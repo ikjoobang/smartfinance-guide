@@ -8,7 +8,7 @@ categories: ["Savings"]
 tags: ["best CD rates", "certificate of deposit", "CD Rates", "personal finance 2026", "money management"]
 keywords: ["best CD rates 2026", "best certificate of deposit", "best CD rates guide"]
 author: "Finance Expert"
-image: "/images/posts/best-cd-rates-guide-2026.webp"
+image: "/images/posts/best-cd-rates-guide-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["international ETFs", "global investing ETF", "International ETFs", "personal finance 2026", "money management"]
 keywords: ["international ETFs 2026", "best global investing ETF", "international ETFs guide"]
 author: "Finance Expert"
-image: "/images/posts/best-international-etfs-2026.webp"
+image: "/images/posts/best-international-etfs-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Credit Cards"]
 tags: ["prepaid travel cards", "travel money cards", "Travel Prepaid", "personal finance 2026", "money management"]
 keywords: ["prepaid travel cards 2026", "best travel money cards", "prepaid travel cards guide"]
 author: "Finance Expert"
-image: "/images/posts/best-prepaid-cards-travel-2026.webp"
+image: "/images/posts/best-prepaid-cards-travel-2026-v3.webp"
 toc: true
 ---
 

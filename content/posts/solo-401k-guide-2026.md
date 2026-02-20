@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["solo 401k", "individual 401k", "Solo 401k", "personal finance 2026", "money management"]
 keywords: ["solo 401k 2026", "best individual 401k", "solo 401k guide"]
 author: "Finance Expert"
-image: "/images/posts/solo-401k-guide-2026.webp"
+image: "/images/posts/solo-401k-guide-2026-v3.webp"
 toc: true
 ---
 

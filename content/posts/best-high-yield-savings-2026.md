@@ -8,7 +8,7 @@ categories: ["Finance"]
 tags: ["highest APY savings", "online savings accounts", "best-high-yield-savings-accounts", "best-2026"]
 keywords: ["best high yield savings accounts FDIC insured 2026", "4% APY savings account comparison"]
 author: "Smart Finance Guide"
-image: "/images/posts/best-high-yield-savings-2026-v2.webp"
+image: "/images/posts/best-high-yield-savings-2026-v3.webp"
 toc: true
 ---
 

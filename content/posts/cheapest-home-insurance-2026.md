@@ -17,7 +17,7 @@ keywords:
  - "affordable homeowners insurance"
  - "lowest home insurance rates"
 author: "Finance AI Guide Expert"
-image: "/images/posts/cheapest-home-insurance-2026.webp"
+image: "/images/posts/cheapest-home-insurance-2026-v3.webp"
 toc: true
 ---
 

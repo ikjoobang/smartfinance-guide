@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["cheap-renters-insurance", "affordable-renters-insurance", "best-renters-insurance-cheap", "finance-guide", "money-2026"]
 keywords: ["cheap renters insurance guide 2026", "best affordable renters insurance 2026", "cheap renters insurance comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-renters-insurance-cheap-2026.webp"
+image: "/images/posts/best-renters-insurance-cheap-2026-v3.webp"
 toc: true
 ---
 

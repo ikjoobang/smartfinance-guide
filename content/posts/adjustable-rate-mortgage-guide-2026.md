@@ -8,7 +8,7 @@ categories: ["Loans"]
 tags: ["adjustable rate mortgage", "ARM loan guide", "ARM Guide", "personal finance 2026", "money management"]
 keywords: ["adjustable rate mortgage 2026", "best ARM loan guide", "adjustable rate mortgage guide"]
 author: "Finance Expert"
-image: "/images/posts/adjustable-rate-mortgage-guide-2026.webp"
+image: "/images/posts/adjustable-rate-mortgage-guide-2026-v3.webp"
 toc: true
 ---
 

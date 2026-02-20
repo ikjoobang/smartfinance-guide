@@ -8,7 +8,7 @@ categories: ["Personal Finance"]
 tags: ["first time homebuyer", "home buying tips", "First-Time Buyer", "personal finance 2026", "money management"]
 keywords: ["first time homebuyer 2026", "best home buying tips", "first time homebuyer guide"]
 author: "Finance Expert"
-image: "/images/posts/first-time-homebuyer-guide-2026.webp"
+image: "/images/posts/first-time-homebuyer-guide-2026-v3.webp"
 toc: true
 ---
 

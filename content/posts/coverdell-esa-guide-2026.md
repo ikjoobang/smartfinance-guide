@@ -8,7 +8,7 @@ categories: ["Savings"]
 tags: ["Coverdell ESA", "education savings account", "Coverdell ESA", "personal finance 2026", "money management"]
 keywords: ["Coverdell ESA 2026", "best education savings account", "Coverdell ESA guide"]
 author: "Finance Expert"
-image: "/images/posts/coverdell-esa-guide-2026.webp"
+image: "/images/posts/coverdell-esa-guide-2026-v3.webp"
 toc: true
 ---
 

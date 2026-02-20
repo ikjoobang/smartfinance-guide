@@ -8,7 +8,7 @@ categories: ["Loans & Real Estate"]
 tags: ["debt avalanche vs snowball", "debt payoff strategy", "Debt Strategy", "personal finance 2026", "money management"]
 keywords: ["debt avalanche vs snowball 2026", "best debt payoff strategy", "debt avalanche vs snowball guide"]
 author: "Finance Expert"
-image: "/images/posts/debt-avalanche-vs-snowball-2026.webp"
+image: "/images/posts/debt-avalanche-vs-snowball-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["ACA plans 2026", "Obamacare enrollment", "health-insurance-marketplace", "health-2026"]
 keywords: ["health insurance marketplace open enrollment dates 2026", "cheapest marketplace plans"]
 author: "Smart Finance Guide"
-image: "/images/posts/health-insurance-marketplace-2026.webp"
+image: "/images/posts/health-insurance-marketplace-2026-v3.webp"
 toc: true
 ---
 

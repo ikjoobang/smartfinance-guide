@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["adjusted gross income", "AGI calculation", "AGI Guide", "personal finance 2026", "money management"]
 keywords: ["adjusted gross income 2026", "best AGI calculation", "adjusted gross income guide"]
 author: "Finance Expert"
-image: "/images/posts/agi-adjusted-gross-income-2026.webp"
+image: "/images/posts/agi-adjusted-gross-income-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["Series I bonds", "I bonds interest rate", "I Bonds", "personal finance 2026", "money management"]
 keywords: ["Series I bonds 2026", "best I bonds interest rate", "Series I bonds guide"]
 author: "Finance Expert"
-image: "/images/posts/series-i-bonds-guide-2026.webp"
+image: "/images/posts/series-i-bonds-guide-2026-v3.webp"
 toc: true
 ---
 

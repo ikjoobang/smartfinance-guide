@@ -8,7 +8,7 @@ categories: ["Credit Cards"]
 tags: ["best airline credit cards", "travel miles cards", "Airline Cards", "personal finance 2026", "money management"]
 keywords: ["best airline credit cards 2026", "best travel miles cards", "best airline credit cards guide"]
 author: "Finance Expert"
-image: "/images/posts/best-airline-credit-cards-2026.webp"
+image: "/images/posts/best-airline-credit-cards-2026-v3.webp"
 toc: true
 ---
 

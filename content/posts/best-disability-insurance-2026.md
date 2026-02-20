@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["disability insurance", "income protection insurance", "Disability Insurance", "personal finance 2026", "money management"]
 keywords: ["disability insurance 2026", "best income protection insurance", "disability insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-disability-insurance-2026.webp"
+image: "/images/posts/best-disability-insurance-2026-v3.webp"
 toc: true
 ---
 

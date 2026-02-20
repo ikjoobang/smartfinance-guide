@@ -17,7 +17,7 @@ keywords:
  - "ACA marketplace plans comparison"
  - "open enrollment deadlines"
 author: "Finance AI Guide Expert"
-image: "/images/posts/health-insurance-open-enrollment-2026.webp"
+image: "/images/posts/health-insurance-open-enrollment-2026-v3.webp"
 toc: true
 ---
 

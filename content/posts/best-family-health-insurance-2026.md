@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["family health insurance", "family coverage plans", "Family Health", "personal finance 2026", "money management"]
 keywords: ["family health insurance 2026", "best family coverage plans", "family health insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-family-health-insurance-2026.webp"
+image: "/images/posts/best-family-health-insurance-2026-v3.webp"
 toc: true
 ---
 

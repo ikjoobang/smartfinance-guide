@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["529-plan", "college-savings-plan", "529-plan-best", "finance-guide", "money-2026"]
 keywords: ["529 plan guide 2026", "best college savings plan 2026", "529 plan comparison"]
 author: "Finance Expert"
-image: "/images/posts/529-plan-best-2026.webp"
+image: "/images/posts/529-plan-best-2026-v3.webp"
 toc: true
 ---
 

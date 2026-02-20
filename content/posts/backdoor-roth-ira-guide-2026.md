@@ -8,7 +8,7 @@ categories: ["Tax & Retirement"]
 tags: ["backdoor Roth IRA", "Roth conversion", "Backdoor Roth IRA", "personal finance 2026", "money management"]
 keywords: ["backdoor Roth IRA 2026", "best Roth conversion", "backdoor Roth IRA guide"]
 author: "Finance Expert"
-image: "/images/posts/backdoor-roth-ira-guide-2026.webp"
+image: "/images/posts/backdoor-roth-ira-guide-2026-v3.webp"
 toc: true
 ---
 

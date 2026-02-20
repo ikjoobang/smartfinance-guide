@@ -8,7 +8,7 @@ categories: ["Taxes"]
 tags: ["foreign tax credit", "international tax", "Foreign Tax Credit", "personal finance 2026", "money management"]
 keywords: ["foreign tax credit 2026", "best international tax", "foreign tax credit guide"]
 author: "Finance Expert"
-image: "/images/posts/foreign-tax-credit-guide-2026.webp"
+image: "/images/posts/foreign-tax-credit-guide-2026-v3.webp"
 toc: true
 ---
 

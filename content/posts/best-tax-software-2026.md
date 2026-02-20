@@ -8,7 +8,7 @@ categories: ["Finance Guide"]
 tags: ["tax-software", "online-tax-filing", "best-tax-software", "finance-guide", "money-2026"]
 keywords: ["tax software guide 2026", "best online tax filing 2026", "tax software comparison"]
 author: "Finance Expert"
-image: "/images/posts/best-tax-software-2026.webp"
+image: "/images/posts/best-tax-software-2026-v3.webp"
 toc: true
 ---
 

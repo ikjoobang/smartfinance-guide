@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["value investing", "undervalued stocks", "Value Investing", "personal finance 2026", "money management"]
 keywords: ["value investing 2026", "best undervalued stocks", "value investing guide"]
 author: "Finance Expert"
-image: "/images/posts/value-investing-guide-2026.webp"
+image: "/images/posts/value-investing-guide-2026-v3.webp"
 toc: true
 ---
 

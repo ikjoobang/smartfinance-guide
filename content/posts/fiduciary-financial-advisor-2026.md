@@ -8,7 +8,7 @@ categories: ["Planning"]
 tags: ["fiduciary financial advisor", "fee-only advisor", "Fiduciary Advisor", "personal finance 2026", "money management"]
 keywords: ["fiduciary financial advisor 2026", "best fee-only advisor", "fiduciary financial advisor guide"]
 author: "Finance Expert"
-image: "/images/posts/fiduciary-financial-advisor-2026.webp"
+image: "/images/posts/fiduciary-financial-advisor-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Retirement"]
 tags: ["401k contribution limits", "401k max contribution", "401k Limits", "personal finance 2026", "money management"]
 keywords: ["401k contribution limits 2026", "best 401k max contribution", "401k contribution limits guide"]
 author: "Finance Expert"
-image: "/images/posts/401k-contribution-limits-2026.webp"
+image: "/images/posts/401k-contribution-limits-2026-v3.webp"
 toc: true
 ---
 

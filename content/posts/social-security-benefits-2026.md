@@ -8,7 +8,7 @@ categories: ["Insurance & Finance"]
 tags: ["social security benefits", "social security retirement", "social security benefits 2026", "best social security benefits"]
 keywords: ["social security benefits 2026", "best social security retirement", "social security benefits comparison guide"]
 author: "Finance Expert"
-image: "/images/posts/social-security-benefits-2026.webp"
+image: "/images/posts/social-security-benefits-2026-v3.webp"
 toc: true
 ---
 

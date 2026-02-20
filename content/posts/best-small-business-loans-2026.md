@@ -17,7 +17,7 @@ keywords:
  - "SBA loan rates comparison"
  - "fast business funding options"
 author: "Finance AI Guide Expert"
-image: "/images/posts/best-small-business-loans-2026.webp"
+image: "/images/posts/best-small-business-loans-2026-v3.webp"
 toc: true
 ---
 

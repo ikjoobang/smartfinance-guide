@@ -8,7 +8,7 @@ categories: ["Savings"]
 tags: ["529 vs Coverdell", "education savings comparison", "529 vs Coverdell", "personal finance 2026", "money management"]
 keywords: ["529 vs Coverdell 2026", "best education savings comparison", "529 vs Coverdell guide"]
 author: "Finance Expert"
-image: "/images/posts/529-vs-coverdell-comparison-2026.webp"
+image: "/images/posts/529-vs-coverdell-comparison-2026-v3.webp"
 toc: true
 ---
 

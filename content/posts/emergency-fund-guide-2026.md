@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["emergency fund", "how much emergency fund", "Emergency Fund", "personal finance 2026", "money management"]
 keywords: ["emergency fund 2026", "best how much emergency fund", "emergency fund guide"]
 author: "Finance Expert"
-image: "/images/posts/emergency-fund-guide-2026.webp"
+image: "/images/posts/emergency-fund-guide-2026-v3.webp"
 toc: true
 ---
 

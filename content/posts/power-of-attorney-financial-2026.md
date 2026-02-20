@@ -8,7 +8,7 @@ categories: ["Planning"]
 tags: ["financial power of attorney", "POA document", "Financial POA", "personal finance 2026", "money management"]
 keywords: ["financial power of attorney 2026", "best POA document", "financial power of attorney guide"]
 author: "Finance Expert"
-image: "/images/posts/power-of-attorney-financial-2026.webp"
+image: "/images/posts/power-of-attorney-financial-2026-v3.webp"
 toc: true
 ---
 

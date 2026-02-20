@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["best motorcycle insurance", "bike insurance comparison", "Motorcycle Insurance", "personal finance 2026", "money management"]
 keywords: ["best motorcycle insurance 2026", "best bike insurance comparison", "best motorcycle insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/best-motorcycle-insurance-2026.webp"
+image: "/images/posts/best-motorcycle-insurance-2026-v3.webp"
 toc: true
 ---
 

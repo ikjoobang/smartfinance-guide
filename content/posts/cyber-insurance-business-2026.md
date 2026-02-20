@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["cyber liability insurance", "data breach insurance", "cyber-insurance", "cyber-2026"]
 keywords: ["how much does cyber insurance cost for small business", "best cyber insurance companies 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/cyber-insurance-business-2026.webp"
+image: "/images/posts/cyber-insurance-business-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Investing"]
 tags: ["peer to peer lending", "P2P investing", "P2P Lending", "personal finance 2026", "money management"]
 keywords: ["peer to peer lending 2026", "best P2P investing", "peer to peer lending guide"]
 author: "Finance Expert"
-image: "/images/posts/best-peer-to-peer-lending-2026.webp"
+image: "/images/posts/best-peer-to-peer-lending-2026-v3.webp"
 toc: true
 ---
 

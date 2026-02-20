@@ -8,7 +8,7 @@ categories: ["Planning"]
 tags: ["living trust", "revocable living trust", "Living Trust", "personal finance 2026", "money management"]
 keywords: ["living trust 2026", "best revocable living trust", "living trust guide"]
 author: "Finance Expert"
-image: "/images/posts/living-trust-guide-2026.webp"
+image: "/images/posts/living-trust-guide-2026-v3.webp"
 toc: true
 ---
 

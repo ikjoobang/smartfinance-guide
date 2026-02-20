@@ -8,7 +8,7 @@ categories: ["Credit Cards"]
 tags: ["best student credit cards", "college credit cards", "Student Cards", "personal finance 2026", "money management"]
 keywords: ["best student credit cards 2026", "best college credit cards", "best student credit cards guide"]
 author: "Finance Expert"
-image: "/images/posts/best-student-credit-cards-2026.webp"
+image: "/images/posts/best-student-credit-cards-2026-v3.webp"
 toc: true
 ---
 

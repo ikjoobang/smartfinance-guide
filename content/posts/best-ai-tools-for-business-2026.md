@@ -8,7 +8,7 @@ categories: ["AI Tools"]
 tags: ["AI business tools", "AI automation tools", "best-ai-tools-for-business", "best-2026"]
 keywords: ["best AI tools for small business owners 2026", "free AI tools for entrepreneurs"]
 author: "Smart Finance Guide"
-image: "/images/posts/best-ai-tools-for-business-2026.webp"
+image: "/images/posts/best-ai-tools-for-business-2026-v3.webp"
 toc: true
 ---
 

@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["umbrella insurance", "excess liability coverage", "Umbrella Insurance", "personal finance 2026", "money management"]
 keywords: ["umbrella insurance 2026", "best excess liability coverage", "umbrella insurance guide"]
 author: "Finance Expert"
-image: "/images/posts/umbrella-insurance-complete-guide-2026.webp"
+image: "/images/posts/umbrella-insurance-complete-guide-2026-v3.webp"
 toc: true
 ---
 

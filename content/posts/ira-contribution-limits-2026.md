@@ -17,7 +17,7 @@ keywords:
  - "Roth IRA maximum contribution"
  - "traditional IRA rules 2026"
 author: "Finance AI Guide Expert"
-image: "/images/posts/ira-contribution-limits-2026.webp"
+image: "/images/posts/ira-contribution-limits-2026-v3.webp"
 toc: true
 ---
 

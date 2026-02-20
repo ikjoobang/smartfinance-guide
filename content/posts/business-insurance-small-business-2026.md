@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["business liability insurance", "commercial insurance", "small-business-insurance", "small-2026"]
 keywords: ["how much does small business insurance cost", "best business insurance for LLC 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/business-insurance-small-business-2026-v2.webp"
+image: "/images/posts/business-insurance-small-business-2026-v3.webp"
 toc: true
 ---
 
