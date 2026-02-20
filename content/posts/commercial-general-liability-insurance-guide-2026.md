@@ -4,6 +4,7 @@ description: "Master the commercial general liability insurance guide for 2026. 
 date: 2026-02-19
 lastmod: 2026-02-19
 draft: false
+image: "/images/posts/commercial-general-liability-insurance-guide-2026-v3.webp"
 categories: ["Finance"]
 tags: ["business insurance", "liability coverage", "risk management", "commercial insurance", "CGL policy"]
 keywords: ["CGL insurance explained", "general liability cost 2026", "business liability limits", "product liability coverage", "slip and fall insurance"]
