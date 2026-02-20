@@ -1,7 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /tags/
-Disallow: /categories/
 Disallow: /admin/
 Disallow: /page/
 

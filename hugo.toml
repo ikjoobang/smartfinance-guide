@@ -10,8 +10,8 @@ disableKinds = ["sitemap"]
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
-  series = "series"
+  # tag = "tags"  # REMOVED: 1,971 junk pages
+  # series = "series"  # REMOVED
 
 [pagination]
   pagerSize = 12
