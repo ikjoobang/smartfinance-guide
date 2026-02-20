@@ -1,5 +1,7 @@
 /tags/* /404.html 404
 /tags /404.html 404
+/tags/ /404.html 404
 /series/* /404.html 404
 /series /404.html 404
+/series/ /404.html 404
 /page/* /404.html 404
