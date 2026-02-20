@@ -17,7 +17,7 @@ keywords:
  - "instant approval life insurance"
  - "best no exam life insurance companies"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/life-insurance-no-medical-exam-2026.webp"
+image: "/images/posts/life-insurance-no-medical-exam-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

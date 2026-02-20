@@ -17,7 +17,7 @@ keywords:
  - "E&O insurance for freelancers"
  - "professional liability insurance comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/errors-omissions-insurance-guide-2026.webp"
+image: "/images/posts/errors-omissions-insurance-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

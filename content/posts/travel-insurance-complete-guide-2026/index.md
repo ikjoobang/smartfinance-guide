@@ -17,7 +17,7 @@ keywords:
  - "travel insurance worth it"
  - "travel insurance comparison chart"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/travel-insurance-complete-guide-2026.webp"
+image: "/images/posts/travel-insurance-complete-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

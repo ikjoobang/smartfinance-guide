@@ -17,7 +17,7 @@ keywords:
  - "NFIP vs private flood insurance"
  - "do I need flood insurance"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/flood-insurance-homeowners-guide-2026.webp"
+image: "/images/posts/flood-insurance-homeowners-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

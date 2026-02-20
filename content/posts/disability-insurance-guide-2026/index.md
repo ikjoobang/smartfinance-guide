@@ -17,7 +17,7 @@ keywords:
  - "short term vs long term disability insurance"
  - "best disability insurance companies"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/disability-insurance-guide-2026.webp"
+image: "/images/posts/disability-insurance-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

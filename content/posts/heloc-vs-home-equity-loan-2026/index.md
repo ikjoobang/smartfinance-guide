@@ -17,7 +17,7 @@ keywords:
  - "HELOC rates today"
  - "home equity loan comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/heloc-vs-home-equity-loan-2026.webp"
+image: "/images/posts/heloc-vs-home-equity-loan-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

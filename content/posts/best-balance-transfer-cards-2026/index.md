@@ -17,7 +17,7 @@ keywords:
  - "0 percent APR credit cards"
  - "balance transfer card comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-balance-transfer-cards-2026.webp"
+image: "/images/posts/best-balance-transfer-cards-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

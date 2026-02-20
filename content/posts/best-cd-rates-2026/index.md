@@ -17,7 +17,7 @@ keywords:
  - "highest CD rates today"
  - "CD rates comparison by bank"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-cd-rates-2026.webp"
+image: "/images/posts/best-cd-rates-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

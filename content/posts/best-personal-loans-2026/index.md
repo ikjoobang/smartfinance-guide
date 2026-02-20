@@ -17,7 +17,7 @@ keywords:
  - "lowest personal loan rates"
  - "personal loan comparison"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-personal-loans-2026.webp"
+image: "/images/posts/best-personal-loans-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

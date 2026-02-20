@@ -17,7 +17,7 @@ keywords:
  - "improve credit score 100 points"
  - "credit building strategies"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/build-credit-score-fast-2026.webp"
+image: "/images/posts/build-credit-score-fast-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

@@ -17,7 +17,7 @@ keywords:
  - "best home warranty companies 2026"
  - "is home warranty worth it"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/home-warranty-vs-home-insurance-2026.webp"
+image: "/images/posts/home-warranty-vs-home-insurance-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

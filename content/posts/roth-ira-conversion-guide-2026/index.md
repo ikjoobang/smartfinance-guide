@@ -17,7 +17,7 @@ keywords:
  - "is Roth conversion worth it"
  - "Roth IRA conversion tax calculator"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/roth-ira-conversion-guide-2026.webp"
+image: "/images/posts/roth-ira-conversion-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

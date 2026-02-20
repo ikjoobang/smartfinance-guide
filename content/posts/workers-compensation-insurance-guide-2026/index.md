@@ -17,7 +17,7 @@ keywords:
  - "workers comp requirements by state"
  - "cheapest workers comp insurance"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/workers-compensation-insurance-guide-2026.webp"
+image: "/images/posts/workers-compensation-insurance-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

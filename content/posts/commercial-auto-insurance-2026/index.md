@@ -17,7 +17,7 @@ keywords:
  - "best commercial auto insurance companies"
  - "business vehicle insurance requirements"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/commercial-auto-insurance-2026.webp"
+image: "/images/posts/commercial-auto-insurance-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

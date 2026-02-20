@@ -17,7 +17,7 @@ keywords:
  - "money market vs savings account"
  - "highest money market rates"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/best-money-market-accounts-2026.webp"
+image: "/images/posts/best-money-market-accounts-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

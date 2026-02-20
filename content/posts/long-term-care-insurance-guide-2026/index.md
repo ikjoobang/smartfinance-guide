@@ -17,7 +17,7 @@ keywords:
  - "best long term care insurance companies"
  - "when to buy long term care insurance"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/long-term-care-insurance-guide-2026.webp"
+image: "/images/posts/long-term-care-insurance-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

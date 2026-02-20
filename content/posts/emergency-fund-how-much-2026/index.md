@@ -17,7 +17,7 @@ keywords:
  - "emergency fund calculator"
  - "emergency savings by age"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/emergency-fund-how-much-2026-v2.webp"
+image: "/images/posts/emergency-fund-how-much-2026-v4.webp""
 toc: true
 schema: "Article"
 ---

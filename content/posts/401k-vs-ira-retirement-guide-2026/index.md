@@ -17,7 +17,7 @@ keywords:
  - "retirement account comparison"
  - "Roth IRA vs traditional IRA 2026"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/401k-vs-ira-retirement-guide-2026.webp"
+image: "/images/posts/401k-vs-ira-retirement-guide-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

@@ -17,7 +17,7 @@ keywords:
  - "best student loan refinance companies"
  - "should I refinance student loans"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/student-loan-refinancing-2026.webp"
+image: "/images/posts/student-loan-refinancing-2026-v3.webp""
 toc: true
 schema: "Article"
 ---

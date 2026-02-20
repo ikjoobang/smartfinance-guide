@@ -17,7 +17,7 @@ keywords:
  - "how much umbrella insurance do I need"
  - "best umbrella insurance companies"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/umbrella-insurance-guide-2026.webp"
+image: "/images/posts/umbrella-insurance-guide-2026-v4.webp"
 toc: true
 schema: "Article"
 ---

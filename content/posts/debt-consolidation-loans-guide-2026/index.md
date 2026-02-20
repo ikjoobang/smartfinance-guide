@@ -17,7 +17,7 @@ keywords:
  - "how to consolidate credit card debt"
  - "debt consolidation vs bankruptcy"
 author: "Smart Finance Guide Editorial Team"
-image: "/images/posts/debt-consolidation-loans-guide-2026.webp"
+image: "/images/posts/debt-consolidation-loans-guide-2026-v4.webp""
 toc: true
 schema: "Article"
 ---
