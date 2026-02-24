@@ -34,7 +34,7 @@ According to industry data, households that actively manage their travel medical
 
 Travel Medical Insurance works differently from other types of coverage you may be familiar with. The specific benefits, exclusions, and cost structures vary significantly between providers, making comparison shopping particularly valuable in this category.
 
-👉 For related information, check out our guide on [Workers Compensation Insurance Guide](/posts/workers-compensation-insurance-guide-2026/).
+👉 For related information, check out our guide on [Workers Compensation Insurance Guide](/posts/liability-insurance-small-business-2026/).
 
 
 ## Travel Medical Insurance Comparison — Key Factors to Consider
@@ -136,7 +136,7 @@ International Health Coverage continues to evolve, and staying informed about th
 
 ## Related Articles You May Find Helpful
 
-- [Workers Compensation Insurance Guide](/posts/workers-compensation-insurance-guide-2026/)
+- [Workers Compensation Insurance Guide](/posts/liability-insurance-small-business-2026/)
 - [Best Homeowners Insurance 2026](/posts/best-homeowners-insurance-2026/)
 - [Best Health Insurance Self-Employed](/posts/best-health-insurance-self-employed-2026/)
 - [Best Life Insurance Companies 2026](/posts/best-life-insurance-companies-2026/)

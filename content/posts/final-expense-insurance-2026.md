@@ -148,4 +148,4 @@ Yes. There's no limit to the number of final expense insurance policies you can 
 - [Term vs Whole Life Insurance 2026 — Which Is Better for You?](/posts/term-vs-whole-life-insurance-2026/)
 - [Best Life Insurance Companies 2026 — Expert Rankings](/posts/best-life-insurance-companies-2026/)
 - [Whole Life vs Universal Life Insurance — Complete Comparison](/posts/whole-life-vs-universal-life-2026/)
-- [Estate Planning Essentials 2026 — Protect Your Family's Future](/posts/estate-planning-essentials-2026/)
+- [Estate Planning Essentials 2026 — Protect Your Family's Future](/posts/estate-planning-basics-guide-2026/)

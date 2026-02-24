@@ -44,7 +44,7 @@ Key person insurance provides immediate capital to weather these disruptions. Th
 
 Common scenarios where key person insurance is essential include small businesses with a dominant founder, tech startups where one developer holds critical IP knowledge, sales-driven companies where a top producer manages major accounts, and any business seeking loans or investment where lenders require key person coverage.
 
-👉 [Need general business coverage too? Read our small business insurance guide](/posts/small-business-insurance-guide-2026/)
+👉 [Need general business coverage too? Read our small business insurance guide](/posts/business-insurance-small-business-2026/)
 
 ---
 
@@ -133,7 +133,7 @@ Setting up key person insurance involves several business and legal consideratio
 
 **Step 7: Review annually** — Reassess coverage needs as the business grows, key persons change, or compensation levels shift. Key person insurance should evolve with your business.
 
-👉 [Planning your exit strategy? Read our buy-sell agreement guide](/posts/estate-planning-essentials-2026/)
+👉 [Planning your exit strategy? Read our buy-sell agreement guide](/posts/estate-planning-basics-guide-2026/)
 
 ---
 
@@ -164,8 +164,8 @@ Key person insurance benefits the business entity to cover financial losses. Buy
 
 ## Related Articles
 
-- [Small Business Insurance Guide 2026 — Everything You Need](/posts/small-business-insurance-guide-2026/)
+- [Small Business Insurance Guide 2026 — Everything You Need](/posts/business-insurance-small-business-2026/)
 - [Best Life Insurance Companies 2026 — Expert Rankings](/posts/best-life-insurance-companies-2026/)
 - [Professional Liability Insurance 2026 — Complete Guide](/posts/professional-liability-insurance-2026/)
-- [Estate Planning Essentials 2026 — Protect Your Legacy](/posts/estate-planning-essentials-2026/)
-- [LLC Tax Guide 2026 — Business Structure & Tax Optimization](/posts/llc-tax-benefits-guide-2026/)
+- [Estate Planning Essentials 2026 — Protect Your Legacy](/posts/estate-planning-basics-guide-2026/)
+- [LLC Tax Guide 2026 — Business Structure & Tax Optimization](/posts/llc-vs-sole-proprietor-2026/)

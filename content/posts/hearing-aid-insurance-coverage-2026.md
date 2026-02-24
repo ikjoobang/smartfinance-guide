@@ -58,7 +58,7 @@ Hearing Aid Coverage plays an important role in the overall value equation. Prov
 - ☑️ Verify the claims process is straightforward
 - ☑️ Ask about available discounts and bundling options
 
-👉 Learn more about coverage options in our [Workers Compensation Insurance Guide](/posts/workers-compensation-insurance-guide-2026/) guide.
+👉 Learn more about coverage options in our [Workers Compensation Insurance Guide](/posts/liability-insurance-small-business-2026/) guide.
 
 
 ## How to Choose the Best Hearing Aid Insurance — Step-by-Step
@@ -137,7 +137,7 @@ Hearing Aid Coverage continues to evolve, and staying informed about the latest 
 ## Related Articles You May Find Helpful
 
 - [Best Disability Insurance Guide](/posts/best-disability-insurance-2026/)
-- [Workers Compensation Insurance Guide](/posts/workers-compensation-insurance-guide-2026/)
+- [Workers Compensation Insurance Guide](/posts/liability-insurance-small-business-2026/)
 - [Best Health Insurance Self-Employed](/posts/best-health-insurance-self-employed-2026/)
 - [Best Auto Insurance Companies](/posts/best-auto-insurance-companies-2026/)
 

@@ -95,7 +95,7 @@ Self-employed individuals have unique critical illness insurance needs. Consider
 
 The most important principle is matching your coverage to your actual needs. Over-insuring wastes money, while under-insuring leaves you vulnerable. A qualified insurance professional or financial advisor can help you find the right balance.
 
-👉 Explore more strategies in our [Roth IRA Conversion Guide](/posts/roth-ira-conversion-guide-2026/) guide.
+👉 Explore more strategies in our [Roth IRA Conversion Guide](/posts/backdoor-roth-ira-guide-2026/) guide.
 
 
 ## Frequently Asked Questions About Critical Illness Insurance
@@ -139,5 +139,5 @@ Critical Illness Coverage continues to evolve, and staying informed about the la
 - [Best Life Insurance Companies](/posts/best-life-insurance-companies-2026/)
 - [Annuity vs 401k Retirement](/posts/annuity-vs-401k-retirement-2026/)
 - [401k Contribution Limits 2026](/posts/401k-contribution-limits-2026/)
-- [Roth IRA Conversion Guide](/posts/roth-ira-conversion-guide-2026/)
+- [Roth IRA Conversion Guide](/posts/backdoor-roth-ira-guide-2026/)
 

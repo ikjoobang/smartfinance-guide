@@ -80,7 +80,7 @@ Indexed universal life insurance has legitimate advantages, but also significant
 | Complexity | Very High | Low | Low |
 | Best For | High earners, tax optimization | Conservative savers | Most people |
 
-👉 [Want simpler options? Check our Roth IRA guide for tax-free growth](/posts/roth-ira-guide-2026/)
+👉 [Want simpler options? Check our Roth IRA guide for tax-free growth](/posts/roth-ira-contribution-guide-2026/)
 
 ---
 
@@ -164,5 +164,5 @@ Most financial advisors recommend overfunding an IUL to maximize cash value grow
 - [Term vs Whole Life Insurance 2026 — Complete Comparison Guide](/posts/term-vs-whole-life-insurance-2026/)
 - [Whole Life vs Universal Life Insurance — Which Is Better?](/posts/whole-life-vs-universal-life-2026/)
 - [Best Life Insurance Companies 2026 — Expert Rankings](/posts/best-life-insurance-companies-2026/)
-- [Roth IRA Guide 2026 — Tax-Free Retirement Savings](/posts/roth-ira-guide-2026/)
+- [Roth IRA Guide 2026 — Tax-Free Retirement Savings](/posts/roth-ira-contribution-guide-2026/)
 - [401(k) Contribution Limits 2026 — Maximize Your Retirement](/posts/401k-contribution-limits-2026/)
