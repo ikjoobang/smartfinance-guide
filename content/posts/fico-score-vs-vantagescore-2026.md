@@ -99,7 +99,7 @@ The most important thing is to take action. Procrastination costs Americans an e
 
 **Q1. How much should I budget for FICO vs VantageScore per month?**
 
-Most Americans should budget 2-5% of their monthly income for FICO vs VantageScore. For a household earning $6,000/month, that is $120-300. Start with essential coverage and upgrade as your income grows.
+Start with what fits your current budget and increase contributions as your income grows. Even small, consistent steps compound significantly over time.
 
 **Q2. Can I switch FICO vs VantageScore providers without penalty?**
 

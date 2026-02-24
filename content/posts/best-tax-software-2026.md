@@ -99,7 +99,7 @@ The most important thing is to take action. Procrastination costs Americans an e
 
 **Q1. How much should I budget for tax software per month?**
 
-Most Americans should budget 2-5% of their monthly income for tax software. For a household earning $6,000/month, that is $120-300. Start with essential coverage and upgrade as your income grows.
+Start with what fits your current budget and increase contributions as your income grows. Even small, consistent steps compound significantly over time.
 
 **Q2. Can I switch tax software providers without penalty?**
 

@@ -12,7 +12,7 @@ image: "/images/posts/coverdell-esa-guide-2026-v3.webp"
 toc: true
 ---
 
-🎓 Are you looking to optimize your Coverdell ESA strategy in 2026? Over many Americans don't fully understand their Coverdell ESA options — potentially leaving thousands on the table each year.
+🎓 Are you looking to optimize your Coverdell ESA strategy in 2026? Many people don't fully understand their options.
 
 > **Key Takeaways** 
 > **1.** Understanding Coverdell ESA can save you $2,000-5,000 annually 
