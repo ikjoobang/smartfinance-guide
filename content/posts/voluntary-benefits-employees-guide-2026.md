@@ -8,6 +8,7 @@ categories: ["Finance"]
 tags: ["employee benefits", "compensation", "financial planning", "HR strategies", "paycheck optimization"]
 keywords: ["voluntary benefits employees guide", "best voluntary benefits 2026", "supplemental insurance for employees", "employee financial wellness", "how to choose voluntary benefits"]
 author: "Finance Expert"
+image: "/images/posts/voluntary-benefits-employees-guide-2026.webp"
 toc: true
 ---
 

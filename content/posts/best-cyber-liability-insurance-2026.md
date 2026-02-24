@@ -8,6 +8,7 @@ categories: ["Finance"]
 tags: ["cyber insurance", "business insurance", "risk management", "data breach", "cybersecurity"]
 keywords: ["cyber liability insurance cost", "cyber insurance for small business", "cyber security coverage", "ransomware insurance", "data breach insurance"]
 author: "Finance Expert"
+image: "/images/posts/best-cyber-liability-insurance-2026.webp"
 toc: true
 ---
 

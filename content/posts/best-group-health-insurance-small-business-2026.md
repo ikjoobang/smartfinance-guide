@@ -8,6 +8,7 @@ categories: ["Finance"]
 tags: ["health insurance", "small business", "group coverage", "employee benefits", "HR strategy"]
 keywords: ["affordable small business health insurance", "group health plans comparison", "small business health insurance tax credits"]
 author: "Finance Expert"
+image: "/images/posts/best-group-health-insurance-small-business-2026.webp"
 toc: true
 ---
 

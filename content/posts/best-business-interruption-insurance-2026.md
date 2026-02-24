@@ -8,6 +8,7 @@ categories: ["Finance"]
 tags: ["business insurance", "interruption coverage", "risk management", "BOP", "commercial insurance"]
 keywords: ["business income coverage", "business interruption insurance cost", "contingent business interruption"]
 author: "Finance Expert"
+image: "/images/posts/best-business-interruption-insurance-2026.webp"
 toc: true
 ---
 

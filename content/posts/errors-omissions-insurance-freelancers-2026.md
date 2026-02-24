@@ -8,6 +8,7 @@ categories: ["Finance"]
 tags: ["errors omissions insurance", "freelance insurance", "professional liability", "business insurance", "gig economy"]
 keywords: ["cost of E&O for freelancers", "freelance professional liability coverage", "independent contractor insurance", "E&O insurance exclusions", "general liability vs errors omissions"]
 author: "Finance Expert"
+image: "/images/posts/errors-omissions-insurance-freelancers-2026.webp"
 toc: true
 ---
 

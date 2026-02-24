@@ -8,6 +8,7 @@ categories: ["Finance"]
 tags: ["business insurance", "key person insurance", "corporate planning", "risk management", "life insurance"]
 keywords: ["key person insurance for small business", "buy sell life insurance funded", "key man insurance tax deduction", "business valuation life insurance"]
 author: "Finance Expert"
+image: "/images/posts/key-person-life-insurance-business-2026.webp"
 toc: true
 ---
 

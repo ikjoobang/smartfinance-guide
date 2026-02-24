@@ -8,6 +8,7 @@ categories: ["Finance"]
 tags: ["liability insurance", "professional liability", "business insurance", "risk management", "error and omission"]
 keywords: ["what does professional indemnity insurance cover", "professional indemnity insurance cost", "errors and omissions insurance for consultants", "PI insurance for freelancers"]
 author: "Finance Expert"
+image: "/images/posts/professional-indemnity-insurance-guide-2026.webp"
 toc: true
 ---
 
