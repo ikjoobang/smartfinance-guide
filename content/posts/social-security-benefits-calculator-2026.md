@@ -10,6 +10,7 @@ keywords: ["Social Security benefits 2026", "when to claim Social Security", "So
 author: "Finance Expert"
 image: "/images/posts/social-security-benefits-calculator-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their social security benefits options? This could mean leaving thousands of dollars on the table every year.
