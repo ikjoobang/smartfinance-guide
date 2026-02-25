@@ -10,6 +10,7 @@ keywords: ["key person insurance for small business", "buy sell life insurance f
 author: "Finance Expert"
 image: "/images/posts/key-person-life-insurance-business-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 The sudden loss of a visionary founder or a top sales executive can halt operations and destroy shareholder value overnight. Implementing a robust **key person life insurance business** strategy ensures that your company has the immediate capital necessary to survive the transition and stabilize operations during turbulent times.
