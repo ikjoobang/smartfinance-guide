@@ -10,6 +10,7 @@ keywords: ["529 vs Coverdell 2026", "best education savings comparison", "529 vs
 author: "Finance Expert"
 image: "/images/posts/529-vs-coverdell-comparison-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 🎓 Looking to optimize your 529 vs Coverdell strategy in 2026? Many people overlook key details that could save them significant money.
