@@ -10,6 +10,7 @@ keywords: ["ETF for beginners guide 2026", "best index fund investing 2026", "ET
 author: "Finance Expert"
 image: "/images/posts/best-etf-for-beginners-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Warren Buffett recommends index funds for many investors. Here are the 7 best ETFs to start with in 2026.
