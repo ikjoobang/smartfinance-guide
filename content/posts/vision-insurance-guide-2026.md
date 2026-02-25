@@ -10,6 +10,7 @@ keywords: ["vision insurance 2026", "best eye care coverage", "vision insurance 
 author: "Finance Expert"
 image: "/images/posts/vision-insurance-guide-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 New glasses cost $400+, contacts $600/year. Vision insurance can cut these costs by 60%. Here is how to choose.
