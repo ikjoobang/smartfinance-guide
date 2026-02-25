@@ -10,6 +10,7 @@ keywords: ["what does professional indemnity insurance cover", "professional ind
 author: "Finance Expert"
 image: "/images/posts/professional-indemnity-insurance-guide-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 In the rapidly evolving business landscape of 2026, a single client dispute over alleged negligence can threaten the financial stability of a firm you spent years building. Whether you are a consultant, architect, or healthcare provider, understanding your liability exposure is no longer optional—it is a critical component of financial survival.
