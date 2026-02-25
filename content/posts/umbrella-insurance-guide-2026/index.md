@@ -20,6 +20,7 @@ author: "Smart Finance Guide Editorial Team"
 image: "/images/posts/umbrella-insurance-guide-2026-v4.webp"
 toc: true
 schema: "Article"
+robots: "noindex, follow"
 ---
 
 **Umbrella Insurance** is one of the most searched financial topics in 2026 — and for good reason. With costs rising and options multiplying, making the wrong choice can cost you thousands. In this comprehensive guide, we break down everything you need to know about umbrella insurance to make the smartest decision for your situation.
