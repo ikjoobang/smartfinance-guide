@@ -10,6 +10,7 @@ keywords: ["first time homebuyer 2026", "best home buying tips", "first time hom
 author: "Finance Expert"
 image: "/images/posts/first-time-homebuyer-guide-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🏠 Are you looking to optimize your first time homebuyer strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
