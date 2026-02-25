@@ -10,6 +10,7 @@ keywords: ["best CD rates 2026", "best certificate of deposit", "best CD rates g
 author: "Finance Expert"
 image: "/images/posts/best-cd-rates-guide-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 💿 Are you looking to optimize your best CD rates strategy in 2026? Many people overlook key details that could save them significant money.
