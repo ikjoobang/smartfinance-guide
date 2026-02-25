@@ -10,6 +10,7 @@ keywords: ["real estate investing beginners 2026", "best rental property", "real
 author: "Finance Expert"
 image: "/images/posts/real-estate-investing-beginners-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🏘️ Are you looking to optimize your real estate investing beginners strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
