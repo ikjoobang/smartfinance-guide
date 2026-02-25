@@ -10,6 +10,7 @@ keywords: ["cashback apps guide 2026", "best money saving apps 2026", "cashback 
 author: "Finance Expert"
 image: "/images/posts/best-cashback-apps-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 The average American wastes significant amounts each year by not using cashback apps. These 8 apps pay you to shop.
