@@ -10,6 +10,7 @@ keywords: ["disability insurance cost per month 2026", "best disability insuranc
 author: "Smart Finance Guide"
 image: "/images/posts/disability-insurance-guide-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Is there a financial safety net in place if you suddenly couldn't work due to illness or injury? Shockingly, 1 in 4 workers will experience a disability that keeps them out of work for at least some period of time during their careers.
