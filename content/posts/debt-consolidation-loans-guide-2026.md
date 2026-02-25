@@ -10,6 +10,7 @@ keywords: ["debt consolidation loans for bad credit", "is debt consolidation wor
 author: "Smart Finance Guide"
 image: "/images/posts/debt-consolidation-loans-guide-2026-v4.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Are you drowning in debt and struggling to keep up with multiple payments? You're not alone – the average American household carries over $5,700 in credit card debt alone!
