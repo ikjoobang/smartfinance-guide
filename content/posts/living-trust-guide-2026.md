@@ -10,7 +10,6 @@ keywords: ["living trust 2026", "best revocable living trust", "living trust gui
 author: "Finance Expert"
 image: "/images/posts/living-trust-guide-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 📋 Are you looking to optimize your living trust strategy in 2026? Many people overlook key details that could save them significant money.

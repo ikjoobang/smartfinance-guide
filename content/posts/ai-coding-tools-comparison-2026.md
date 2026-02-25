@@ -10,7 +10,6 @@ keywords: ["AI coding tools 2026", "best AI programming assistants", "AI coding 
 author: "Finance Expert"
 image: "/images/posts/ai-coding-tools-comparison-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 GitHub Copilot, Claude Code, Cursor — which AI coding tool is actually worth paying for? We tested them all.

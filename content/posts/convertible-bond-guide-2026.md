@@ -10,7 +10,6 @@ keywords: ["convertible bonds 2026", "best convertible bond funds", "convertible
 author: "Finance Expert"
 image: "/images/posts/convertible-bond-guide-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 🔄 Are you looking to optimize your convertible bonds strategy in 2026? Many people don't fully understand their options.

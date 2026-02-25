@@ -10,7 +10,6 @@ keywords: ["key person insurance cost 2026", "key man insurance for small busine
 author: "Smart Finance Guide Editorial Team"
 image: "/images/posts/key-person-insurance-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 What would happen to your business if your top salesperson, lead developer, or CEO was suddenly gone? **42% of small businesses never recover from the loss of a key employee**, according to the SBA. Key person insurance is the safety net that prevents a personal tragedy from becoming a business catastrophe.

@@ -10,7 +10,6 @@ keywords: ["maximize social security guide 2026", "best social security strategy
 author: "Finance Expert"
 image: "/images/posts/social-security-maximize-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 The difference between claiming at 62 vs 70 can be $750,000 over your lifetime. Timing is everything.

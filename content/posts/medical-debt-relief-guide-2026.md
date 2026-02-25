@@ -10,7 +10,6 @@ keywords: ["medical debt relief 2026", "best hospital bill negotiation", "medica
 author: "Finance Expert"
 image: "/images/posts/medical-debt-relief-guide-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 🏥 Are you looking to optimize your medical debt relief strategy in 2026? Understanding your options fully can save you thousands of dollars each year.

@@ -10,7 +10,6 @@ keywords: ["high yield checking guide 2026", "best interest checking account 202
 author: "Finance Expert"
 image: "/images/posts/best-high-yield-checking-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Why earn 0.01% at a big bank when these checking accounts offer 3-5% APY on your everyday balance?

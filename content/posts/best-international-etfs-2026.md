@@ -10,7 +10,6 @@ keywords: ["international ETFs 2026", "best global investing ETF", "internationa
 author: "Finance Expert"
 image: "/images/posts/best-international-etfs-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 🌍 Looking to optimize your international ETFs strategy in 2026? Many people overlook key details that could save them significant money.

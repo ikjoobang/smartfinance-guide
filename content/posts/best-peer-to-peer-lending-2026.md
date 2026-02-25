@@ -10,7 +10,6 @@ keywords: ["peer to peer lending 2026", "best P2P investing", "peer to peer lend
 author: "Finance Expert"
 image: "/images/posts/best-peer-to-peer-lending-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 🤲 Are you looking to optimize your peer to peer lending strategy in 2026? Many people don't fully understand their options.

@@ -10,7 +10,6 @@ keywords: ["whole life vs universal guide 2026", "best permanent life insurance 
 author: "Finance Expert"
 image: "/images/posts/whole-life-vs-universal-life-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Both build cash value, but one could cost you $100,000 more over 30 years. Here is the honest comparison.

@@ -10,7 +10,6 @@ keywords: ["wash sale rule 2026", "best wash sale tax", "wash sale rule guide"]
 author: "Finance Expert"
 image: "/images/posts/wash-sale-rule-guide-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 🧼 Are you looking to optimize your wash sale rule strategy in 2026? Many people don't fully understand their options.

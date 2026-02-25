@@ -10,7 +10,6 @@ keywords: ["best S&P 500 index funds 2026", "VOO vs FXAIX vs SWPPX", "cheapest i
 author: "Finance Expert"
 image: "/images/posts/best-index-funds-sp500-2026.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their s&p 500 index funds options? This could mean leaving thousands of dollars on the table every year.

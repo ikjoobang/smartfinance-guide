@@ -10,7 +10,6 @@ keywords: ["crypto tax reporting 2026", "best cryptocurrency taxes", "crypto tax
 author: "Finance Expert"
 image: "/images/posts/crypto-tax-reporting-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 ₿ Are you looking to optimize your crypto tax reporting strategy in 2026? Understanding your options fully can save you thousands of dollars each year.

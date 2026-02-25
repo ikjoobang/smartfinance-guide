@@ -10,7 +10,6 @@ keywords: ["robo advisor guide 2026", "best automated investing 2026", "robo adv
 author: "Finance Expert"
 image: "/images/posts/best-robo-advisors-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Robo-advisors now manage over $1.4 trillion. They charge 0.25% while traditional advisors charge 1%. Is it time to switch?

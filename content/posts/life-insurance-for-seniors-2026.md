@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/life-insurance-for-seniors-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Life insurance premiums increase by 8-10% for every year you wait after age 60. If you're considering coverage, the best time to apply is now.

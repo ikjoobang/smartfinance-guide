@@ -10,7 +10,6 @@ keywords: ["stretch IRA 2026", "best IRA distribution strategy", "stretch IRA gu
 author: "Finance Expert"
 image: "/images/posts/stretch-ira-strategy-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 📜 Are you looking to optimize your stretch IRA strategy in 2026? Many people overlook key details that could save them significant money.

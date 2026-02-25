@@ -10,7 +10,6 @@ keywords: ["best high yield savings accounts FDIC insured 2026", "4% APY savings
 author: "Smart Finance Guide"
 image: "/images/posts/best-high-yield-savings-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Are you tired of your savings account earning next to nothing? In 2026, you don't have to settle for meager returns.

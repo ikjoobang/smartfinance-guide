@@ -10,7 +10,6 @@ keywords: ["1031 exchange 2026", "best like kind exchange", "1031 exchange guide
 author: "Finance Expert"
 image: "/images/posts/1031-exchange-guide-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 🔄 Looking to optimize your 1031 exchange strategy in 2026? Many people overlook key details that could save them significant money.

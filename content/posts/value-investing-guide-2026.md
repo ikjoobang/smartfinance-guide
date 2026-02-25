@@ -10,7 +10,6 @@ keywords: ["value investing 2026", "best undervalued stocks", "value investing g
 author: "Finance Expert"
 image: "/images/posts/value-investing-guide-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 🔍 Are you looking to optimize your value investing strategy in 2026? Many people overlook key details that could save them significant money.

@@ -10,7 +10,6 @@ tags: ["D&O Insurance", "Corporate Liability", "Risk Management", "Executive Pro
 keywords: ["what does D&O insurance cover", "cost of directors and officers insurance", "side A vs side B coverage", "D&O exclusions explained"]
 author: "Finance Expert"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Corporate leadership has never been more vulnerable, and in the high-stakes environment of 2026, the personal assets of your C-suite are constantly on the line. As regulatory frameworks tighten and shareholder activism becomes more sophisticated, relying solely on a company's charter to protect executives is a gamble few can afford to take.

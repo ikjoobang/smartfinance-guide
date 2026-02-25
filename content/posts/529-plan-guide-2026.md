@@ -10,7 +10,6 @@ keywords: ["529 plan 2026", "best college savings", "529 plan guide"]
 author: "Finance Expert"
 image: "/images/posts/529-plan-guide-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 📚 Are you looking to optimize your 529 plan strategy in 2026? Understanding your options fully can save you thousands of dollars each year.

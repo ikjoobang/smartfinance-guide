@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/ira-contribution-limits-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 The IRA contribution limit for 2026 has increased — meaning you can shelter more money from taxes. Here's exactly how much you can contribute and the deadlines.

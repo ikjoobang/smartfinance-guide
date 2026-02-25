@@ -10,7 +10,6 @@ keywords: ["opportunity zone investing 2026", "best QOZ tax benefits", "opportun
 author: "Finance Expert"
 image: "/images/posts/qualified-opportunity-zone-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 🏗️ Are you looking to optimize your opportunity zone investing strategy in 2026? Many people don't fully understand their options.

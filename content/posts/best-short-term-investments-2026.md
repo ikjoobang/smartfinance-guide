@@ -10,7 +10,6 @@ keywords: ["short term investments 2026", "best low risk investments", "short te
 author: "Finance Expert"
 image: "/images/posts/best-short-term-investments-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 ⏱️ Are you looking to optimize your short term investments strategy in 2026? Many people don't fully understand their options.

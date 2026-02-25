@@ -10,7 +10,6 @@ keywords: ["SIMPLE IRA 2026", "best small business retirement", "SIMPLE IRA guid
 author: "Finance Expert"
 image: "/images/posts/simple-ira-guide-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 📋 Are you looking to optimize your SIMPLE IRA strategy in 2026? Many people don't fully understand their options.

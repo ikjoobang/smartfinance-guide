@@ -10,7 +10,6 @@ keywords: ["is renters insurance worth it", "best renters insurance for apartmen
 author: "Smart Finance Guide"
 image: "/images/posts/renters-insurance-guide-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Did you know a fire or theft could leave you financially devastated, even if you don't own your home? Don't let unexpected events wipe out your savings.

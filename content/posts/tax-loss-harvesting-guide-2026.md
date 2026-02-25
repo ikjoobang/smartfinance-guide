@@ -10,7 +10,6 @@ keywords: ["tax loss harvesting 2026", "best capital gains offset", "tax loss ha
 author: "Finance Expert"
 image: "/images/posts/tax-loss-harvesting-guide-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 📉 Are you looking to optimize your tax loss harvesting strategy in 2026? Understanding your options fully can save you thousands of dollars each year.

@@ -10,7 +10,6 @@ keywords: ["mortgage refinance 2026", "best home loan refinancing", "mortgage re
 author: "Finance Expert"
 image: "/images/posts/mortgage-refinance-guide-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Mortgage rates have shifted in 2026. Could refinancing save you $200+ per month? Here is how to calculate.

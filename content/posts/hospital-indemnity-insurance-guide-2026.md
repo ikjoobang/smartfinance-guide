@@ -10,7 +10,6 @@ keywords: ["hospital indemnity insurance", "hospital insurance supplement", "hos
 author: "Smart Finance Guide"
 image: "/images/posts/hospital-indemnity-insurance-guide-2026.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 **Most Americans make at least one costly mistake when choosing hospital indemnity insurance.** According to industry data, consumers who compare options before committing can save hundreds or even thousands of dollars annually. Are you making the right choice?

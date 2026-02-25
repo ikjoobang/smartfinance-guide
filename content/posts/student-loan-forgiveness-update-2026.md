@@ -10,7 +10,6 @@ keywords: ["student loan forgiveness 2026", "student loan forgiveness eligibilit
 author: "Smart Finance Guide"
 image: "/images/posts/student-loan-forgiveness-update-2026.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 **Most Americans make at least one costly mistake when choosing student loan forgiveness 2026.** According to industry data, consumers who compare options before committing can save hundreds or even thousands of dollars annually. Are you making the right choice?

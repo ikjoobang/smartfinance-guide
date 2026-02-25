@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/best-index-funds-beginners-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Warren Buffett's advice to most investors: buy a low-cost index fund. Here's exactly which ones to choose in 2026 and how to get started with as little as $100.

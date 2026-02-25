@@ -10,7 +10,6 @@ keywords: ["best way to invest 10k for beginners", "invest 10000 for passive inc
 author: "Smart Finance Guide"
 image: "/images/posts/how-to-invest-10000-dollars-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Did you know that inflation ate away at nearly 5% of your savings last year? That’s why knowing how to invest 10000 dollars is more crucial than ever in 2026.

@@ -10,7 +10,6 @@ keywords: ["side hustle taxes 2026", "best freelance tax deductions", "side hust
 author: "Finance Expert"
 image: "/images/posts/side-hustle-tax-guide-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 💼 Are you looking to optimize your side hustle taxes strategy in 2026? Understanding your options fully can save you thousands of dollars each year.

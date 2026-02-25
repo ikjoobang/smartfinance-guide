@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/estate-tax-planning-guide-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 The federal estate tax exemption drops from $13.61M to approximately $7M in 2026. If your estate exceeds this threshold, up to 40% could go to taxes.

@@ -10,7 +10,6 @@ keywords: ["Roth 401k vs traditional 2026", "best 401k comparison", "Roth 401k v
 author: "Finance Expert"
 image: "/images/posts/roth-401k-vs-traditional-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 ⚖️ Are you looking to optimize your Roth 401k vs traditional strategy in 2026? Understanding your options fully can save you thousands of dollars each year.

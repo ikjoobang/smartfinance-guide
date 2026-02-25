@@ -10,7 +10,6 @@ keywords: ["car loan rates 2026", "best auto loan comparison", "car loan rates c
 author: "Finance Expert"
 image: "/images/posts/best-car-loan-rates-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Auto loan rates range from 4.5% to 18% in 2026. The difference on a $35,000 car? Over $8,000 in interest.

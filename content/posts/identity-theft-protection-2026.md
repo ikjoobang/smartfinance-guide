@@ -10,7 +10,6 @@ keywords: ["identity theft protection 2026", "best identity monitoring services"
 author: "Finance Expert"
 image: "/images/posts/identity-theft-protection-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 A new identity is stolen every 22 seconds. Here are the best protection services to keep your data safe.

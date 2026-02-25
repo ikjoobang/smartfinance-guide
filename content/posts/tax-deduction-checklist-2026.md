@@ -10,7 +10,6 @@ keywords: ["tax deductions 2026", "best tax write-offs", "tax deductions compari
 author: "Finance Expert"
 image: "/images/posts/tax-deduction-checklist-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 The average American misses $1,200 in tax deductions every year. Do not leave money on the table — use this checklist.

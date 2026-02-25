@@ -10,7 +10,6 @@ keywords: ["life insurance amount guide 2026", "best life insurance calculator 2
 author: "Finance Expert"
 image: "/images/posts/how-much-life-insurance-need-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 The rule of thumb says 10x your salary, but that formula is wrong for many families. Here is how to calculate your real number.

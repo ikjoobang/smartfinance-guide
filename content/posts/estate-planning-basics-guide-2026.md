@@ -10,7 +10,6 @@ keywords: ["estate planning basics 2026", "will vs trust comparison", "how to cr
 author: "Finance Expert"
 image: "/images/posts/estate-planning-basics-guide-2026.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their estate planning basics options? This could mean leaving thousands of dollars on the table every year.

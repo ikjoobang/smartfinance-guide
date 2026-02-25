@@ -10,7 +10,6 @@ keywords: ["tax deductions self employed 2026", "freelancer tax deductions", "ho
 author: "Finance Expert"
 image: "/images/posts/tax-deductions-self-employed-2026.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their tax deductions for self-employed options? This could mean leaving thousands of dollars on the table every year.

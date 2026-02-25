@@ -10,7 +10,6 @@ keywords: ["alternative minimum tax 2026", "best AMT calculation", "alternative 
 author: "Finance Expert"
 image: "/images/posts/amt-alternative-minimum-tax-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 📑 Are you looking to optimize your alternative minimum tax strategy in 2026? Many people overlook key details that could save them significant money.

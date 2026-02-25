@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/best-dividend-stocks-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 The average S&P 500 dividend yield is just 1.3%, but these carefully selected stocks deliver 3-7% yields with a track record of consistent increases.

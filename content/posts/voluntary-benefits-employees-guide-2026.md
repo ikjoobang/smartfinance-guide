@@ -10,7 +10,6 @@ keywords: ["voluntary benefits employees guide", "best voluntary benefits 2026",
 author: "Finance Expert"
 image: "/images/posts/voluntary-benefits-employees-guide-2026.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Are you leaving thousands of dollars on the table every year simply because you ignored the "optional" section of your open enrollment packet? For many American workers, the difference between a stagnant financial future and a growing net worth lies in understanding how to leverage a comprehensive voluntary benefits employees guide.

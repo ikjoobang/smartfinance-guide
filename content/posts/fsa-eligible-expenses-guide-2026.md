@@ -10,7 +10,6 @@ keywords: ['FSA eligible expenses 2026', 'FSA qualified expenses list', 'flexibl
 author: "Finance Expert"
 image: "/images/posts/fsa-eligible-expenses-guide-2026.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Are you looking for the best FSA eligible expenses options in 2026? According to recent industry data, many Americans either overpay for coverage or lack adequate protection in this area. Understanding FSA eligible expenses can help you make smarter financial decisions and potentially save thousands of dollars.

@@ -10,7 +10,6 @@ keywords: ["best small cap ETFs 2026", "best small cap investing", "best small c
 author: "Finance Expert"
 image: "/images/posts/best-small-cap-etfs-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 🔍 Looking to optimize your best small cap ETFs strategy in 2026? Many people overlook key details that could save them significant money.

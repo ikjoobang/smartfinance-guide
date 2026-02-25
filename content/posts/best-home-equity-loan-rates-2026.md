@@ -10,7 +10,6 @@ keywords: ["best home equity loan rates 2026", "home equity loan vs HELOC", "low
 author: "Finance Expert"
 image: "/images/posts/best-home-equity-loan-rates-2026.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their home equity loan rates options? This could mean leaving thousands of dollars on the table every year.

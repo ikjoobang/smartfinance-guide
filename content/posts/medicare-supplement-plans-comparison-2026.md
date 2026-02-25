@@ -10,7 +10,6 @@ keywords: ["Medicare supplement plans comparison 2026", "Medigap Plan G vs F", "
 author: "Finance Expert"
 image: "/images/posts/medicare-supplement-plans-comparison-2026.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their medicare supplement plans options? This could mean leaving thousands of dollars on the table every year.

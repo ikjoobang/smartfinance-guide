@@ -10,7 +10,6 @@ keywords: ["best ETF portfolio 2026", "best ETF investing strategy", "best ETF p
 author: "Finance Expert"
 image: "/images/posts/best-etf-portfolio-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 📊 Are you looking to optimize your best ETF portfolio strategy in 2026? Many people overlook key details that could save them significant money.

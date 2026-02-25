@@ -10,7 +10,6 @@ keywords: ['catastrophic health plan 2026', 'cheapest health coverage', 'catastr
 author: "Finance Expert"
 image: "/images/posts/catastrophic-health-plan-2026.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Are you looking for the best catastrophic health plan options in 2026? According to recent industry data, many Americans either overpay for coverage or lack adequate protection in this area. Understanding catastrophic health plan can help you make smarter financial decisions and potentially save thousands of dollars.

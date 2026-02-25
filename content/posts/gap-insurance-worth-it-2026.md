@@ -10,7 +10,6 @@ keywords: ["gap insurance 2026", "best auto gap coverage", "gap insurance compar
 author: "Finance Expert"
 image: "/images/posts/gap-insurance-worth-it-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 You owe $25,000 on your car loan but it is only worth $18,000. If totaled, who pays the $7,000 gap?

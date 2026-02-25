@@ -10,7 +10,6 @@ keywords: ["how much does small business insurance cost", "best business insuran
 author: "Smart Finance Guide"
 image: "/images/posts/business-insurance-small-business-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Is your small business one lawsuit away from financial ruin? Over 37% of small businesses face litigation each year, highlighting the critical need for comprehensive **small business insurance**.

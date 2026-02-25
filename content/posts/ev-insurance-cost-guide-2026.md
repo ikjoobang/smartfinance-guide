@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/ev-insurance-cost-guide-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 EV owners pay an average of 25% more for car insurance than comparable gas-powered vehicles. Here's why — and how to reduce those costs.

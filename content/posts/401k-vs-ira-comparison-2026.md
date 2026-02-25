@@ -10,7 +10,6 @@ keywords: ["401k vs IRA 2026", "best retirement account comparison", "401k vs IR
 author: "Finance Expert"
 image: "/images/posts/401k-vs-ira-comparison-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Should you max out your 401(k) or IRA first? The wrong choice could cost you thousands in tax savings.

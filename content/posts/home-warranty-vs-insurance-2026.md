@@ -10,7 +10,6 @@ keywords: ["home warranty 2026", "best home warranty vs insurance", "home warran
 author: "Finance Expert"
 image: "/images/posts/home-warranty-vs-insurance-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Your home insurance will NOT cover a broken AC or water heater. A home warranty might. Here is the crucial difference.

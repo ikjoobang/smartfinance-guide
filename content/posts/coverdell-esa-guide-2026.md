@@ -10,7 +10,6 @@ keywords: ["Coverdell ESA 2026", "best education savings account", "Coverdell ES
 author: "Finance Expert"
 image: "/images/posts/coverdell-esa-guide-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 🎓 Are you looking to optimize your Coverdell ESA strategy in 2026? Many people don't fully understand their options.

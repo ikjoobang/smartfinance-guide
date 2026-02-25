@@ -10,7 +10,6 @@ keywords: ["marginal vs effective tax rate 2026", "best tax rate explained", "ma
 author: "Finance Expert"
 image: "/images/posts/marginal-vs-effective-tax-rate-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 ⚖️ Looking to optimize your marginal vs effective tax rate strategy in 2026? Many people overlook key details that could save them significant money.

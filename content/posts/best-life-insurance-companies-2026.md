@@ -10,7 +10,6 @@ keywords: ["best life insurance companies 2026", "cheapest life insurance 2026",
 author: "Finance Expert"
 image: "/images/posts/best-life-insurance-companies-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Most people overpay for life insurance by 40% — simply because they picked the first name they recognized.

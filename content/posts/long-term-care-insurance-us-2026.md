@@ -10,7 +10,6 @@ keywords: ["long term care insurance 2026", "best LTC insurance cost", "long ter
 author: "Finance Expert"
 image: "/images/posts/long-term-care-insurance-us-2026-v4.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 🏥 Are you looking to optimize your long term care insurance strategy in 2026? Understanding your options fully can save you thousands of dollars each year.

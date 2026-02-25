@@ -10,7 +10,6 @@ keywords: ["total market fund 2026", "best total stock market fund", "total mark
 author: "Finance Expert"
 image: "/images/posts/best-total-market-funds-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 📊 Are you looking to optimize your total market fund strategy in 2026? Many people overlook key details that could save them significant money.

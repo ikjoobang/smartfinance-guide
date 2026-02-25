@@ -10,7 +10,6 @@ keywords: ["social security benefits 2026", "best social security retirement", "
 author: "Finance Expert"
 image: "/images/posts/social-security-benefits-2026-v3.webp"
 toc: true
-robots: "noindex, follow"
 ---
 
 Claiming Social Security at 62 vs 70 can mean a $200,000+ lifetime difference. When should YOU claim?

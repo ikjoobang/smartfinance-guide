@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/best-mortgage-lenders-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 A 0.5% difference in your mortgage rate on a $400,000 home means $43,000 more or less in interest over 30 years. Choosing the right lender matters.

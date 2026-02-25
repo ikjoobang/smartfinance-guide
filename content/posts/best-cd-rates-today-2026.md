@@ -10,7 +10,6 @@ keywords: ["best CD rates today 2026", "highest CD rates", "CD ladder strategy 2
 author: "Finance Expert"
 image: "/images/posts/best-cd-rates-today-2026.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their best cd rates options? This could mean leaving thousands of dollars on the table every year.

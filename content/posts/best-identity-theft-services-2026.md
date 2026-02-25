@@ -19,7 +19,6 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/best-identity-theft-services-2026-v3.webp"
 toc: true
-robots: "noindex, nofollow"
 ---
 
 Every 22 seconds, someone in America becomes a victim of identity theft. The average victim spends $1,300 and 200 hours resolving the damage.
