@@ -10,6 +10,7 @@ keywords: ["whole life insurance as investment 2026", "whole life cash value gro
 author: "Finance Expert"
 image: "/images/posts/whole-life-insurance-as-investment-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their whole life insurance as investment options? This could mean leaving thousands of dollars on the table every year.
