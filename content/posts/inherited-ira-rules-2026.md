@@ -10,6 +10,7 @@ keywords: ["inherited IRA guide 2026", "best beneficiary IRA rules 2026", "inher
 author: "Finance Expert"
 image: "/images/posts/inherited-ira-rules-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 The SECURE Act changed inherited IRA rules dramatically. Miss the 10-year withdrawal deadline and face a 50% penalty.
