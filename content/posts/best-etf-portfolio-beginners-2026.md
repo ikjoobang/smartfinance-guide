@@ -10,6 +10,7 @@ keywords: ["best ETF portfolio beginners 2026", "simple ETF portfolio", "best in
 author: "Finance Expert"
 image: "/images/posts/best-etf-portfolio-beginners-2026.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their etf portfolio for beginners options? This could mean leaving thousands of dollars on the table every year.
