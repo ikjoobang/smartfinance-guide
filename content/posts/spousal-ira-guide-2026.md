@@ -10,6 +10,7 @@ keywords: ["spousal IRA 2026", "best non-working spouse IRA", "spousal IRA guide
 author: "Finance Expert"
 image: "/images/posts/spousal-ira-guide-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 💑 Are you looking to optimize your spousal IRA strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
