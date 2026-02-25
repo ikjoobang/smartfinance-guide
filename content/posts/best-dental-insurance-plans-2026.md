@@ -10,6 +10,7 @@ keywords: ["dental insurance 2026", "best dental coverage plans", "dental insura
 author: "Finance Expert"
 image: "/images/posts/best-dental-insurance-plans-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 A single root canal costs $1,500 without insurance. Here are the best dental plans that actually save you money.
