@@ -10,6 +10,7 @@ keywords: ["indexed universal life insurance pros cons 2026", "IUL vs whole life
 author: "Smart Finance Guide Editorial Team"
 image: "/images/posts/indexed-universal-life-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 What if your life insurance could grow with the stock market but never lose money when the market crashes? That's the promise of **indexed universal life insurance (IUL)** — and it's attracted over $3.2 billion in premiums in 2025 alone. But is IUL really the best-of-both-worlds product that agents claim, or are there hidden costs that erode your returns?
