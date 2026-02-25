@@ -10,6 +10,7 @@ keywords: ["trust fund 2026", "revocable trust comparison", "irrevocable trust g
 author: "Smart Finance Guide"
 image: "/images/posts/trust-fund-guide-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Did you know that most Americans overpay for trust fund by an average of 20-35%? According to recent industry data, comparing at least 3 providers before purchasing can save you hundreds — even thousands — of dollars annually. Let us help you make the smartest choice in 2026.
