@@ -10,6 +10,7 @@ keywords: ["pension plan types 2026", "best defined benefit plan", "pension plan
 author: "Finance Expert"
 image: "/images/posts/pension-plan-guide-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🏛️ Are you looking to optimize your pension plan types strategy in 2026? Many people overlook key details that could save them significant money.
