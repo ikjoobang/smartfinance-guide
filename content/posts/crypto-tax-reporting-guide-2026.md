@@ -10,6 +10,7 @@ keywords: ["crypto tax reporting guide 2026", "IRS cryptocurrency rules", "crypt
 author: "Finance Expert"
 image: "/images/posts/crypto-tax-reporting-guide-2026.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their crypto tax reporting options? This could mean leaving thousands of dollars on the table every year.
