@@ -10,6 +10,7 @@ keywords: ["jewelry insurance 2026", "best engagement ring insurance", "jewelry 
 author: "Finance Expert"
 image: "/images/posts/best-jewelry-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 💎 Looking to optimize your jewelry insurance strategy in 2026? Many people overlook key details that could save them significant money.
