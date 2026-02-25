@@ -10,6 +10,7 @@ keywords: ["first time home buyer 2026", "best home buyer assistance programs", 
 author: "Finance Expert"
 image: "/images/posts/first-time-home-buyer-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Down payment assistance up to $25,000 is available in 2026. Here are all the programs you might be missing.
