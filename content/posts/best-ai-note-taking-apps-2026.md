@@ -19,6 +19,7 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/best-ai-note-taking-apps-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 AI note-taking apps can transcribe meetings, summarize documents, and organize your thoughts automatically — saving an average of 5 hours per week.
