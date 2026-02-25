@@ -10,6 +10,7 @@ keywords: ["ESG ETFs 2026", "best socially responsible investing", "ESG ETFs gui
 author: "Finance Expert"
 image: "/images/posts/best-socially-responsible-etfs-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 🌱 Looking to optimize your ESG ETFs strategy in 2026? Many people overlook key details that could save them significant money.
