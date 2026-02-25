@@ -10,6 +10,7 @@ keywords: ["student loan forgiveness 2026", "best PSLF program", "student loan f
 author: "Finance Expert"
 image: "/images/posts/student-loan-forgiveness-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🎓 Are you looking to optimize your student loan forgiveness strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
