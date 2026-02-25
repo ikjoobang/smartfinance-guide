@@ -10,6 +10,7 @@ keywords: ["municipal bonds 2026", "best muni bond tax free", "municipal bonds g
 author: "Finance Expert"
 image: "/images/posts/municipal-bond-guide-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🏛️ Are you looking to optimize your municipal bonds strategy in 2026? Many people don't fully understand their options.
