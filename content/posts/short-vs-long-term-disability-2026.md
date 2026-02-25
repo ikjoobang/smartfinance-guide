@@ -10,6 +10,7 @@ keywords: ["short term vs long term disability", "disability insurance compariso
 author: "Smart Finance Guide"
 image: "/images/posts/short-vs-long-term-disability-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 **Most Americans make at least one costly mistake when choosing short term vs long term disability.** According to industry data, consumers who compare options before committing can save hundreds or even thousands of dollars annually. Are you making the right choice?
