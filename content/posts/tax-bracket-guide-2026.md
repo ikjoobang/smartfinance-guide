@@ -10,6 +10,7 @@ keywords: ["tax brackets 2026 2026", "best marginal tax rate", "tax brackets 202
 author: "Finance Expert"
 image: "/images/posts/tax-bracket-guide-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 📊 Looking to optimize your tax brackets 2026 strategy in 2026? Many people overlook key details that could save them significant money.
