@@ -10,6 +10,7 @@ keywords: ["target date fund 2026", "best retirement target fund", "target date 
 author: "Finance Expert"
 image: "/images/posts/target-date-fund-guide-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🎯 Are you looking to optimize your target date fund strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
