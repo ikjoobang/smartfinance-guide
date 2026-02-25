@@ -10,6 +10,7 @@ keywords: ["dividend reinvestment plan 2026", "best DRIP investing", "dividend r
 author: "Finance Expert"
 image: "/images/posts/dividend-reinvestment-plan-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 🔄 Are you looking to optimize your dividend reinvestment plan strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
