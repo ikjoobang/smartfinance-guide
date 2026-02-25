@@ -10,6 +10,7 @@ keywords: ["charitable remainder trust 2026", "best CRT tax benefits", "charitab
 author: "Finance Expert"
 image: "/images/posts/charitable-remainder-trust-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 ❤️ Are you looking to optimize your charitable remainder trust strategy in 2026? Many people don't fully understand their options.
