@@ -19,6 +19,7 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/best-student-bank-accounts-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 The average college student pays $60-120/year in unnecessary bank fees. These student accounts charge $0 and come with real perks.
