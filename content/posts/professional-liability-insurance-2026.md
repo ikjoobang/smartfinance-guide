@@ -19,6 +19,7 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/professional-liability-insurance-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 A single professional liability lawsuit costs an average of $150,000 to defend — even if you win. E&O insurance starts at just $30/month.
