@@ -10,6 +10,7 @@ keywords: ["pet insurance pre-existing conditions", "pet insurance comparison", 
 author: "Smart Finance Guide"
 image: "/images/posts/pet-insurance-pre-existing-conditions-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 **Most Americans make at least one costly mistake when choosing pet insurance pre-existing conditions.** According to industry data, consumers who compare options before committing can save hundreds or even thousands of dollars annually. Are you making the right choice?
