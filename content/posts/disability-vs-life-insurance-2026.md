@@ -10,6 +10,7 @@ keywords: ["disability vs life insurance guide 2026", "best income protection 20
 author: "Finance Expert"
 image: "/images/posts/disability-vs-life-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 You are 3x more likely to become disabled than to die before 65. Yet many workers have no disability coverage.
