@@ -10,6 +10,7 @@ keywords: ["earthquake insurance 2026", "best seismic coverage", "earthquake ins
 author: "Finance Expert"
 image: "/images/posts/best-earthquake-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 🌋 Looking to optimize your earthquake insurance strategy in 2026? Many people overlook key details that could save them significant money.
