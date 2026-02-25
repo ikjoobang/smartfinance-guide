@@ -10,6 +10,7 @@ keywords: ["CD rates 2026", "best certificate of deposit rates", "CD rates compa
 author: "Finance Expert"
 image: "/images/posts/best-cd-rates-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 CD rates are at their highest in 15 years. Lock in 5%+ APY before rates drop — here are the best offers.
