@@ -10,6 +10,7 @@ keywords: ["estate planning guide 2026", "best will and trust 2026", "estate pla
 author: "Finance Expert"
 image: "/images/posts/estate-planning-basics-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 many Americans have no will. If you die without one, the state decides who gets everything, including your kids.
