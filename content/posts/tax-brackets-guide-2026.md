@@ -2,7 +2,7 @@
 title: "Tax Brackets Guide 2026 — Federal Income Tax Rates and Strategies"
 description: "2026 federal income tax brackets, rates, and tax-saving strategies guide. Compare rates, features, and expert recommendations for 2026. Start saving today."
 date: 2026-02-11T07:00:00-05:00
-lastmod: 2026-02-14T12:13:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories:
  - "Finance"

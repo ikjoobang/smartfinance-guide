@@ -2,7 +2,7 @@
 title: "Tax-Loss Harvesting Strategy — Your Complete 2026 Guide"
 description: "Compare the tax loss harvesting options for 2026. Expert analysis of capital gains offset, costs, pros and cons. Find the best tax loss harvesting strategy for your situation."
 date: 2026-02-13T07:27:00-05:00
-lastmod: 2026-02-13T15:58:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Tax & Retirement"]
 tags: ["tax loss harvesting", "capital gains offset", "Tax-Loss Harvesting", "personal finance 2026", "money management"]

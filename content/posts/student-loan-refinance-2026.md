@@ -2,7 +2,7 @@
 title: "Student Loan Refinancing 2026 — Save $20,000+ on Repayment"
 description: "student loan refinancing — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
 date: 2026-02-11T07:43:00-05:00
-lastmod: 2026-02-12T12:28:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Loans"]
 tags: ["refinance student loans", "student loan rates", "student-loan-refinancing", "student-2026"]

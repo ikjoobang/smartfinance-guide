@@ -2,7 +2,7 @@
 title: "Trust vs Will — Which Estate Plan Is Right for You? 2026"
 description: "Compare trusts and wills for estate planning in 2026. Expert guide to living trusts, last will advantages, probate avoidance, and choosing the right estate plan."
 date: 2026-01-14T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['trust vs will', 'estate planning', 'living trust', 'probate avoidance 2026', 'will planning']

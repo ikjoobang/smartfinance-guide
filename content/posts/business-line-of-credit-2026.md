@@ -2,7 +2,7 @@
 title: "Business Line of Credit 2026 — Best Options for Small Business"
 description: "Complete guide to business line of credit in 2026. Compare business credit line and LOC for business options. Expert analysis and recommendations."
 date: 2026-02-21
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["business-line-of-credit", "business-credit-line", "loc-for-business", "finance", "2026"]

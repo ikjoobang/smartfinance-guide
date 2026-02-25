@@ -2,7 +2,7 @@
 title: "Crypto Tax Reporting Guide 2026 — IRS Rules & Strategies"
 description: "Navigate crypto tax reporting for 2026. IRS rules on capital gains, staking rewards, DeFi income, and strategies to minimize your crypto tax bill."
 date: 2026-02-25T21:00:00-05:00
-lastmod: 2026-02-25T21:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Tax Planning"]
 tags: ["crypto tax reporting", "cryptocurrency taxes 2026", "IRS crypto rules", "crypto capital gains tax", "crypto tax strategies"]

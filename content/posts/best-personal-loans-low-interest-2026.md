@@ -2,7 +2,7 @@
 title: "Best Personal Loans 2026 — Lowest Rates from 5.99% APR"
 description: "best personal loans — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
 date: 2026-01-01T06:05:00-05:00
-lastmod: 2026-01-07T10:55:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Loans"]
 tags: ["low interest personal loans", "personal loan rates", "best-personal-loans", "best-2026"]

@@ -2,7 +2,7 @@
 title: "Long-Term Disability Insurance 2026 — Coverage & Cost Comparison"
 description: "Complete guide to long-term disability insurance in 2026. Compare disability coverage and income protection options. Expert analysis and recommendations."
 date: 2026-02-13
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["long-term-disability-insurance", "disability-coverage", "income-protection", "insurance", "2026"]

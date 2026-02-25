@@ -2,7 +2,7 @@
 title: "Tax Deductions for Self-Employed 2026 — 15 Deductions You're Missing"
 description: "Maximize your tax deductions as a self-employed worker in 2026. 15 commonly missed deductions including home office, vehicle, health insurance, and more."
 date: 2026-02-25T07:00:00-05:00
-lastmod: 2026-02-25T07:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Tax Planning"]
 tags: ["self employed tax deductions", "freelancer tax tips", "tax deductions 2026", "home office deduction", "self employment tax"]

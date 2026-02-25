@@ -2,7 +2,7 @@
 title: "Medical Malpractice Insurance — Best Coverage Guide 2026"
 description: "Compare the best medical malpractice insurance options for 2026. Expert analysis of coverage types, costs, and top providers for healthcare professionals."
 date: 2026-01-17T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['medical malpractice insurance', 'malpractice coverage', 'healthcare insurance', 'professional liability 2026', 'doctor insurance']

@@ -2,7 +2,7 @@
 title: "Fiduciary Financial Advisor Guide 2026 — How to Find One"
 description: "Complete guide to fiduciary financial advisor in 2026. Compare fiduciary advisor and fee-only advisor options. Expert analysis and recommendations."
 date: 2026-02-18
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["fiduciary-financial-advisor", "fiduciary-advisor", "fee-only-advisor", "finance", "2026"]

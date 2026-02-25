@@ -2,7 +2,7 @@
 title: "Roth Conversion Ladder — Early Retirement Strategy 2026"
 description: "Master the Roth conversion ladder strategy for early retirement in 2026. Expert guide to tax-free withdrawals, conversion timing, and FIRE movement planning."
 date: 2026-01-06T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['Roth conversion ladder', 'early retirement', 'FIRE strategy', 'tax-free retirement 2026', 'Roth IRA']

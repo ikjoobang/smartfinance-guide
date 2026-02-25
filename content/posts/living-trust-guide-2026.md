@@ -2,7 +2,7 @@
 title: "Living Trust Guide for Families — Your Complete 2026 Guide"
 description: "Compare living trust options for 2026. Expert analysis of revocable living trust, costs, pros and cons. Find the best living trust strategy."
 date: 2026-01-28T08:09:00-05:00
-lastmod: 2026-01-31T18:46:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Planning"]
 tags: ["living trust", "revocable living trust", "Living Trust", "personal finance 2026", "money management"]

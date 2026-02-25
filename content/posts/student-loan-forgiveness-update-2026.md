@@ -2,7 +2,7 @@
 title: "Student Loan Forgiveness 2026 — Latest Updates and Eligibility"
 description: "Latest student loan forgiveness updates for 2026. Check eligibility, application process, and program changes affecting borrowers."
 date: 2026-02-02
-lastmod: 2026-02-02
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["student-loan-forgiveness-2026", "student-loan-forgiveness-eligibility", "finance", "finance-2026", "money-saving-tips"]

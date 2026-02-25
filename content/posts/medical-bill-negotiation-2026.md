@@ -2,7 +2,7 @@
 title: "How to Negotiate Medical Bills 2026 — Save Up to 50%"
 description: "Complete guide to negotiate medical bills in 2026. Compare medical bill reduction and hospital bill negotiation options. Expert analysis and recommendations."
 date: 2026-02-10
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["negotiate-medical-bills", "medical-bill-reduction", "hospital-bill-negotiation", "finance", "2026"]

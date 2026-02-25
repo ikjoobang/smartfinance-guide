@@ -2,7 +2,7 @@
 title: "Where to Keep Your Emergency Fund 2026 — Best Account Options"
 description: "Where to keep your emergency fund in 2026. Compare high-yield savings, money market, and other options for easy access."
 date: 2026-02-14
-lastmod: 2026-02-14
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["where-to-keep-emergency-fund", "emergency-savings-best-accounts", "finance", "finance-2026", "money-saving-tips"]

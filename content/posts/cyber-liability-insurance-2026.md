@@ -2,7 +2,7 @@
 title: "Cyber Liability Insurance 2026 — Small Business Protection Guide"
 description: "Complete guide to cyber liability insurance in 2026. Compare cyber insurance and data breach coverage options. Expert analysis and recommendations."
 date: 2026-02-11
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["cyber-liability-insurance", "cyber-insurance", "data-breach-coverage", "insurance", "2026"]

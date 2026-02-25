@@ -2,7 +2,7 @@
 title: "Best Travel Rewards Credit Cards 2026 — Points & Miles Guide"
 description: "Complete guide to travel rewards credit cards in 2026. Compare travel credit cards and miles credit card options. Expert analysis and recommendations."
 date: 2026-02-16
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["travel-rewards-credit-cards", "travel-credit-cards", "miles-credit-card", "finance", "2026"]

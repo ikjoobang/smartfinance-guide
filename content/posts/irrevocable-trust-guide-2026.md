@@ -2,7 +2,7 @@
 title: "Irrevocable Trust — Tax Benefits & Asset Protection 2026"
 description: "Complete guide to irrevocable trusts for 2026. Expert analysis of tax benefits, asset protection, Medicaid planning, and when an irrevocable trust makes sense."
 date: 2026-01-24T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['irrevocable trust', 'asset protection', 'tax planning', 'Medicaid trust 2026', 'estate planning']

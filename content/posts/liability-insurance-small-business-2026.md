@@ -2,7 +2,7 @@
 title: "Liability Insurance for Small Business — 2026 Coverage Guide & Costs"
 description: "Essential guide to liability insurance for small businesses in 2026. Compare coverage options, costs, and find the right policy."
 date: 2026-01-20
-lastmod: 2026-01-20
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["liability-insurance-small-business", "business-liability-coverage", "insurance", "insurance-2026", "money-saving-tips"]

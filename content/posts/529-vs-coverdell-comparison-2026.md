@@ -2,7 +2,7 @@
 title: "529 Plan vs Coverdell ESA Comparison — Your Complete 2026 Guide"
 description: "Compare 529 vs Coverdell options for 2026. Expert analysis of education savings comparison, costs, and strategies. Find the best approach for your situation."
 date: 2025-12-01T12:48:00-05:00
-lastmod: 2025-12-06T09:05:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Savings"]
 tags: ["529 vs Coverdell", "education savings comparison", "529 vs Coverdell", "personal finance 2026", "money management"]

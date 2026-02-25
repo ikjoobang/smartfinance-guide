@@ -2,7 +2,7 @@
 title: "Key Person Insurance 2026 — Protect Your Business from Losing Its Most Valuable Asset"
 description: "Key person insurance protects businesses when critical employees die or become disabled. Learn costs, coverage amounts, tax implications, and top providers in 2026."
 date: 2026-02-20T13:00:00-05:00
-lastmod: 2026-02-20T13:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["보험"]
 tags: ["key person insurance", "key man insurance", "business life insurance", "business insurance 2026", "key person insurance cost"]

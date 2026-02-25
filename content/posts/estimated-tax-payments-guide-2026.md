@@ -2,7 +2,7 @@
 title: "Estimated Tax Payments — Deadlines & Calculator 2026"
 description: "Complete guide to estimated tax payments for 2026. Expert tips on quarterly tax deadlines, IRS Form 1040-ES, safe harbor rules, and avoiding underpayment penalties."
 date: 2026-01-11T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['estimated tax payments', 'quarterly taxes', '1040-ES', 'tax deadlines 2026', 'self-employed tax']

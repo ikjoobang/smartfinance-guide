@@ -2,7 +2,7 @@
 title: "Wedding Insurance Guide 2026 — Coverage Options & Costs"
 description: "Complete guide to wedding insurance in 2026. Compare event insurance and wedding liability options. Expert analysis and recommendations."
 date: 2026-02-12
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["wedding-insurance", "event-insurance", "wedding-liability", "insurance", "2026"]

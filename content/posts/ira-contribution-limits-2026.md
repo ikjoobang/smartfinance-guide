@@ -2,7 +2,7 @@
 title: "IRA Contribution Limits 2026 — Rules, Deadlines, and Tax Benefits"
 description: "IRA contribution limits for 2026 including Roth and Traditional IRA rules. Compare rates, features, and expert recommendations for 2026. Start saving today."
 date: 2026-01-27T10:05:00-05:00
-lastmod: 2026-01-31T13:47:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories:
  - "Finance"

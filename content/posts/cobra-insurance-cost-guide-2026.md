@@ -2,7 +2,7 @@
 title: "COBRA Insurance Cost — What to Expect & Alternatives 2026"
 description: "Understanding COBRA insurance costs for 2026. Expert guide to COBRA premiums, enrollment deadlines, affordable alternatives, and marketplace comparison."
 date: 2026-01-10T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['COBRA insurance', 'COBRA cost', 'health insurance gap', 'job loss insurance 2026', 'marketplace alternative']

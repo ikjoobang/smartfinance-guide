@@ -2,7 +2,7 @@
 title: "Best Long-Term Care Insurance 2026 — Top 5 Providers Compared"
 description: "Compare the best long-term care insurance providers for 2026. Coverage options, premiums by age, benefit periods, and hybrid policies reviewed."
 date: 2026-02-22T23:00:00-05:00
-lastmod: 2026-02-22T23:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Health Insurance"]
 tags: ["long term care insurance", "LTC insurance 2026", "long term care cost", "hybrid LTC insurance", "nursing home insurance"]

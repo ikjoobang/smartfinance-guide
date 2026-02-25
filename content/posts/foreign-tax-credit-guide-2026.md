@@ -2,7 +2,7 @@
 title: "Foreign Tax Credit Guide — Your Complete 2026 Guide"
 description: "Compare the foreign tax credit options for 2026. Expert analysis of international tax, costs, pros and cons. Find the best foreign tax credit strategy for your situation."
 date: 2026-01-19T18:14:00-05:00
-lastmod: 2026-01-25T08:20:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Taxes"]
 tags: ["foreign tax credit", "international tax", "Foreign Tax Credit", "personal finance 2026", "money management"]

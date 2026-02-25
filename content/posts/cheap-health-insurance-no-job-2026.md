@@ -2,7 +2,7 @@
 title: "Cheap Health Insurance Without a Job 2026 — Complete Guide & Expert Comparison"
 description: "Cheap Health Insurance Without a Job 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
 date: 2026-01-12T07:09:00-05:00
-lastmod: 2026-01-14T20:36:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance Guide"]
 tags: ["health-insurance-no-job", "affordable-health-insurance", "cheap-health-insurance-no-job", "finance-guide", "money-2026"]

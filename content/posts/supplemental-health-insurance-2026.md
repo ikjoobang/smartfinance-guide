@@ -2,7 +2,7 @@
 title: "Best Supplemental Health Insurance — Gap Coverage 2026"
 description: "Compare the best supplemental health insurance plans for 2026. Expert guide to gap coverage, hospital indemnity, and supplemental medical insurance options."
 date: 2026-01-23T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['supplemental health insurance', 'gap coverage', 'hospital indemnity', 'supplemental medical 2026', 'health insurance']

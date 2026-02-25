@@ -2,7 +2,7 @@
 title: "Medicare Supplement Plans Comparison 2026 — Medigap A Through N"
 description: "Compare all Medicare Supplement (Medigap) plans for 2026. Coverage differences between Plan F, G, and N. Premiums by age and state."
 date: 2026-02-24T09:00:00-05:00
-lastmod: 2026-02-24T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Health Insurance"]
 tags: ["Medicare supplement plans", "Medigap comparison", "Medicare Plan G vs F", "Medigap 2026", "Medicare insurance"]

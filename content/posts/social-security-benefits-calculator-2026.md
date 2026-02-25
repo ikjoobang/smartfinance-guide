@@ -2,7 +2,7 @@
 title: "Social Security Benefits Guide 2026 — When to Claim & How Much"
 description: "Maximize your Social Security benefits in 2026. Claiming age strategies, benefit calculations, spousal benefits, and new COLA adjustments explained."
 date: 2026-02-19T17:00:00-05:00
-lastmod: 2026-02-19T17:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Retirement"]
 tags: ["Social Security benefits", "Social Security 2026", "when to claim Social Security", "Social Security COLA", "retirement benefits guide"]

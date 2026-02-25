@@ -2,7 +2,7 @@
 title: "Boat Insurance Guide 2026 — Coverage Options & Best Providers"
 description: "Complete guide to boat insurance in 2026. Compare marine insurance and watercraft coverage options. Expert analysis and recommendations."
 date: 2026-02-16
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["boat-insurance", "marine-insurance", "watercraft-coverage", "insurance", "2026"]

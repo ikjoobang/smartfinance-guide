@@ -2,7 +2,7 @@
 title: "High Deductible Health Plan (HDHP) Guide — 2026 HSA Benefits Explained"
 description: "Everything you need to know about high deductible health plans in 2026. HSA contribution limits, tax benefits, and plan comparison."
 date: 2026-01-16
-lastmod: 2026-01-16
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["high-deductible-health-plan", "hdhp-hsa-benefits", "insurance", "insurance-2026", "money-saving-tips"]

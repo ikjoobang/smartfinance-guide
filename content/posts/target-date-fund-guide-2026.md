@@ -2,7 +2,7 @@
 title: "Target-Date Fund Guide — Your Complete 2026 Guide"
 description: "Compare the target date fund options for 2026. Expert analysis of retirement target fund, costs, pros and cons. Find the best target date fund strategy for your situation."
 date: 2026-02-09T22:07:00-05:00
-lastmod: 2026-02-14T14:07:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Investing"]
 tags: ["target date fund", "retirement target fund", "Target-Date Fund", "personal finance 2026", "money management"]

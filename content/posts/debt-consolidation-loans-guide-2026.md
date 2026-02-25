@@ -2,7 +2,7 @@
 title: "Debt Consolidation Loans 2026 — Combine Debt & Save $5,000+"
 description: "debt consolidation loans — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
 date: 2026-01-14T18:17:00-05:00
-lastmod: 2026-01-21T15:05:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Loans"]
 tags: ["consolidate credit card debt", "debt consolidation rates", "debt-consolidation-loans", "debt-2026"]

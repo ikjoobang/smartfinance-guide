@@ -2,7 +2,7 @@
 title: "Medicare Part D — Prescription Drug Coverage Guide 2026"
 description: "Complete guide to Medicare Part D prescription drug coverage for 2026. Expert analysis of plan costs, donut hole, best Part D plans, and enrollment deadlines."
 date: 2026-02-21T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['Medicare Part D', 'prescription coverage', 'drug plan', 'Medicare drugs 2026', 'donut hole']

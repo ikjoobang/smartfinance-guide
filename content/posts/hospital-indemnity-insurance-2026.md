@@ -2,7 +2,7 @@
 title: "Hospital Indemnity Insurance — Best Plans Guide 2026"
 description: "Compare the best hospital indemnity insurance plans for 2026. Expert analysis of daily benefits, coverage options, and how hospital indemnity supplements your health plan."
 date: 2026-02-24T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['hospital indemnity insurance', 'hospital insurance', 'supplemental coverage', 'daily benefit 2026', 'health insurance']

@@ -2,7 +2,7 @@
 title: "Freelancer Insurance Guide — Secure Your Business"
 description: "Discover why errors omissions insurance freelancers need in 2026. Learn costs, coverage, and how to protect your business from lawsuits."
 date: 2026-02-22
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["errors omissions insurance", "freelance insurance", "professional liability", "business insurance", "gig economy"]

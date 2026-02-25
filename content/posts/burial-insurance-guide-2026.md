@@ -2,7 +2,7 @@
 title: "Burial Insurance — Affordable Final Expense Coverage 2026"
 description: "Compare affordable burial insurance options for 2026. Expert guide to final expense coverage, guaranteed acceptance plans, and funeral cost planning."
 date: 2026-01-08T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['burial insurance', 'final expense insurance', 'funeral insurance', 'guaranteed acceptance 2026', 'life insurance']

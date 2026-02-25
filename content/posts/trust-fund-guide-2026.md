@@ -2,7 +2,7 @@
 title: "Trust Fund Guide 2026 — Types, Setup & Tax Implications"
 description: "Complete guide to trust fund in 2026. Compare revocable trust and irrevocable trust options. Expert analysis and recommendations."
 date: 2026-02-08
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["trust-fund", "revocable-trust", "irrevocable-trust", "finance", "2026"]

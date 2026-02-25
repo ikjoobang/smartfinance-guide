@@ -2,7 +2,7 @@
 title: "Umbrella Insurance Guide 2026 — Do You Need It & How Much?"
 description: "Complete umbrella insurance guide for 2026. Who needs it, how much coverage, cost by policy size, and best providers compared."
 date: 2026-02-24T13:00:00-05:00
-lastmod: 2026-02-24T13:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["umbrella insurance", "umbrella policy guide", "liability insurance", "umbrella insurance cost", "excess liability insurance"]

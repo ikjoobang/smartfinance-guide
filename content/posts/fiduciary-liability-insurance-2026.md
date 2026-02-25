@@ -2,7 +2,7 @@
 title: "Fiduciary Liability Insurance — Complete Protection Guide 2026"
 description: "Understanding fiduciary liability insurance for 2026. Expert guide to ERISA compliance, fiduciary duty protection, and employee benefit plan coverage."
 date: 2026-01-23T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['fiduciary liability', 'ERISA compliance', 'fiduciary insurance', 'employee benefits 2026', 'liability protection']

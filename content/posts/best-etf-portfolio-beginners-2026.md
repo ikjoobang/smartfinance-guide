@@ -2,7 +2,7 @@
 title: "Best ETF Portfolio for Beginners 2026 — 5 Simple Strategies"
 description: "Build the best ETF portfolio for beginners in 2026. 5 proven strategies with specific fund recommendations, asset allocation, and rebalancing tips."
 date: 2026-02-19T11:00:00-05:00
-lastmod: 2026-02-19T11:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Investing"]
 tags: ["ETF portfolio beginners", "best ETFs 2026", "ETF investing strategy", "index fund portfolio", "passive investing"]

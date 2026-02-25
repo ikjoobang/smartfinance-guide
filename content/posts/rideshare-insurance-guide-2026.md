@@ -2,7 +2,7 @@
 title: "Rideshare Insurance Guide 2026 — Uber & Lyft Driver Coverage"
 description: "Complete guide to rideshare insurance in 2026. Compare Uber insurance and Lyft insurance options. Expert analysis and recommendations."
 date: 2026-02-14
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["rideshare-insurance", "uber-insurance", "lyft-insurance", "insurance", "2026"]

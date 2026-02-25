@@ -2,7 +2,7 @@
 title: "Key Person Insurance 2026 — Protecting Your Business Assets"
 description: "Complete guide to key person insurance in 2026. Compare key man insurance and business life insurance options. Expert analysis and recommendations."
 date: 2026-02-15
-lastmod: 2026-02-22
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["key-person-insurance", "key-man-insurance", "business-life-insurance", "insurance", "2026"]

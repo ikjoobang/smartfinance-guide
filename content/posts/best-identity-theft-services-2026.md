@@ -2,7 +2,7 @@
 title: "Best Identity Theft Protection Services 2026 — Top 7 Compared"
 description: "Best identity theft protection services compared for 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
 date: 2025-12-24T19:50:00-05:00
-lastmod: 2025-12-29T15:28:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories:
  - "Finance"

@@ -2,7 +2,7 @@
 title: "Cheapest Renters Insurance 2026 — Top 5 Affordable Plans Compared"
 description: "Find the cheapest renters insurance in 2026. Compare the top 5 most affordable plans with coverage details and monthly costs."
 date: 2026-01-20
-lastmod: 2026-01-20
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["cheapest-renters-insurance", "renters-insurance-comparison", "insurance", "insurance-2026", "money-saving-tips"]

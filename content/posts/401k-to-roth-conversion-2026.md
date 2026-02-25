@@ -2,7 +2,7 @@
 title: "401k to Roth IRA Conversion — 2026 Tax Strategy and Rules"
 description: "Should you convert your 401k to a Roth IRA in 2026? Tax implications, income limits, and step-by-step conversion strategy explained."
 date: 2026-01-27
-lastmod: 2026-01-27
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["401k-to-roth-conversion", "roth-ira-conversion-strategy", "finance", "finance-2026", "money-saving-tips"]

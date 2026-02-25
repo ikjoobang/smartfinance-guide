@@ -2,7 +2,7 @@
 title: "Accidental Death Insurance (AD&D) — Complete Guide 2026"
 description: "Understanding accidental death and dismemberment insurance for 2026. Expert guide to AD&D coverage, costs, benefits, and whether you need it alongside life insurance."
 date: 2026-01-05T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['accidental death insurance', 'AD&D coverage', 'dismemberment insurance', 'accident coverage 2026', 'life insurance supplement']

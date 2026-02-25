@@ -2,7 +2,7 @@
 title: "Short-Term vs Long-Term Disability Insurance 2026 — Which Do You Need?"
 description: "Short-term vs long-term disability insurance comparison for 2026. Coverage differences, costs, and how to choose."
 date: 2026-02-04
-lastmod: 2026-02-04
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ["short-term-vs-long-term-disability", "disability-insurance-comparison", "insurance", "insurance-2026", "money-saving-tips"]

@@ -2,7 +2,7 @@
 title: "Qualified Dividend Tax Rate — Maximize Returns 2026"
 description: "Understanding qualified dividend tax rates for 2026. Expert guide to dividend taxation, ordinary vs qualified dividends, and strategies to minimize dividend taxes."
 date: 2026-02-06T09:00:00-05:00
-lastmod: 2026-02-22T09:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Insurance"]
 tags: ['qualified dividends', 'dividend tax rate', 'investment tax', 'dividend income 2026', 'tax strategy']

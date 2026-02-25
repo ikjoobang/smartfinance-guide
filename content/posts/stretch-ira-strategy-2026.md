@@ -2,7 +2,7 @@
 title: "Stretch IRA Strategy Guide — Your Complete 2026 Guide"
 description: "Compare stretch IRA options for 2026. Expert analysis of IRA distribution strategy, costs, pros and cons. Find the best stretch IRA strategy."
 date: 2026-02-09T16:10:00-05:00
-lastmod: 2026-02-14T12:46:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Retirement"]
 tags: ["stretch IRA", "IRA distribution strategy", "Stretch IRA", "personal finance 2026", "money management"]

@@ -2,7 +2,7 @@
 title: "Best Car Insurance After DUI 2026 — Affordable Options Compared"
 description: "Find affordable car insurance after a DUI in 2026. Compare SR-22 requirements, rate increases, and best insurers for high-risk drivers."
 date: 2026-02-19T03:00:00-05:00
-lastmod: 2026-02-19T03:00:00-05:00
+lastmod: 2026-02-25
 draft: false
 categories: ["Auto Insurance"]
 tags: ["car insurance after DUI", "SR-22 insurance", "high risk auto insurance", "DUI insurance rates", "affordable DUI insurance"]

@@ -2,7 +2,7 @@
 title: "Best CD Rates 2026 — Certificate of Deposit Comparison Guide"
 description: "Compare the best CD rates in 2026. Find top-paying certificates of deposit with terms from 3 months to 5 years."
 date: 2026-02-08
-lastmod: 2026-02-08
+lastmod: 2026-02-25
 draft: false
 categories: ["Finance"]
 tags: ["best-cd-rates-2026", "certificate-of-deposit-comparison", "finance", "finance-2026", "money-saving-tips"]
