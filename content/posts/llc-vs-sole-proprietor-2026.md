@@ -10,6 +10,7 @@ keywords: ["LLC vs sole proprietor guide 2026", "best business structure 2026", 
 author: "Finance Expert"
 image: "/images/posts/llc-vs-sole-proprietor-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 many small business owners choose the wrong business structure and overpay thousands in taxes every year.
