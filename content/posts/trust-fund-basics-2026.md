@@ -10,6 +10,7 @@ keywords: ["trust fund basics 2026", "best revocable vs irrevocable trust", "tru
 author: "Finance Expert"
 image: "/images/posts/trust-fund-basics-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🏛️ Are you looking to optimize your trust fund basics strategy in 2026? Many people overlook key details that could save them significant money.
