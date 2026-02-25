@@ -10,6 +10,7 @@ keywords: ["HSA contribution limits 2026", "HSA tax benefits", "HSA as retiremen
 author: "Finance Expert"
 image: "/images/posts/hsa-contribution-limits-benefits-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Did you know that over 60% of Americans don't fully understand their hsa contribution limits options? This could mean leaving thousands of dollars on the table every year.
