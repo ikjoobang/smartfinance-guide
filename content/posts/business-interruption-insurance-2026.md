@@ -10,6 +10,7 @@ keywords: ["business interruption insurance", "business income insurance", "busi
 author: "Smart Finance Guide"
 image: "/images/posts/business-interruption-insurance-2026.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 **Most Americans make at least one costly mistake when choosing business interruption insurance.** According to industry data, consumers who compare options before committing can save hundreds or even thousands of dollars annually. Are you making the right choice?
