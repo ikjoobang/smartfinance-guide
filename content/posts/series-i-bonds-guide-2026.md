@@ -10,6 +10,7 @@ keywords: ["Series I bonds 2026", "best I bonds interest rate", "Series I bonds 
 author: "Finance Expert"
 image: "/images/posts/series-i-bonds-guide-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 💵 Are you looking to optimize your Series I bonds strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
