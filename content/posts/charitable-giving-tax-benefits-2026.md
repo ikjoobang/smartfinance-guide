@@ -10,6 +10,7 @@ keywords: ["charitable giving tax deduction 2026", "best donor advised fund", "c
 author: "Finance Expert"
 image: "/images/posts/charitable-giving-tax-benefits-2026-v4.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 ❤️ Are you looking to optimize your charitable giving tax deduction strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
