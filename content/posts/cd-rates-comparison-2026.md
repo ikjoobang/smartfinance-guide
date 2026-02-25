@@ -10,6 +10,7 @@ keywords: ["best CD rates 2026", "certificate of deposit comparison", "best CD r
 author: "Smart Finance Guide"
 image: "/images/posts/cd-rates-comparison-2026.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 **Most Americans make at least one costly mistake when choosing best CD rates 2026.** According to industry data, consumers who compare options before committing can save hundreds or even thousands of dollars annually. Are you making the right choice?
