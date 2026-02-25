@@ -10,6 +10,7 @@ keywords: ["treasury bonds 2026", "best T-bills investing", "treasury bonds guid
 author: "Finance Expert"
 image: "/images/posts/treasury-bonds-guide-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🇺🇸 Are you looking to optimize your treasury bonds strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
