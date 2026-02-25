@@ -10,6 +10,7 @@ keywords: ["required minimum distribution 2026", "best RMD rules", "required min
 author: "Finance Expert"
 image: "/images/posts/required-minimum-distribution-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 📅 Are you looking to optimize your required minimum distribution strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
