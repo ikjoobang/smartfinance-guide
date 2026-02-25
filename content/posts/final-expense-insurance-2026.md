@@ -10,6 +10,7 @@ keywords: ["final expense insurance cost 2026", "best burial insurance plans", "
 author: "Smart Finance Guide Editorial Team"
 image: "/images/posts/final-expense-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 The average American funeral costs $9,135 in 2026 — and that's before burial plots, flowers, or memorial services. **If you died tomorrow, could your family cover this expense without going into debt?** Final expense insurance exists to solve exactly this problem, providing a small whole life policy that covers end-of-life costs.
