@@ -10,6 +10,7 @@ keywords: ["liability insurance small business", "business liability coverage", 
 author: "Smart Finance Guide"
 image: "/images/posts/liability-insurance-small-business-2026.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 **Most Americans make at least one costly mistake when choosing liability insurance small business.** According to industry data, consumers who compare options before committing can save hundreds or even thousands of dollars annually. Are you making the right choice?
