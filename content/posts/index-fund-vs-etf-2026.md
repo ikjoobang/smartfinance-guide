@@ -10,6 +10,7 @@ keywords: ["index fund vs ETF 2026", "best ETF comparison", "index fund vs ETF g
 author: "Finance Expert"
 image: "/images/posts/index-fund-vs-etf-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 📈 Are you looking to optimize your index fund vs ETF strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
