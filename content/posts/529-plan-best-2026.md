@@ -10,6 +10,7 @@ keywords: ["529 plan guide 2026", "best college savings plan 2026", "529 plan co
 author: "Finance Expert"
 image: "/images/posts/529-plan-best-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 College costs $25,000-significant amounts each year. A 529 plan can save your family over $100,000 in taxes over 18 years.
