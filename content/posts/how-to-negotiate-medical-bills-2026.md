@@ -10,6 +10,7 @@ keywords: ["negotiate medical bills guide 2026", "best reduce hospital bills 202
 author: "Finance Expert"
 image: "/images/posts/how-to-negotiate-medical-bills-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 The average American owes $2,400 in medical debt. But 63% of hospital bills contain errors you can dispute.
