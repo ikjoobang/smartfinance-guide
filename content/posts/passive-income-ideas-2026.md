@@ -10,6 +10,7 @@ keywords: ["passive income ideas 2026", "best passive income streams", "passive 
 author: "Finance Expert"
 image: "/images/posts/passive-income-ideas-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 💰 Are you looking to optimize your passive income ideas strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
