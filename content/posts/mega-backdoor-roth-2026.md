@@ -10,6 +10,7 @@ keywords: ["mega backdoor Roth 2026", "best after-tax 401k", "mega backdoor Roth
 author: "Finance Expert"
 image: "/images/posts/mega-backdoor-roth-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🚀 Are you looking to optimize your mega backdoor Roth strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
