@@ -10,6 +10,7 @@ keywords: ["commodity investing 2026", "best commodities ETF", "commodity invest
 author: "Finance Expert"
 image: "/images/posts/commodity-investing-guide-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 🛢️ Are you looking to optimize your commodity investing strategy in 2026? Many people don't fully understand their options.
