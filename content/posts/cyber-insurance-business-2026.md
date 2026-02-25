@@ -10,6 +10,7 @@ keywords: ["how much does cyber insurance cost for small business", "best cyber 
 author: "Smart Finance Guide"
 image: "/images/posts/cyber-insurance-business-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Is your business prepared for a cyberattack that could cost you millions? The threat landscape is evolving rapidly, and *cyber insurance* is becoming an essential safeguard for businesses of all sizes.
