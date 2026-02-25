@@ -19,6 +19,7 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/tax-brackets-guide-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Understanding which tax bracket you're in could save you thousands. The 2026 tax brackets have been adjusted for inflation — here's what changed.
