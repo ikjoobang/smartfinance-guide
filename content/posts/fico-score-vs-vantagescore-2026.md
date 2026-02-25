@@ -10,6 +10,7 @@ keywords: ["FICO vs VantageScore guide 2026", "best credit score difference 2026
 author: "Finance Expert"
 image: "/images/posts/fico-score-vs-vantagescore-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Your FICO score and VantageScore can differ by 50+ points. Here is which one lenders actually use.
