@@ -10,6 +10,7 @@ keywords: ["long term care insurance 2026", "best LTC insurance", "long term car
 author: "Finance Expert"
 image: "/images/posts/long-term-care-insurance-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 many Americans over 65 will need long-term care. Average cost: $108,000/year. Is LTC insurance the answer?
