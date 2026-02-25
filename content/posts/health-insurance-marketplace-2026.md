@@ -10,6 +10,7 @@ keywords: ["health insurance marketplace open enrollment dates 2026", "cheapest 
 author: "Smart Finance Guide"
 image: "/images/posts/health-insurance-marketplace-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Did you know that medical debt is a leading cause of bankruptcy in the United States? Navigating the **health insurance marketplace** can feel overwhelming, but understanding your options is crucial to protecting your financial well-being. This guide will walk you through everything you need to know about **ACA plans 2026**, **Obamacare enrollment**, and finding the best **marketplace health plans** for your needs.
