@@ -20,6 +20,7 @@ author: "Smart Finance Guide Editorial Team"
 image: "/images/posts/best-cd-rates-2026-v3.webp"
 toc: true
 schema: "Article"
+robots: "noindex, nofollow"
 ---
 
 **Cd Rates** is one of the most searched financial topics in 2026 — and for good reason. With costs rising and options multiplying, making the wrong choice can cost you thousands. In this comprehensive guide, we break down everything you need to know about CD rates to make the smartest decision for your situation.
