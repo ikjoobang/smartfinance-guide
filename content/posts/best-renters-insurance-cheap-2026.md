@@ -10,6 +10,7 @@ keywords: ["cheap renters insurance guide 2026", "best affordable renters insura
 author: "Finance Expert"
 image: "/images/posts/best-renters-insurance-cheap-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Renters insurance costs just $15-25 per month but covers up to $30,000 in belongings. many renters still skip it.
