@@ -19,6 +19,7 @@ keywords:
 author: "Finance AI Guide Expert"
 image: "/images/posts/medical-debt-relief-options-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Medical debt is the #1 cause of bankruptcy in America, affecting 100 million adults. But up to 80% of medical bills contain errors — and most are negotiable.
