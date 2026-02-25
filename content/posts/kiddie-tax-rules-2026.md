@@ -10,6 +10,7 @@ keywords: ["kiddie tax 2026", "best unearned income child", "kiddie tax guide"]
 author: "Finance Expert"
 image: "/images/posts/kiddie-tax-rules-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 👶 Are you looking to optimize your kiddie tax strategy in 2026? Many people don't fully understand their options.
