@@ -132,3 +132,7 @@ Choosing based on price alone. The cheapest option often provides inadequate cov
 - [Emergency Fund Calculator 2026](/posts/emergency-fund-how-much-2026/)
 - [Tax Deduction Checklist 2026](/posts/tax-deduction-checklist-2026/)
 - [Small Business Insurance Guide 2026](/posts/business-insurance-small-business-2026/)
+
+---
+
+> ✔️ Full comparison guide → [Health Insurance Marketplace Guide 2026 — Plans, Costs & Tips](/posts/health-insurance-marketplace-guide-2026/)
