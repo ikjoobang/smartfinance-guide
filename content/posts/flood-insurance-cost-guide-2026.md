@@ -10,6 +10,7 @@ keywords: ["flood insurance 2026", "best NFIP flood coverage", "flood insurance 
 author: "Finance Expert"
 image: "/images/posts/flood-insurance-cost-guide-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Standard homeowners insurance does NOT cover floods. With climate change increasing flood risks, here is what you need to know.
