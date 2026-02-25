@@ -10,6 +10,7 @@ keywords: ["moving insurance 2026", "best relocation coverage", "moving insuranc
 author: "Finance Expert"
 image: "/images/posts/best-moving-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 📦 Are you looking to optimize your moving insurance strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
