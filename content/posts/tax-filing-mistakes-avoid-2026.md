@@ -10,6 +10,7 @@ keywords: ["tax filing mistakes 2026", "best common tax errors", "tax filing mis
 author: "Finance Expert"
 image: "/images/posts/tax-filing-mistakes-avoid-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🚫 Are you looking to optimize your tax filing mistakes strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
