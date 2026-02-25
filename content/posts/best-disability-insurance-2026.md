@@ -10,6 +10,7 @@ keywords: ["disability insurance 2026", "best income protection insurance", "dis
 author: "Finance Expert"
 image: "/images/posts/best-disability-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 ♿ Looking to optimize your disability insurance strategy in 2026? Many people overlook key details that could save them significant money.
