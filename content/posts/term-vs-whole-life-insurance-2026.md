@@ -10,6 +10,7 @@ keywords: ["term life insurance 2026", "best whole life insurance comparison", "
 author: "Finance Expert"
 image: "/images/posts/term-vs-whole-life-insurance-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Term life costs $30/month. Whole life costs $300/month. Is the 10x price difference worth it? Let us break it down.
