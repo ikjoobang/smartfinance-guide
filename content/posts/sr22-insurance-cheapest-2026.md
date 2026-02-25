@@ -10,6 +10,7 @@ keywords: ["SR-22 insurance 2026", "best high-risk auto insurance", "SR-22 insur
 author: "Finance Expert"
 image: "/images/posts/sr22-insurance-cheapest-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Need SR-22 insurance after a DUI? Rates vary by 300% between companies. Find the cheapest options here.
