@@ -10,6 +10,7 @@ keywords: ["self employment tax 2026", "best SE tax calculation", "self employme
 author: "Finance Expert"
 image: "/images/posts/self-employment-tax-guide-2026-v4.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🧾 Are you looking to optimize your self employment tax strategy in 2026? Many people overlook key details that could save them significant money.
