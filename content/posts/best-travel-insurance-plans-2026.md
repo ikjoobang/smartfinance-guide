@@ -10,6 +10,7 @@ keywords: ["travel insurance 2026", "best trip protection insurance", "travel in
 author: "Finance Expert"
 image: "/images/posts/best-travel-insurance-plans-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 A medical emergency abroad averages $50,000+. Travel insurance starting at $5/day could save your entire savings.
