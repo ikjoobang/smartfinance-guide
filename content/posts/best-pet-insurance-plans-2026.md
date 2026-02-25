@@ -10,6 +10,7 @@ keywords: ["pet insurance 2026", "best pet health coverage", "pet insurance comp
 author: "Finance Expert"
 image: "/images/posts/best-pet-insurance-plans-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Vet bills averaging $3,000+ per emergency visit. Pet insurance can save you thousands — here are the best plans.
