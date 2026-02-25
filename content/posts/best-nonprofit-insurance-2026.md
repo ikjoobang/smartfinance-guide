@@ -10,6 +10,7 @@ keywords: ["nonprofit insurance 2026", "best 501c3 insurance", "nonprofit insura
 author: "Finance Expert"
 image: "/images/posts/best-nonprofit-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 🤝 Are you looking to optimize your nonprofit insurance strategy in 2026? Many people don't fully understand their options.
