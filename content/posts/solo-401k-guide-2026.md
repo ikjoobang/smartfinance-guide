@@ -10,6 +10,7 @@ keywords: ["solo 401k 2026", "best individual 401k", "solo 401k guide"]
 author: "Finance Expert"
 image: "/images/posts/solo-401k-guide-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 🏢 Are you looking to optimize your solo 401k strategy in 2026? Understanding your options fully can save you thousands of dollars each year.
