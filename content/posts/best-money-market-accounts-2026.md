@@ -10,6 +10,7 @@ keywords: ["money market account guide 2026", "best high interest savings 2026",
 author: "Finance Expert"
 image: "/images/posts/best-money-market-accounts-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Money market accounts are offering 4.5%+ APY in 2026. That means $10,000 earns $450 per year — risk-free.
