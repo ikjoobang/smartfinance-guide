@@ -10,6 +10,7 @@ keywords: ["which AI is best for writing 2026", "ChatGPT vs Claude for coding"]
 author: "Smart Finance Guide"
 image: "/images/posts/chatgpt-vs-claude-vs-gemini-comparison-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Did you know that AI chatbot usage has increased by a staggering 37% in the last year alone? With so many options, choosing the right one can feel overwhelming.
