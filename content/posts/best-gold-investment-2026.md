@@ -10,6 +10,7 @@ keywords: ["gold investment guide 2026", "best buy gold online 2026", "gold inve
 author: "Finance Expert"
 image: "/images/posts/best-gold-investment-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 Gold hit record highs in 2025. Here are 5 ways to invest in gold in 2026, from ETFs to physical bullion.
