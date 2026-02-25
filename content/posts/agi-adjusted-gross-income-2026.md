@@ -10,6 +10,7 @@ keywords: ["adjusted gross income 2026", "best AGI calculation", "adjusted gross
 author: "Finance Expert"
 image: "/images/posts/agi-adjusted-gross-income-2026-v3.webp"
 toc: true
+robots: "noindex, nofollow"
 ---
 
 📊 Are you looking to optimize your adjusted gross income strategy in 2026? Many people don't fully understand their options.
