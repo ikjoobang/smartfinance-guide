@@ -10,6 +10,7 @@ keywords: ["no exam life insurance 2026", "best instant life insurance approval"
 author: "Finance Expert"
 image: "/images/posts/no-exam-life-insurance-2026-v3.webp"
 toc: true
+robots: "noindex, follow"
 ---
 
 Hate needles and medical exams? No-exam life insurance offers coverage in minutes — but there are trade-offs.
