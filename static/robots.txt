@@ -1,7 +1,11 @@
 User-agent: *
-Allow: /
-Disallow: /admin/
+Allow: /posts/
+Allow: /$
+Disallow: /categories/
+Disallow: /tags/
 Disallow: /page/
+Disallow: /pages/
+Disallow: /admin/
 
 User-agent: GPTBot
 Allow: /posts/
@@ -21,4 +25,4 @@ Allow: /posts/
 User-agent: Bytespider
 Disallow: /
 
-Sitemap: https://financeaiguide.com/sitemap.xml
+Sitemap: https://www.financeaiguide.com/sitemap.xml
