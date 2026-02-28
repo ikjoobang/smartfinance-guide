@@ -25,4 +25,4 @@ Allow: /posts/
 User-agent: Bytespider
 Disallow: /
 
-Sitemap: https://www.financeaiguide.com/sitemap.xml
+Sitemap: https://financeaiguide.com/sitemap.xml
