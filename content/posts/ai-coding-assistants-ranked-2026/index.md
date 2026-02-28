@@ -1,8 +1,8 @@
 ---
-title: "AI Coding Assistants 2026: GitHub Copilot vs Cursor vs Claude Code (Developer Review)"
-description: "Senior developer ranks 8 AI coding assistants on real projects in 2026. Bug detection, code generation, refactoring — see which tool boosts productivity the most."
+title: "AI Coding Assistants Ranked 2026: Top 8 Tested"
+description: "I tested 8 AI coding tools on 3 real projects. Copilot vs Cursor vs Claude Code — see accuracy scores, speed tests, and which one saves the most dev hours."
 date: 2025-12-04T08:02:00-05:00
-lastmod: 2025-12-07T20:18:00-05:00
+lastmod: 2026-02-28
 draft: false
 categories:
  - "ai-tools"

@@ -1,6 +1,6 @@
 baseURL = "https://financeaiguide.com/"
 languageCode = "en-us"
-title = "Smart Finance Guide — Insurance, Loans & AI Tools"
+title = "Smart Finance Guide"
 theme = "xivix-adsense"
 
 enableRobotsTXT = true

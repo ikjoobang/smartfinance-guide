@@ -1,8 +1,8 @@
 ---
-title: "Motorcycle Insurance 2026: Complete Guide to Coverage, Costs & Best Providers"
-description: "Motorcycle insurance costs hundreds to thousands of dollars/year depending on your bike and riding record. Compare the 7 best motorcycle insurance companies in 2026."
+title: "Motorcycle Insurance 2026: 7 Cheapest Companies ($29/mo)"
+description: "Compare 7 cheapest motorcycle insurance companies in 2026. Real quotes from $29/mo. Coverage, discounts, and expert picks by bike type."
 date: 2026-01-31T09:43:00-05:00
-lastmod: 2026-02-05T16:57:00-05:00
+lastmod: 2026-02-28
 draft: false
 categories:
  - "insurance"
