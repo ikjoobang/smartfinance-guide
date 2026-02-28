@@ -4,7 +4,7 @@ description: "Discover the best home improvement loans for 2026. Compare rates, 
 date: 2026-02-25
 lastmod: 2026-02-25
 draft: false
-image: "/images/posts/best-home-improvement-loans-2026.png"
+image: "/images/posts/best-home-improvement-loans-2026.webp"
 categories: ["Finance"]
 tags: ["home improvement loans", "HELOC", "personal loans", "home equity financing", "renovation loans"]
 keywords: ["low rate home renovation loans", "home equity loan vs personal loan", "financing home repairs 2026"]

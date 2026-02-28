@@ -4,7 +4,7 @@ description: "Find the best emergency loans bad credit. Compare 2026 rates, term
 date: 2026-02-26
 lastmod: 2026-02-26
 draft: false
-image: "/images/posts/best-emergency-loans-bad-credit-2026.png"
+image: "/images/posts/best-emergency-loans-bad-credit-2026.webp"
 categories: ["Finance"]
 tags: ["bad credit loans", "emergency loans", "personal loans", "fast funding", "no credit check"]
 keywords: ["emergency loans for poor credit", "same day loans bad credit", "installment loans bad credit"]

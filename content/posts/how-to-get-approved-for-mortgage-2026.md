@@ -4,7 +4,7 @@ description: "Master how to get approved for mortgage in 2026. Learn credit scor
 date: 2026-02-27
 lastmod: 2026-02-27
 draft: false
-image: "/images/posts/how-to-get-approved-for-mortgage-2026.png"
+image: "/images/posts/how-to-get-approved-for-mortgage-2026.webp"
 categories: ["Finance"]
 tags: ["Mortgage Approval", "Home Loans", "Credit Score", "DTI Ratio", "Real Estate Finance"]
 keywords: ["mortgage pre-approval checklist 2026", "minimum credit score for mortgage 2026", "how to improve debt to income ratio", " FHA loan requirements 2026", "conventional vs FHA mortgage approval"]

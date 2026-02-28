@@ -4,7 +4,7 @@ description: "Learn how to refinance student loans private in 2026 to lower mont
 date: 2026-02-25
 lastmod: 2026-02-25
 draft: false
-image: "/images/posts/how-to-refinance-student-loans-private-2026.png"
+image: "/images/posts/how-to-refinance-student-loans-private-2026.webp"
 categories: ["Finance"]
 tags: ["student loan refinance", "private student loans", "refinancing rates", "debt consolidation", "financial planning"]
 keywords: ["refinance private student loans 2026", "best lenders for student loan refinancing", "how to lower student loan interest rate", "fixed vs variable rate student loans", "student loan refinancing requirements"]

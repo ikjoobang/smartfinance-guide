@@ -4,7 +4,7 @@ description: "Explore this secured vs unsecured loans guide to compare rates, ri
 date: 2026-02-26
 lastmod: 2026-02-26
 draft: false
-image: "/images/posts/secured-vs-unsecured-loans-guide-2026.png"
+image: "/images/posts/secured-vs-unsecured-loans-guide-2026.webp"
 categories: ["Finance"]
 tags: ["personal loans", "collateral", "interest rates", "credit score", "debt consolidation"]
 keywords: ["secured loan definition", "unsecured loan risks", "how to choose loan type", "loan collateral requirements", "fixed vs variable rates"]

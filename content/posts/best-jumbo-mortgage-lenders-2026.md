@@ -4,7 +4,7 @@ description: "Discover the best jumbo mortgage lenders for 2026 offering competi
 date: 2026-02-28
 lastmod: 2026-02-28
 draft: false
-image: "/images/posts/best-jumbo-mortgage-lenders-2026.png"
+image: "/images/posts/best-jumbo-mortgage-lenders-2026.webp"
 categories: ["Finance"]
 tags: ["Jumbo Mortgages", "Mortgage Lenders", "Luxury Real Estate", "Interest Rates", "Home Loans"]
 keywords: ["jumbo loan requirements 2026", "jumbo mortgage rates today", "high balance mortgage lenders", "luxury home financing"]
