@@ -4,6 +4,7 @@ description: "Discover the best credit union personal loans for 2026. Compare lo
 date: 2026-02-27
 lastmod: 2026-02-27
 draft: false
+image: "/images/posts/best-credit-union-personal-loans-2026.png"
 categories: ["Finance"]
 tags: ["personal loans", "credit unions", "low interest loans", "debt consolidation", "2026 finance guide"]
 keywords: ["credit union vs bank personal loans", "how to get a credit union loan", "low APR personal loans 2026"]
