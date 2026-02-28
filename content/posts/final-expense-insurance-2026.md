@@ -4,7 +4,7 @@ description: "Final expense insurance covers funeral costs averaging $9,135 in 2
 date: 2026-02-20T09:00:00-05:00
 lastmod: 2026-02-25
 draft: false
-categories: ["보험"]
+categories: ["Insurance"]
 tags: ["final expense insurance", "burial insurance", "funeral insurance", "senior life insurance", "final expense insurance 2026"]
 keywords: ["final expense insurance cost 2026", "best burial insurance plans", "affordable funeral insurance seniors"]
 author: "Smart Finance Guide Editorial Team"

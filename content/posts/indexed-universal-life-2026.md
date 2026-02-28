@@ -4,7 +4,7 @@ description: "Indexed universal life insurance offers market-linked growth with 
 date: 2026-02-20T11:00:00-05:00
 lastmod: 2026-02-25
 draft: false
-categories: ["보험"]
+categories: ["Insurance"]
 tags: ["indexed universal life insurance", "IUL insurance", "life insurance investing", "IUL pros cons", "indexed universal life 2026"]
 keywords: ["indexed universal life insurance pros cons 2026", "IUL vs whole life", "best IUL insurance companies"]
 author: "Smart Finance Guide Editorial Team"

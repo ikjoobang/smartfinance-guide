@@ -4,7 +4,7 @@ description: "Key person insurance protects businesses when critical employees d
 date: 2026-02-20T13:00:00-05:00
 lastmod: 2026-02-25
 draft: false
-categories: ["보험"]
+categories: ["Insurance"]
 tags: ["key person insurance", "key man insurance", "business life insurance", "business insurance 2026", "key person insurance cost"]
 keywords: ["key person insurance cost 2026", "key man insurance for small business", "how much key person insurance do I need"]
 author: "Smart Finance Guide Editorial Team"
