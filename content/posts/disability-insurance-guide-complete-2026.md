@@ -1,8 +1,8 @@
 ---
 title: "Disability Insurance Guide 2026 — Protect Your Income Today"
 description: "Complete disability insurance guide for 2026. Short-term vs long-term, own occupation vs any occupation, costs, and top providers compared."
-date: 2026-03-02T17:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-13
+lastmod: 2026-01-17
 draft: false
 categories: ["Insurance"]
 tags: ["disability insurance", "income protection insurance", "short term disability", "long term disability insurance", "disability insurance cost"]

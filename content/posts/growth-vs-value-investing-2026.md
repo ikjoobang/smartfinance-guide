@@ -1,8 +1,8 @@
 ---
 title: "Growth vs Value Investing — Your Complete 2026 Guide"
 description: "Compare growth vs value investing options for 2026. Expert analysis of investing style comparison, costs, pros and cons. Find the best growth vs value investing strategy."
-date: 2026-01-23T20:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-25
+lastmod: 2026-01-25
 draft: false
 categories: ["Investing"]
 tags: ["growth vs value investing", "investing style comparison", "Growth vs Value", "personal finance 2026", "money management"]

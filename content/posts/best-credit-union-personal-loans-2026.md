@@ -1,8 +1,8 @@
 ---
 title: "Best Credit Union Personal Loans — 2026 Guide"
 description: "Discover the best credit union personal loans for 2026. Compare low rates, flexible terms, and membership requirements to secure affordable funding today."
-date: 2026-02-27
-lastmod: 2026-02-27
+date: 2026-02-03
+lastmod: 2026-02-08
 draft: false
 image: "/images/posts/best-credit-union-personal-loans-2026.webp"
 categories: ["Finance"]

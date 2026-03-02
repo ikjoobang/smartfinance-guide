@@ -1,8 +1,8 @@
 ---
 title: "First-Time Home Buyer Programs 2026 — Grants, Loans & Tax Credits"
 description: "Complete guide to first-time home buyer programs in 2026. Federal grants, state loans, down payment assistance, and tax credits."
-date: 2026-01-29
-lastmod: 2026-02-25
+date: 2026-01-20
+lastmod: 2026-01-20
 draft: false
 categories: ["Finance"]
 tags: ["first-time-home-buyer-programs", "home-buyer-grants-2026", "finance", "finance-2026", "money-saving-tips"]

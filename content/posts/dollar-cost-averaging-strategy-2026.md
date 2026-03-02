@@ -1,8 +1,8 @@
 ---
 title: "Dollar-Cost Averaging 2026: Does DCA Beat Lump Sum?"
 description: "Dollar-cost averaging vs lump sum investing — we analyzed 30 years of S&P 500 data. See which strategy wins and the exact DCA schedule to use in 2026."
-date: 2026-01-15T16:26:00-05:00
-lastmod: 2026-02-28
+date: 2026-02-21
+lastmod: 2026-02-25
 draft: false
 categories: ["Investing"]
 tags: ["dollar cost averaging", "DCA investing", "DCA Strategy", "personal finance 2026", "money management"]

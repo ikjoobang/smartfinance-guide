@@ -1,8 +1,8 @@
 ---
 title: "LLC Business Insurance — Essential Coverage Guide 2026"
 description: "Complete guide to LLC business insurance for 2026. Expert analysis of essential coverage types, costs, and best insurance providers for LLCs and small businesses."
-date: 2026-01-07T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-29
+lastmod: 2026-01-29
 draft: false
 categories: ["Insurance"]
 tags: ['LLC business insurance', 'business coverage', 'small business insurance', 'liability coverage 2026', 'LLC protection']

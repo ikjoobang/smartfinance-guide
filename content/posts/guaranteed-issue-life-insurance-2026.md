@@ -1,8 +1,8 @@
 ---
 title: "Guaranteed Issue Life Insurance — No Questions Asked 2026"
 description: "Complete guide to guaranteed issue life insurance for 2026. Expert analysis of no-exam policies, coverage limits, costs, and best providers for guaranteed acceptance."
-date: 2026-01-14T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-23
+lastmod: 2026-02-23
 draft: false
 categories: ["Insurance"]
 tags: ['guaranteed issue life', 'no exam insurance', 'guaranteed acceptance', 'life insurance 2026', 'no questions asked']

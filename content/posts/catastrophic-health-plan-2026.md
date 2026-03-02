@@ -1,8 +1,8 @@
 ---
 title: "Catastrophic Health Plans — Cheapest Coverage Guide 2026"
 description: "Complete guide to catastrophic health plans for 2026. Expert analysis of eligibility, costs, coverage, and when a catastrophic plan makes sense for your situation."
-date: 2026-01-22T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-10
+lastmod: 2026-02-11
 draft: false
 categories: ["Insurance"]
 tags: ['catastrophic health plan', 'cheap health insurance', 'ACA catastrophic', 'health coverage 2026', 'young adult insurance']

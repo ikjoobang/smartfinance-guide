@@ -1,8 +1,8 @@
 ---
 title: "REIT Investing Guide — Your Complete 2026 Guide"
 description: "Compare the REIT investing options for 2026. Expert analysis of real estate investment trust, costs, pros and cons. Find the best REIT investing strategy for your situation."
-date: 2026-02-05T22:19:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-13
+lastmod: 2026-01-13
 draft: false
 categories: ["Investing"]
 tags: ["REIT investing", "real estate investment trust", "REIT Guide", "personal finance 2026", "money management"]

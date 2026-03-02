@@ -1,8 +1,8 @@
 ---
 title: "Cryptocurrency Tax Guide 2026 — How to Report Crypto on Taxes"
 description: "Complete guide to cryptocurrency tax in 2026. Compare crypto tax reporting and bitcoin taxes options. Expert analysis and recommendations."
-date: 2026-02-12
-lastmod: 2026-02-25
+date: 2026-01-16
+lastmod: 2026-01-16
 draft: false
 categories: ["Finance"]
 tags: ["cryptocurrency-tax", "crypto-tax-reporting", "bitcoin-taxes", "finance", "2026"]

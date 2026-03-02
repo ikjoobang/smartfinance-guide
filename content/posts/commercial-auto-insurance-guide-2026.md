@@ -1,8 +1,8 @@
 ---
 title: "Commercial Auto Insurance Guide 2026 — Business Vehicle Coverage"
 description: "Complete commercial auto insurance guide for 2026. Coverage types, costs, and how to choose the right policy for your business."
-date: 2026-02-14
-lastmod: 2026-02-25
+date: 2026-02-02
+lastmod: 2026-02-02
 draft: false
 categories: ["Insurance"]
 tags: ["commercial-auto-insurance", "business-vehicle-insurance", "insurance", "insurance-2026", "money-saving-tips"]

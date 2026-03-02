@@ -1,8 +1,8 @@
 ---
 title: "Best Tax Software 2026 — Complete Guide & Expert Comparison"
 description: "Best Tax Software 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
-date: 2026-01-06T11:31:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-25
+lastmod: 2026-01-25
 draft: false
 categories: ["Finance Guide"]
 tags: ["tax-software", "online-tax-filing", "best-tax-software", "finance-guide", "money-2026"]

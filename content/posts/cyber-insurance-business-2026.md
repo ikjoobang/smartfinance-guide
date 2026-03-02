@@ -1,8 +1,8 @@
 ---
 title: "Cyber Insurance for Business 2026 — Why Attacks Cost $4.45M Average"
 description: "cyber insurance — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-01-14T13:41:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-23
+lastmod: 2026-02-23
 draft: false
 categories: ["Insurance"]
 tags: ["cyber liability insurance", "data breach insurance", "cyber-insurance", "cyber-2026"]

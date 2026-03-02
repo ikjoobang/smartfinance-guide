@@ -1,8 +1,8 @@
 ---
 title: "Self-Employment Tax Guide — Your Complete 2026 Guide"
 description: "Compare self employment tax options for 2026. Expert analysis of SE tax calculation, costs, pros and cons. Find the best self employment tax strategy."
-date: 2026-02-06T19:20:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-22
+lastmod: 2026-02-22
 draft: false
 categories: ["Taxes"]
 tags: ["self employment tax", "SE tax calculation", "SE Tax Guide", "personal finance 2026", "money management"]

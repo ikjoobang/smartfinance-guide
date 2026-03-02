@@ -1,8 +1,8 @@
 ---
 title: "Best Emergency Loans Bad Credit — Top Fast Lenders"
 description: "Find the best emergency loans bad credit. Compare 2026 rates, terms, and fast approval options for bad credit borrowers. Apply now for instant funds."
-date: 2026-02-26
-lastmod: 2026-02-26
+date: 2026-01-24
+lastmod: 2026-01-24
 draft: false
 image: "/images/posts/best-emergency-loans-bad-credit-2026.webp"
 categories: ["Finance"]

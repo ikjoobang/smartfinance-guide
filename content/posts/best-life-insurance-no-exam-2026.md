@@ -1,8 +1,8 @@
 ---
 title: "Best No-Exam Life Insurance 2026 — Top 5 Policies Compared"
 description: "Compare the best no-exam life insurance policies for 2026. Instant approval options, coverage amounts, and premium comparison for all ages."
-date: 2026-02-15T18:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-27
+lastmod: 2026-01-27
 draft: false
 categories: ["Life Insurance"]
 tags: ["no exam life insurance", "instant life insurance", "life insurance no medical exam", "best life insurance 2026", "guaranteed life insurance"]

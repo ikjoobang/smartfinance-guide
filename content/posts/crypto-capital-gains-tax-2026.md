@@ -1,8 +1,8 @@
 ---
 title: "Crypto Capital Gains Tax 2026 — How to Calculate and Minimize Taxes"
 description: "How to calculate crypto capital gains tax in 2026. Strategies to minimize your cryptocurrency tax bill legally."
-date: 2026-01-25
-lastmod: 2026-02-25
+date: 2026-02-04
+lastmod: 2026-02-06
 draft: false
 categories: ["Finance"]
 tags: ["crypto-capital-gains-tax", "cryptocurrency-tax-calculation", "finance", "finance-2026", "money-saving-tips"]

@@ -1,8 +1,8 @@
 ---
 title: "Best CD Rates Today 2026 — Highest APY Certificates of Deposit"
 description: "Find the best CD rates today for 2026. Compare top banks offering the highest APY on 6-month, 1-year, and 5-year certificates of deposit."
-date: 2026-02-22T01:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-12
+lastmod: 2026-01-12
 draft: false
 categories: ["Savings"]
 tags: ["best CD rates", "CD rates today", "highest CD rates 2026", "certificate of deposit", "CD ladder strategy"]

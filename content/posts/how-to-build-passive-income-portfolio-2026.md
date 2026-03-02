@@ -1,8 +1,8 @@
 ---
 title: "Passive Income Portfolio — 2026 Wealth Blueprint"
 description: "Master how to build passive income portfolio for 2026. Discover top assets like dividend ETFs, real estate, and bonds to secure your financial future."
-date: 2026-03-01
-lastmod: 2026-03-01
+date: 2026-01-18
+lastmod: 2026-01-18
 draft: false
 categories: ["Finance"]
 tags: ["Passive Income", "Investing Strategy", "Dividend Stocks", "Real Estate", "Financial Independence"]

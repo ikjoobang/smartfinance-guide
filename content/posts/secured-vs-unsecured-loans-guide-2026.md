@@ -1,8 +1,8 @@
 ---
 title: "Secured vs Unsecured Loans Guide — 2026 Smart Borrower"
 description: "Explore this secured vs unsecured loans guide to compare rates, risks, and qualifications. Find the best loan option for your 2026 financial goals today."
-date: 2026-02-26
-lastmod: 2026-02-26
+date: 2026-02-02
+lastmod: 2026-02-02
 draft: false
 image: "/images/posts/secured-vs-unsecured-loans-guide-2026.webp"
 categories: ["Finance"]

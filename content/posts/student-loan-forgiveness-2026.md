@@ -1,8 +1,8 @@
 ---
 title: "Student Loan Forgiveness Programs — Your Complete 2026 Guide"
 description: "Compare the student loan forgiveness options for 2026. Expert analysis of PSLF program, costs, pros and cons. Find the best student loan forgiveness strategy for your situation."
-date: 2026-02-10T08:56:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-13
+lastmod: 2026-02-18
 draft: false
 categories: ["Loans & Real Estate"]
 tags: ["student loan forgiveness", "PSLF program", "Loan Forgiveness", "personal finance 2026", "money management"]

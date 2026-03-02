@@ -1,8 +1,8 @@
 ---
 title: "Best Home Warranty Companies 2026 — Top 5 Plans Compared"
 description: "Best home warranty companies in 2026. Compare top 5 plans, coverage, pricing, and customer satisfaction ratings."
-date: 2026-02-11
-lastmod: 2026-02-25
+date: 2026-02-03
+lastmod: 2026-02-03
 draft: false
 categories: ["Insurance"]
 tags: ["best-home-warranty-companies", "home-warranty-plans-comparison", "insurance", "insurance-2026", "money-saving-tips"]

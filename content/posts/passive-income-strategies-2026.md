@@ -1,8 +1,8 @@
 ---
 title: "Best Passive Income Ideas 2026 — 15 Proven Strategies"
 description: "Complete guide to passive income in 2026. Compare passive income ideas and passive income streams options. Expert analysis and recommendations."
-date: 2026-02-17
-lastmod: 2026-02-25
+date: 2026-02-05
+lastmod: 2026-02-05
 draft: false
 categories: ["Finance"]
 tags: ["passive-income", "passive-income-ideas", "passive-income-streams", "finance", "2026"]

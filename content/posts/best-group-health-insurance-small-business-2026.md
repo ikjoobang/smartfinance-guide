@@ -1,8 +1,8 @@
 ---
 title: "Best Group Health Insurance Small Business — Top Plans"
 description: "Discover the best group health insurance small business options for 2026. Compare costs, coverage, and providers to secure top talent and save money."
-date: 2026-02-22
-lastmod: 2026-02-25
+date: 2026-02-18
+lastmod: 2026-02-18
 draft: false
 categories: ["Finance"]
 tags: ["health insurance", "small business", "group coverage", "employee benefits", "HR strategy"]

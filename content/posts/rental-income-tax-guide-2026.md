@@ -1,8 +1,8 @@
 ---
 title: "Rental Income Tax — Complete Landlord Guide 2026"
 description: "Complete guide to rental income tax for 2026. Expert analysis of deductions, depreciation, passive income rules, and tax strategies for landlords and property investors."
-date: 2026-02-09T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-17
+lastmod: 2026-02-17
 draft: false
 categories: ["Insurance"]
 tags: ['rental income tax', 'landlord deductions', 'property tax', 'rental deductions 2026', 'real estate tax']

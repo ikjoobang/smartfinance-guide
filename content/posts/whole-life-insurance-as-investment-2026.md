@@ -1,8 +1,8 @@
 ---
 title: "Whole Life Insurance as Investment 2026 — Is It Worth It?"
 description: "Analyze whole life insurance as an investment in 2026. Cash value growth, dividends, loan options, and comparison with alternative investments."
-date: 2026-02-19T21:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-23
+lastmod: 2026-01-23
 draft: false
 categories: ["Life Insurance"]
 tags: ["whole life insurance investment", "life insurance cash value", "whole life dividends", "life insurance vs investing", "permanent life insurance"]

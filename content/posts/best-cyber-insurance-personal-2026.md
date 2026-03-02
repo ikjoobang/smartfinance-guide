@@ -1,8 +1,8 @@
 ---
 title: "Best Personal Cyber Insurance — Your Complete 2026 Guide"
 description: "Compare the personal cyber insurance options for 2026. Expert analysis of identity protection, costs, pros and cons. Find the best personal cyber insurance strategy for your situation."
-date: 2025-12-19T14:32:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-17
+lastmod: 2026-01-17
 draft: false
 categories: ["Insurance"]
 tags: ["personal cyber insurance", "identity protection", "Cyber Insurance", "personal finance 2026", "money management"]

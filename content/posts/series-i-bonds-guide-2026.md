@@ -1,8 +1,8 @@
 ---
 title: "Series I Bonds Guide — Your Complete 2026 Guide"
 description: "Compare the Series I bonds options for 2026. Expert analysis of I bonds interest rate, costs, pros and cons. Find the best Series I bonds strategy for your situation."
-date: 2026-02-06T09:47:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-06
+lastmod: 2026-02-13
 draft: false
 categories: ["Investing"]
 tags: ["Series I bonds", "I bonds interest rate", "I Bonds", "personal finance 2026", "money management"]

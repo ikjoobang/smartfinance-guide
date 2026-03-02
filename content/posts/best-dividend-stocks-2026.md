@@ -1,8 +1,8 @@
 ---
 title: "Best Dividend Stocks 2026 — Top 10 Stocks for Passive Income"
 description: "Best dividend stocks for passive income in 2026 with yield analysis. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2025-12-18T08:56:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-10
+lastmod: 2026-01-10
 draft: false
 categories:
  - "Finance"

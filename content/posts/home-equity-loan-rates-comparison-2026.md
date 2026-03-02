@@ -1,8 +1,8 @@
 ---
 title: "home equity loan rates comparison — Find the Best Rates in 2026"
 description: "Confused about home equity loan rates? Our 2026 comparison guide helps you find the best rates & leverage your home's equity. Learn more & apply today!"
-date: 2026-03-01
-lastmod: 2026-03-01
+date: 2026-01-18
+lastmod: 2026-01-18
 draft: false
 categories: ["Finance"]
 tags: ["home equity loan", "finance guide", "2026"]

@@ -1,8 +1,8 @@
 ---
 title: "Life Insurance for Seniors 2026 — Best Coverage Options After 60"
 description: "Best life insurance options for seniors over 60 in 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-01-28T22:32:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-23
+lastmod: 2026-01-23
 draft: false
 categories:
  - "Insurance"

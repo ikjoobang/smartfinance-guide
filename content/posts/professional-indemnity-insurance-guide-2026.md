@@ -1,8 +1,8 @@
 ---
 title: "Professional Indemnity Insurance Guide — Secure Your Career"
 description: "Master professional indemnity insurance guide 2026. Learn costs, coverage, and how to protect your business assets from legal claims today."
-date: 2026-02-21
-lastmod: 2026-02-25
+date: 2026-01-29
+lastmod: 2026-01-30
 draft: false
 categories: ["Finance"]
 tags: ["liability insurance", "professional liability", "business insurance", "risk management", "error and omission"]

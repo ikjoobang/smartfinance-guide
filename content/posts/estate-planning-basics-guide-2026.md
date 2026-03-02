@@ -1,8 +1,8 @@
 ---
 title: "Estate Planning Basics 2026 — Wills, Trusts & Power of Attorney"
 description: "Estate planning basics guide for 2026. How to create a will, set up trusts, designate power of attorney, and protect your family's financial future."
-date: 2026-02-27T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-02
+lastmod: 2026-02-02
 draft: false
 categories: ["Financial Planning"]
 tags: ["estate planning basics", "will vs trust", "estate planning 2026", "power of attorney", "living trust guide"]

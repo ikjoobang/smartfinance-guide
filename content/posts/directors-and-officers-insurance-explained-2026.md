@@ -1,8 +1,8 @@
 ---
 title: "Directors and Officers Insurance Explained — Your 2026 Shield"
 description: "Directors and officers insurance explained: Learn how D&O policies protect your leadership in 2026 from lawsuits, regulatory scrutiny, and financial liability."
-date: 2026-02-20
-lastmod: 2026-02-25
+date: 2026-02-07
+lastmod: 2026-02-07
 draft: false
 image: "/images/posts/directors-and-officers-insurance-explained-2026-v4.webp"
 categories: ["Finance"]

@@ -1,8 +1,8 @@
 ---
 title: "Best Travel Insurance 2026: Top 5 Plans Compared"
 description: "We tested 12 travel insurance plans in 2026. See our top 5 picks with real claim data, pricing from $4/day, and what each plan actually covers."
-date: 2026-01-07T20:50:00-05:00
-lastmod: 2026-02-28
+date: 2026-01-12
+lastmod: 2026-01-16
 draft: false
 categories: ["Insurance & Finance"]
 tags: ["travel insurance", "trip protection insurance", "travel insurance 2026", "best travel insurance"]

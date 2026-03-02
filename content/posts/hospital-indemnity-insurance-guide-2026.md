@@ -1,8 +1,8 @@
 ---
 title: "Hospital Indemnity Insurance Guide 2026 — Extra Coverage When You Need It"
 description: "Hospital indemnity insurance guide for 2026. How supplemental coverage pays you cash during hospital stays."
-date: 2026-01-24
-lastmod: 2026-02-25
+date: 2026-01-20
+lastmod: 2026-01-20
 draft: false
 categories: ["Insurance"]
 tags: ["hospital-indemnity-insurance", "hospital-insurance-supplement", "insurance", "insurance-2026", "money-saving-tips"]

@@ -1,8 +1,8 @@
 ---
 title: "Best Jumbo Mortgage Lenders — Secure High-Value Loans in 2026"
 description: "Discover the best jumbo mortgage lenders for 2026 offering competitive rates on loans above $766,550. Compare top banks, credit unions, and online lenders for your luxury home."
-date: 2026-02-28
-lastmod: 2026-02-28
+date: 2026-02-04
+lastmod: 2026-02-10
 draft: false
 image: "/images/posts/best-jumbo-mortgage-lenders-2026.webp"
 categories: ["Finance"]

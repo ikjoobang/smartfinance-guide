@@ -1,8 +1,8 @@
 ---
 title: "Best Rewards Credit Cards 2026 — Maximize Points and Cashback"
 description: "Best rewards credit cards for maximizing points and cashback in 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-01-02T14:49:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-01
+lastmod: 2026-02-05
 draft: false
 categories:
  - "Finance"

@@ -1,8 +1,8 @@
 ---
 title: "Key Person Life Insurance Business — Safeguard Your Future"
 description: "Discover how key person life insurance business policies protect your company's financial health against the unexpected loss of vital leadership in 2026."
-date: 2026-02-20
-lastmod: 2026-02-25
+date: 2026-01-15
+lastmod: 2026-01-15
 draft: false
 categories: ["Finance"]
 tags: ["business insurance", "key person insurance", "corporate planning", "risk management", "life insurance"]

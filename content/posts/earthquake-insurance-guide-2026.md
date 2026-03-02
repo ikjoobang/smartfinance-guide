@@ -1,8 +1,8 @@
 ---
 title: "Earthquake Insurance Guide 2026 — Coverage, Cost & Necessity"
 description: "Complete guide to earthquake insurance in 2026. Compare quake coverage and seismic insurance options. Expert analysis and recommendations."
-date: 2026-02-08
-lastmod: 2026-02-25
+date: 2026-01-11
+lastmod: 2026-01-11
 draft: false
 categories: ["Insurance"]
 tags: ["earthquake-insurance", "quake-coverage", "seismic-insurance", "insurance", "2026"]

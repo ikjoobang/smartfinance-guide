@@ -1,8 +1,8 @@
 ---
 title: "Wash Sale Rule Explained — Your Complete 2026 Guide"
 description: "Compare wash sale rule options for 2026. Expert analysis of wash sale tax, costs, pros and cons. Find the best wash sale rule strategy for your situation."
-date: 2026-02-16T20:43:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-18
+lastmod: 2026-01-22
 draft: false
 categories: ["Taxes"]
 tags: ["wash sale rule", "wash sale tax", "Wash Sale Rule", "personal finance 2026", "money management"]

@@ -1,8 +1,8 @@
 ---
 title: "Final Expense Insurance 2026 — Complete Guide to Burial Insurance Costs & Best Plans"
 description: "Final expense insurance covers funeral costs averaging $9,135 in 2026. Compare top burial insurance plans, rates by age, and find the best policy for your needs."
-date: 2026-02-20T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-19
+lastmod: 2026-01-19
 draft: false
 categories: ["Insurance"]
 tags: ["final expense insurance", "burial insurance", "funeral insurance", "senior life insurance", "final expense insurance 2026"]

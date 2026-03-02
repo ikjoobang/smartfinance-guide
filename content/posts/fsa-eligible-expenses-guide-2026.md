@@ -1,8 +1,8 @@
 ---
 title: "FSA Eligible Expenses — Complete List & Tips 2026"
 description: "Complete guide to FSA eligible expenses for 2026. Expert list of qualified medical, dental, and vision expenses plus strategies to maximize your flexible spending account."
-date: 2026-01-18T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-19
+lastmod: 2026-02-19
 draft: false
 categories: ["Insurance"]
 tags: ['FSA eligible expenses', 'flexible spending account', 'FSA guide', 'tax savings 2026', 'medical expenses']

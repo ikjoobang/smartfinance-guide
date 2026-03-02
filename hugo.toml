@@ -72,3 +72,8 @@ disableKinds = []
   name = "Contact"
   url = "/contact/"
   weight = 3
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.8
+  filename = "sitemap.xml"

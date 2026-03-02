@@ -2,7 +2,7 @@
 title: "How to Get Approved for Mortgage — Secure 2026 Rates"
 description: "Master how to get approved for mortgage in 2026. Learn credit score thresholds, DTI limits, and documentation needed to secure the best home loan rates."
 date: 2026-02-27
-lastmod: 2026-02-27
+lastmod: 2026-02-28
 draft: false
 image: "/images/posts/how-to-get-approved-for-mortgage-2026.webp"
 categories: ["Finance"]

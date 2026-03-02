@@ -1,8 +1,8 @@
 ---
 title: "Health Insurance Open Enrollment 2026 — Marketplace Guide and Deadlines"
 description: "Health insurance open enrollment guide with deadlines and plan comparisons for 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-01-24T08:15:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-19
+lastmod: 2026-01-19
 draft: false
 categories:
  - "Insurance"

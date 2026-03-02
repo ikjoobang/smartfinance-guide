@@ -1,8 +1,8 @@
 ---
 title: "Pet Insurance for Pre-Existing Conditions — 2026 Complete Guide"
 description: "Can you get pet insurance for pre-existing conditions in 2026? Compare plans that offer coverage and learn your options."
-date: 2026-01-13
-lastmod: 2026-02-25
+date: 2026-01-26
+lastmod: 2026-01-26
 draft: false
 categories: ["Insurance"]
 tags: ["pet-insurance-pre-existing-conditions", "pet-insurance-comparison", "insurance", "insurance-2026", "money-saving-tips"]

@@ -1,8 +1,8 @@
 ---
 title: "Cheapest Home Insurance 2026 — Affordable Coverage Without Compromise"
 description: "Cheapest home insurance companies with quality coverage for 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-01-11T13:49:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-11
+lastmod: 2026-02-11
 draft: false
 categories:
  - "Insurance"

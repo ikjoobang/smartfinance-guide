@@ -1,8 +1,8 @@
 ---
 title: "Medigap Plans Comparison — Best Medicare Supplement 2026"
 description: "Compare all Medigap plans (A through N) for 2026. Expert analysis of Medicare supplement coverage, costs, and which Medigap plan is best for your needs."
-date: 2026-02-13T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-19
+lastmod: 2026-02-19
 draft: false
 categories: ["Insurance"]
 tags: ['Medigap plans', 'Medicare supplement', 'Medigap comparison', 'Medicare coverage 2026', 'Plan G vs Plan F']

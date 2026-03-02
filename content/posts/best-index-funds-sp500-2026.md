@@ -1,8 +1,8 @@
 ---
 title: "Best S&P 500 Index Funds 2026 — Lowest Fees & Highest Returns"
 description: "Compare the best S&P 500 index funds for 2026. Vanguard VOO vs Fidelity FXAIX vs Schwab SWPPX — expense ratios, minimums, and performance compared."
-date: 2026-02-26T11:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-27
+lastmod: 2026-03-02
 draft: false
 categories: ["Investing"]
 tags: ["S&P 500 index funds", "best index funds 2026", "VOO vs FXAIX", "low cost index funds", "passive investing"]

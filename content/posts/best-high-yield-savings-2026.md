@@ -1,8 +1,8 @@
 ---
 title: "Best High-Yield Savings Accounts 2026 — Top APY Rates Compared"
 description: "Compare the best high-yield savings accounts for 2026 with APY rates up to 5.25%. Expert picks for maximizing your savings with FDIC-insured accounts."
-date: 2026-02-28T07:00:00-05:00
-lastmod: 2026-02-28
+date: 2026-01-14
+lastmod: 2026-01-14
 draft: false
 categories: ["Banking"]
 tags: ["high-yield savings", "best savings accounts", "APY rates 2026", "FDIC insured savings", "online savings accounts"]

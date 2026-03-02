@@ -1,8 +1,8 @@
 ---
 title: "Small Business Tax Deductions 2026 — Complete Write-Off Guide"
 description: "Complete guide to small business tax deductions in 2026. Compare business write-offs and tax deductions 2026 options. Expert analysis and recommendations."
-date: 2026-02-14
-lastmod: 2026-02-25
+date: 2026-01-29
+lastmod: 2026-02-01
 draft: false
 categories: ["Finance"]
 tags: ["small-business-tax-deductions", "business-write-offs", "tax-deductions-2026", "finance", "2026"]

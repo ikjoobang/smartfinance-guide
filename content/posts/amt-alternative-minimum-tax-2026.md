@@ -1,8 +1,8 @@
 ---
 title: "Alternative Minimum Tax Guide — Your Complete 2026 Guide"
 description: "Compare alternative minimum tax options for 2026. Expert analysis of AMT calculation, costs, pros and cons. Find the best alternative minimum tax strategy."
-date: 2025-12-09T08:48:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-20
+lastmod: 2026-01-20
 draft: false
 categories: ["Taxes"]
 tags: ["alternative minimum tax", "AMT calculation", "AMT Guide", "personal finance 2026", "money management"]

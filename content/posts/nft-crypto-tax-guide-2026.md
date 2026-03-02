@@ -1,8 +1,8 @@
 ---
 title: "NFT & Crypto Tax Guide — IRS Rules & Reporting 2026"
 description: "Complete guide to NFT and cryptocurrency tax reporting for 2026. Expert analysis of IRS crypto rules, capital gains calculations, and tax optimization strategies."
-date: 2026-01-07T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-20
+lastmod: 2026-02-20
 draft: false
 categories: ["Insurance"]
 tags: ['NFT tax', 'crypto tax', 'cryptocurrency reporting', 'IRS crypto rules 2026', 'digital asset tax']

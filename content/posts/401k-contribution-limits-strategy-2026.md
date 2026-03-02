@@ -1,8 +1,8 @@
 ---
 title: "401(k) Contribution Limits 2026 — Maximize Your Retirement Savings"
 description: "2026 401(k) contribution limits and strategies to maximize your retirement savings. Catch-up contributions, employer match, and tax optimization tips."
-date: 2026-02-17T21:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-21
+lastmod: 2026-02-24
 draft: false
 categories: ["Retirement"]
 tags: ["401k contribution limits", "401k 2026", "retirement savings strategy", "401k employer match", "maximize 401k"]

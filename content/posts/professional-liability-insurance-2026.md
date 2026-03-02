@@ -1,8 +1,8 @@
 ---
 title: "Professional Liability Insurance 2026 — E&O Coverage Guide for Every Industry"
 description: "Professional liability insurance guide with coverage options and costs for 2026. Compare rates, features, and expert recommendations for 2026. Start saving today."
-date: 2026-02-03T13:37:00-05:00
-lastmod: 2026-02-25
+date: 2026-03-02
+lastmod: 2026-03-02
 draft: false
 categories:
  - "Insurance"

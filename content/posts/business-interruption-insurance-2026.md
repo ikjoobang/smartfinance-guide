@@ -1,8 +1,8 @@
 ---
 title: "Business Interruption Insurance 2026 — Coverage When Disaster Strikes"
 description: "Business interruption insurance guide for 2026. How coverage works, what it pays, and why every business needs it."
-date: 2026-02-19
-lastmod: 2026-02-25
+date: 2026-01-28
+lastmod: 2026-01-28
 draft: false
 categories: ["Insurance"]
 tags: ["business-interruption-insurance", "business-income-insurance", "insurance", "insurance-2026", "money-saving-tips"]

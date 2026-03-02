@@ -1,8 +1,8 @@
 ---
 title: "First-Time Home Buyer Guide 2026 — Programs, Loans & Tips"
 description: "Complete guide to first-time home buyer in 2026. Compare first home buyer programs and FHA loans options. Expert analysis and recommendations."
-date: 2026-02-13
-lastmod: 2026-02-25
+date: 2026-02-22
+lastmod: 2026-02-22
 draft: false
 categories: ["Finance"]
 tags: ["first-time-home-buyer", "first-home-buyer-programs", "fha-loans", "finance", "2026"]

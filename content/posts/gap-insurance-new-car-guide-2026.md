@@ -1,8 +1,8 @@
 ---
 title: "Gap Insurance for New Cars — 2026 Is It Worth the Extra Cost?"
 description: "Should you buy gap insurance for a new car in 2026? Cost analysis, when it makes sense, and cheaper alternatives explained."
-date: 2026-01-16
-lastmod: 2026-02-25
+date: 2026-01-11
+lastmod: 2026-01-11
 draft: false
 categories: ["Insurance"]
 tags: ["gap-insurance-new-car", "gap-insurance-coverage", "insurance", "insurance-2026", "money-saving-tips"]

@@ -1,8 +1,8 @@
 ---
 title: "Home Insurance Cost 2026 — Average Rates by State + How to Save"
 description: "home insurance cost — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-01-23T22:26:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-20
+lastmod: 2026-02-20
 draft: false
 categories: ["Insurance"]
 tags: ["homeowners insurance rates", "cheap home insurance", "home-insurance-cost", "home-2026"]

@@ -1,8 +1,8 @@
 ---
 title: "Best Travel Medical Insurance — International Coverage 2026"
 description: "Compare the best travel medical insurance plans for 2026. Expert guide to international health coverage, emergency evacuation, and travel health protection."
-date: 2026-01-10T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-22
+lastmod: 2026-01-22
 draft: false
 categories: ["Insurance"]
 tags: ['travel medical insurance', 'international coverage', 'travel health', 'emergency evacuation 2026', 'travel insurance']

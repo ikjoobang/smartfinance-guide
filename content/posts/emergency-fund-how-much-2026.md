@@ -1,8 +1,8 @@
 ---
 title: "Emergency Fund: How Much Do You Need in 2026? — Expert Guide"
 description: "Calculate your ideal emergency fund size for 2026. Expert guidelines based on income, expenses, and life situation. Where to keep your emergency fund."
-date: 2026-02-23T12:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-11
+lastmod: 2026-02-11
 draft: false
 categories: ["Savings"]
 tags: ["emergency fund", "how much emergency fund", "emergency savings 2026", "financial safety net", "emergency fund calculator"]

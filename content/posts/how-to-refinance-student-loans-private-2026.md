@@ -1,8 +1,8 @@
 ---
 title: "How to Refinance Student Loans Private — Secure 2026 Rates"
 description: "Learn how to refinance student loans private in 2026 to lower monthly payments, reduce interest rates, and save thousands over the life of the loan."
-date: 2026-02-25
-lastmod: 2026-02-25
+date: 2026-03-01
+lastmod: 2026-03-01
 draft: false
 image: "/images/posts/how-to-refinance-student-loans-private-2026.webp"
 categories: ["Finance"]

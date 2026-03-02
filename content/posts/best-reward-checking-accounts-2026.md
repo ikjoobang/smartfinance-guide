@@ -1,8 +1,8 @@
 ---
 title: "Best Reward Checking Accounts — Your Complete 2026 Guide"
 description: "Compare reward checking accounts options for 2026. Expert analysis of high interest checking, costs, pros and cons. Find the best reward checking accounts strategy for your situation."
-date: 2026-01-01T10:30:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-25
+lastmod: 2026-01-25
 draft: false
 categories: ["Banking"]
 tags: ["reward checking accounts", "high interest checking", "Reward Checking", "personal finance 2026", "money management"]

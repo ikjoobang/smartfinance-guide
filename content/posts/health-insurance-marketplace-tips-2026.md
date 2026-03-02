@@ -1,8 +1,8 @@
 ---
 title: "Health Insurance Marketplace Tips 2026 — How to Save on Premiums"
 description: "Tips to save money on the health insurance marketplace in 2026. Subsidy eligibility, plan selection, and enrollment guide."
-date: 2026-02-05
-lastmod: 2026-02-25
+date: 2026-02-02
+lastmod: 2026-02-05
 draft: false
 categories: ["Insurance"]
 tags: ["health-insurance-marketplace", "aca-marketplace-savings", "insurance", "insurance-2026", "money-saving-tips"]

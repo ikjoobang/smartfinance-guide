@@ -1,8 +1,8 @@
 ---
 title: "Home Warranty vs Home Insurance: Key Differences (2026)"
 description: "Home warranty vs home insurance — what each covers, costs ($300-600/yr vs $1,200+/yr), and when you need both. Side-by-side comparison table inside."
-date: 2026-01-25T10:14:00-05:00
-lastmod: 2026-02-28
+date: 2026-02-25
+lastmod: 2026-03-02
 draft: false
 categories: ["Insurance & Finance"]
 tags: ["home warranty", "home warranty vs insurance", "home warranty 2026", "best home warranty"]

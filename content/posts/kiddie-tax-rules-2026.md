@@ -1,8 +1,8 @@
 ---
 title: "Kiddie Tax Rules Explained — Your Complete 2026 Guide"
 description: "Compare kiddie tax options for 2026. Expert analysis of unearned income child, costs, pros and cons. Find the best kiddie tax strategy for your situation."
-date: 2026-01-27T11:12:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-01
+lastmod: 2026-02-01
 draft: false
 categories: ["Taxes"]
 tags: ["kiddie tax", "unearned income child", "Kiddie Tax", "personal finance 2026", "money management"]

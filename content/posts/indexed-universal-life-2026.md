@@ -1,8 +1,8 @@
 ---
 title: "Indexed Universal Life Insurance (IUL) 2026 — Pros, Cons & Expert Analysis"
 description: "Indexed universal life insurance offers market-linked growth with downside protection. Learn IUL pros and cons, cap rates, costs, and whether it's right for you in 2026."
-date: 2026-02-20T11:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-21
+lastmod: 2026-02-21
 draft: false
 categories: ["Insurance"]
 tags: ["indexed universal life insurance", "IUL insurance", "life insurance investing", "IUL pros cons", "indexed universal life 2026"]

@@ -1,8 +1,8 @@
 ---
 title: "Best Boat Insurance Companies — Your Complete 2026 Guide"
 description: "Compare boat insurance options for 2026. Expert analysis of marine insurance, costs, pros and cons. Find the best boat insurance strategy."
-date: 2025-12-12T20:51:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-06
+lastmod: 2026-02-06
 draft: false
 categories: ["Insurance"]
 tags: ["boat insurance", "marine insurance", "Boat Insurance", "personal finance 2026", "money management"]

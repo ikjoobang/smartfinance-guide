@@ -1,8 +1,8 @@
 ---
 title: "Auto Loan Refinance Guide 2026 — When & How to Refinance"
 description: "Complete guide to auto loan refinance in 2026. Compare car refinance rates and auto refi options. Expert analysis and recommendations."
-date: 2026-02-15
-lastmod: 2026-02-25
+date: 2026-01-20
+lastmod: 2026-01-22
 draft: false
 categories: ["Finance"]
 tags: ["auto-loan-refinance", "car-refinance-rates", "auto-refi", "finance", "2026"]

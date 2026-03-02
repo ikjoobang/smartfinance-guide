@@ -1,8 +1,8 @@
 ---
 title: "How to Invest $10,000 in 2026 — 7 Smart Strategies for Any Goal"
 description: "how to invest 10000 dollars — Complete 2026 guide with expert analysis, comparison tables, and actionable recommendations."
-date: 2026-01-25T11:04:00-05:00
-lastmod: 2026-02-25
+date: 2026-01-18
+lastmod: 2026-01-20
 draft: false
 categories: ["Finance"]
 tags: ["best investments 2026", "where to invest money", "how-to-invest-10000-dollars", "how-2026"]

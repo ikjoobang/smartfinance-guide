@@ -1,8 +1,8 @@
 ---
 title: "Hearing Aid Insurance Coverage — Complete Guide 2026"
 description: "Understanding hearing aid insurance coverage in 2026. Expert analysis of health plan benefits, Medicare coverage, and affordable hearing aid options."
-date: 2026-02-25T09:00:00-05:00
-lastmod: 2026-02-25
+date: 2026-02-28
+lastmod: 2026-02-28
 draft: false
 categories: ["Insurance"]
 tags: ['hearing aid insurance', 'hearing aid coverage', 'hearing health', 'Medicare hearing 2026', 'health insurance']
