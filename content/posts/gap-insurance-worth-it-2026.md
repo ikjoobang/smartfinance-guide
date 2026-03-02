@@ -74,6 +74,10 @@ GAP 보험은 Guaranteed Asset Protection의 약자입니다.
 
 ---
 
+
+
+![Expert analysis illustration](/images/posts/gap-insurance-worth-it-2026-2.webp)
+
 ### GAP 보험, 비용 대비 효과는?
 
 많은 분들이 가장 궁금해하는 부분이 바로 보험료죠.
