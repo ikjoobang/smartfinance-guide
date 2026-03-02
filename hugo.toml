@@ -77,3 +77,7 @@ disableKinds = []
   changefreq = "weekly"
   priority = 0.8
   filename = "sitemap.xml"
+
+[frontmatter]
+  lastmod = ["lastmod", "date", ":default"]
+  date = ["date", ":default"]
