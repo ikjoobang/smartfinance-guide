@@ -14,7 +14,7 @@ body {
 
 /* Prevent CLS - reserve space for ads */
 .adsense-container {
-  min-height: 100px;
+  min-height: 0;
   background: #f8fafc;
   border-radius: 8px;
 }
@@ -62,4 +62,31 @@ html { scroll-behavior: smooth; scroll-padding-top: 5rem; }
 /* Dark mode (optional, respects system preference) */
 @media (prefers-color-scheme: dark) {
   /* Add dark mode styles when ready */
+}
+
+/* ═══ Auto Ads 빈 슬롯 간격 제거 ═══ */
+/* 광고 미충전 시 빈 공간 방지 */
+ins.adsbygoogle[data-ad-status="unfilled"] {
+  display: none !important;
+  min-height: 0 !important;
+  height: 0 !important;
+}
+ins.adsbygoogle:not([data-ad-status="filled"]) {
+  min-height: 0 !important;
+  max-height: 0 !important;
+  overflow: hidden !important;
+  opacity: 0 !important;
+  transition: max-height 0.3s, opacity 0.3s;
+}
+ins.adsbygoogle[data-ad-status="filled"] {
+  opacity: 1 !important;
+  max-height: 1000px !important;
+}
+/* Auto Ads 컨테이너 빈 공간 방지 */
+.google-auto-placed {
+  min-height: 0 !important;
+}
+.google-auto-placed:empty,
+.google-auto-placed:not(:has(ins[data-ad-status="filled"])) {
+  display: none !important;
 }
