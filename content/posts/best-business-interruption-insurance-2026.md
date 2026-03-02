@@ -3,7 +3,7 @@ title: "Best Business Interruption Insurance — Top 2026 Picks"
 description: "Discover the best business interruption insurance for 2026. Compare coverage, costs, and providers to protect your revenue from unexpected disasters."
 date: 2026-01-23
 lastmod: 2026-01-23
-draft: false
+draft: true
 categories: ["Finance"]
 tags: ["business insurance", "interruption coverage", "risk management", "BOP", "commercial insurance"]
 keywords: ["business income coverage", "business interruption insurance cost", "contingent business interruption"]

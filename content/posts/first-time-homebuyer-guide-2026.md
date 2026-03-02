@@ -3,7 +3,7 @@ title: "First-Time Homebuyer Guide — Your Complete 2026 Guide"
 description: "Compare the first time homebuyer options for 2026. Expert analysis of home buying tips, costs, pros and cons. Find the best first time homebuyer strategy for your situation."
 date: 2026-02-19
 lastmod: 2026-02-26
-draft: false
+draft: true
 categories: ["Personal Finance"]
 tags: ["first time homebuyer", "home buying tips", "First-Time Buyer", "personal finance 2026", "money management"]
 keywords: ["first time homebuyer 2026", "best home buying tips", "first time homebuyer guide"]

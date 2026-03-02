@@ -3,7 +3,7 @@ title: "Best Earthquake Insurance — Your Complete 2026 Guide"
 description: "Compare earthquake insurance options for 2026. Expert analysis of seismic coverage, costs, and strategies. Find the best approach for your situation."
 date: 2026-02-14
 lastmod: 2026-02-14
-draft: false
+draft: true
 categories: ["Insurance"]
 tags: ["earthquake insurance", "seismic coverage", "Earthquake Insurance", "personal finance 2026", "money management"]
 keywords: ["earthquake insurance 2026", "best seismic coverage", "earthquake insurance guide"]

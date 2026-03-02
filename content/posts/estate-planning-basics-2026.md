@@ -3,7 +3,7 @@ title: "Estate Planning Basics 2026 — Complete Guide & Expert Comparison"
 description: "Estate Planning Basics 2026 comprehensive guide. Compare top options, expert recommendations, and step-by-step strategies for 2026."
 date: 2026-01-14
 lastmod: 2026-01-14
-draft: false
+draft: true
 categories: ["Finance Guide"]
 tags: ["estate-planning", "will-and-trust", "estate-planning-basics", "finance-guide", "money-2026"]
 keywords: ["estate planning guide 2026", "best will and trust 2026", "estate planning comparison"]

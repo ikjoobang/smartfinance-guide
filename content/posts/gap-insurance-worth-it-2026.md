@@ -3,7 +3,7 @@ title: "Gap Insurance — Is It Worth It in 2026? — Complete Comparison & Expe
 description: "Gap Insurance — Is It Worth It in 2026?. Compare top options, costs, and coverage. Expert recommendations for gap insurance to help you save money and get the best protection."
 date: 2026-02-11
 lastmod: 2026-02-11
-draft: false
+draft: true
 categories: ["Insurance & Finance"]
 tags: ["gap insurance", "auto gap coverage", "gap insurance 2026", "best gap insurance"]
 keywords: ["gap insurance 2026", "best auto gap coverage", "gap insurance comparison guide"]

@@ -3,7 +3,7 @@ title: "Identity Theft Protection Services 2026 — Complete Comparison & Expert
 description: "Identity Theft Protection Services 2026. Compare top options, costs, and coverage. Expert recommendations for identity theft protection to help you save money and get the best protection."
 date: 2026-02-11
 lastmod: 2026-02-11
-draft: false
+draft: true
 categories: ["Insurance & Finance"]
 tags: ["identity theft protection", "identity monitoring services", "identity theft protection 2026", "best identity theft protection"]
 keywords: ["identity theft protection 2026", "best identity monitoring services", "identity theft protection comparison guide"]

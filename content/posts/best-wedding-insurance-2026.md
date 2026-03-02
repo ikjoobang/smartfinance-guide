@@ -3,7 +3,7 @@ title: "Best Wedding Insurance — Your Complete 2026 Guide"
 description: "Compare wedding insurance options for 2026. Expert analysis of event insurance, costs, pros and cons. Find the best wedding insurance strategy for your situation."
 date: 2026-02-15
 lastmod: 2026-02-15
-draft: false
+draft: true
 categories: ["Insurance"]
 tags: ["wedding insurance", "event insurance", "Wedding Insurance", "personal finance 2026", "money management"]
 keywords: ["wedding insurance 2026", "best event insurance", "wedding insurance guide"]

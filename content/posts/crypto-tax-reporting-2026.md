@@ -3,7 +3,7 @@ title: "Crypto Tax Reporting Guide — Your Complete 2026 Guide"
 description: "Compare the crypto tax reporting options for 2026. Expert analysis of cryptocurrency taxes, costs, pros and cons. Find the best crypto tax reporting strategy for your situation."
 date: 2026-02-14
 lastmod: 2026-02-21
-draft: false
+draft: true
 categories: ["Tax & Retirement"]
 tags: ["crypto tax reporting", "cryptocurrency taxes", "Crypto Tax", "personal finance 2026", "money management"]
 keywords: ["crypto tax reporting 2026", "best cryptocurrency taxes", "crypto tax reporting guide"]
