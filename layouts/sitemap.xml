@@ -5,16 +5,14 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  {{- range where .Data.Pages "Section" "posts" }}
-  {{- if not .Draft }}
+  {{- range where site.RegularPages "Type" "posts" }}
+  {{- if not (in (.Params.robots | default "") "noindex") }}
   <url>
     <loc>{{ .Permalink }}</loc>
     {{- with .Params.lastmod }}
     <lastmod>{{ (time .).Format "2006-01-02T15:04:05-07:00" }}</lastmod>
     {{- else }}
-    {{- with .Params.date }}
-    <lastmod>{{ (time .).Format "2006-01-02T15:04:05-07:00" }}</lastmod>
-    {{- end }}
+    <lastmod>{{ (time .Params.date).Format "2006-01-02T15:04:05-07:00" }}</lastmod>
     {{- end }}
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
