@@ -81,3 +81,18 @@ disableKinds = []
 [frontmatter]
   lastmod = ["lastmod", "date", ":default"]
   date = ["date", ":default"]
+
+# Related posts matching (Internal link SEO boost)
+[related]
+  includeNewer = true
+  threshold = 50
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 50
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
