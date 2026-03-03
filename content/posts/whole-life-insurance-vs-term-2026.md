@@ -8,7 +8,7 @@ categories: ["Finance"]
 tags: ["whole life insurance", "finance guide", "2026"]
 keywords: ["whole life insurance vs term 2026"]
 author: "Finance Expert"
-image: "/images/posts/whole-life-insurance-vs-term-2026-2026.webp"
+image: "/images/posts/whole-life-insurance-vs-term-2026.webp"
 toc: true
 ---
 
