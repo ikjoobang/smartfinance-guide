@@ -8,7 +8,7 @@ categories: ["Finance"]
 tags: ["hsa vs fsa", "finance guide", "2026"]
 keywords: ["hsa vs fsa comparison 2026"]
 author: "Finance Expert"
-image: "/images/posts/hsa-vs-fsa-comparison-2026-2026.webp"
+image: "/images/posts/hsa-vs-fsa-comparison-2026.webp"
 toc: true
 ---
 
