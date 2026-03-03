@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["homeinsurance", "insurancecalculator", "homeownership", "rates2026", "insurancecosts", "financetips", "mortgage"]
 keywords: ["home insurance cost calculator 2026", "estimate home insurance", "home insurance rates", "homeowners insurance quotes", "property insurance cost"]
 author: "Smart Finance Guide"
-image: "/images/posts/home-insurance-cost-calculator-2026-2026-03-02.webp"
+image: "/images/posts/home-insurance-cost-calculator-2026.webp"
 toc: true
 faq:
   - question: "How accurate is a home insurance cost calculator 2026?"
