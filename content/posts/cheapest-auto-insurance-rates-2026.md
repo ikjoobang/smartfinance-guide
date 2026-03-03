@@ -8,7 +8,7 @@ categories: ["Insurance"]
 tags: ["auto-insurance", "cheap-car-insurance", "insurance-rates-2026", "money-saving-tips", "car-coverage", "geico", "state-farm"]
 keywords: ["cheapest auto insurance rates 2026", "low cost car insurance", "budget auto coverage 2026", "affordable car insurance quotes", "best cheap insurance 2026"]
 author: "Smart Finance Guide"
-image: "/images/posts/cheapest-auto-insurance-rates-2026-2026-03-02.webp"
+image: "/images/posts/cheapest-auto-insurance-rates-2026.webp"
 toc: true
 faq:
   - question: "Which company offers the cheapest auto insurance rates 2026?"
