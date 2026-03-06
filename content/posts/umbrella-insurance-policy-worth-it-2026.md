@@ -2,7 +2,7 @@
 title: "umbrella insurance policy worth it — Peace of Mind or Overkill?"
 description: "Is an umbrella insurance policy worth it? Find out if this extra layer of liability protection is right for you in 2026, & protect your assets!"
 date: 2026-02-13
-lastmod: 2026-02-19
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["umbrella insurance policy", "finance guide", "2026"]

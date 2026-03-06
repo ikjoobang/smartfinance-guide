@@ -2,7 +2,7 @@
 title: "Best Life Insurance for Families 2026"
 description: "Secure your family's future with the best life insurance for families. Compare top 2026 rates from State Farm, Northwestern Mutual, and Haven Life now."
 date: 2026-03-02T20:18:00+09:00
-lastmod: 2026-03-02T20:18:00+09:00
+lastmod: 2026-03-06
 draft: false
 categories: ["Insurance"]
 tags: ["lifeinsurance","familycoverage","termlife","wholelife","financialplanning","insurance2026","parenthood"]

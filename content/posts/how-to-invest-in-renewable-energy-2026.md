@@ -2,7 +2,7 @@
 title: "How to Invest in Renewable Energy — 2026 Profit Guide"
 description: "Discover how to invest in renewable energy in 2026. Learn top stocks, ETFs, and green bonds for high returns and tax advantages. Start your portfolio today."
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["renewable energy", "investing", "ESG", "green stocks", "clean energy"]

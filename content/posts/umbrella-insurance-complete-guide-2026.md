@@ -2,7 +2,7 @@
 title: "Umbrella Insurance Complete Guide — Your Complete 2026 Guide"
 description: "Compare the umbrella insurance options for 2026. Expert analysis of excess liability coverage, costs, pros and cons. Find the best umbrella insurance strategy for your situation."
 date: 2026-01-20
-lastmod: 2026-01-20
+lastmod: 2026-03-06
 draft: true
 categories: ["Insurance"]
 tags: ["umbrella insurance", "excess liability coverage", "Umbrella Insurance", "personal finance 2026", "money management"]

@@ -2,7 +2,7 @@
 title: "Best Commodity ETFs Portfolio — 2026 Smart Strategy"
 description: "Build the best commodity ETFs portfolio for 2026. Discover top funds, allocation strategies, and expert tips to hedge inflation and diversify."
 date: 2026-03-05
-lastmod: 2026-03-05
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["commodity etfs", "portfolio strategy", "inflation hedge", "2026 outlook", "diversification"]

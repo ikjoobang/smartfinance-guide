@@ -2,7 +2,7 @@
 title: "Whole Life Insurance as Investment 2026 — Is It Worth It?"
 description: "Analyze whole life insurance as an investment in 2026. Cash value growth, dividends, loan options, and comparison with alternative investments."
 date: 2026-01-23
-lastmod: 2026-01-23
+lastmod: 2026-03-06
 draft: false
 categories: ["Life Insurance"]
 tags: ["whole life insurance investment", "life insurance cash value", "whole life dividends", "life insurance vs investing", "permanent life insurance"]
@@ -122,3 +122,15 @@ After analyzing dozens of whole life insurance as investment options for 2026, o
 - [Best Credit Cards for Cash Back](/posts/best-credit-cards-cashback-2026/)
 - [Best Homeowners Insurance 2026](/posts/best-homeowners-insurance-2026/)
 - [Best Auto Insurance Companies](/posts/best-auto-insurance-companies-2026/)
+
+---
+
+## You May Also Like
+
+- [whole life insurance vs term 2026 — Make the Right Choice](/posts/whole-life-insurance-vs-term-2026/)
+- [Term vs Whole Life Insurance 2026 — Complete Comparison & Expert Picks](/posts/term-vs-whole-life-insurance-2026/)
+- [How Much Life Insurance Do I Need 2026 — Complete Guide & Expert Comparison](/posts/how-much-life-insurance-need-2026/)
+- [Disability vs Life Insurance 2026 — Complete Guide & Expert Comparison](/posts/disability-vs-life-insurance-2026/)
+- [Best Life Insurance Companies 2026: Honest Ranking After Testing 12 Providers](/posts/best-life-insurance-companies-2026/)
+
+📝 Found this helpful? Share it with someone who needs this information!

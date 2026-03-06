@@ -3,7 +3,7 @@ title: "2026년 best pet insurance 추천 & 비교 분석"
 description: "2026년 최신 best pet insurance 완벽 정리! 삼성화재, 현대해상 실비 비교부터 강아지 고양이 보장 한도까지 꼼꼼하게 비교해 드려요. 지금 확인하고 내 반려동물 지키세요."
 date: 2026-03-02
 lastmod: 2026-03-02
-draft: false
+draft: true
 categories: ["보험비교"]
 tags: ["반려동물보험", "애견보험", "애완동물보험", "실비보험", "보험비교추천", "삼성화재", "현대해상", "2026년보험"]
 keywords: ["best pet insurance", "pet insurance comparison", "dog insurance", "cat insurance coverage", "반려동물보험순위", "애견보험료비교"]

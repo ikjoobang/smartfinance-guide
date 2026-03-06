@@ -3,7 +3,7 @@ title: "best travel insurance — 2026년 해외여행자보험 최저가 추천
 description: "2026년 best travel insurance 완벽 분석! 삼성화재, 현대해상 실제 보험료 비교부터 trip cancellation insurance 필수 조건까지 국제여행 보험 가이드 제공합니다."
 date: 2026-03-03
 lastmod: 2026-03-03
-draft: false
+draft: true
 categories: ["보험비교"]
 tags: ["해외여행자보험","여행자보험비교","tripcancellationinsurance","국제여행보험","besttravelinsurance","2026년보험추천","항공기지연보험"]
 keywords: ["2026 해외여행자보험 추천", "해외여행자보험 비교 추천", "여행자 보험 국제 여행 커버리지"]

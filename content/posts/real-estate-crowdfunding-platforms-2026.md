@@ -2,7 +2,7 @@
 title: "Real Estate Crowdfunding Platforms — Invest with $500 in 2026"
 description: "Discover top real estate crowdfunding platforms for 2026. Compare fees, returns, and minimums to start building passive income today."
 date: 2026-03-05
-lastmod: 2026-03-05
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["real estate crowdfunding", "passive income", "REITs", "alternative investments", "commercial real estate"]

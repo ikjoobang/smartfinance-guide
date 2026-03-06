@@ -3,7 +3,7 @@ title: "Commercial Auto Insurance Comparison 2026"
 description: "Compare the best commercial auto insurance rates for 2026. Save up to 35% with State Farm, Progressive, or Nationwide. Get a free quote today!"
 date: 2026-03-04T21:20:00+09:00
 lastmod: 2026-03-04T21:20:00+09:00
-draft: false
+draft: true
 categories: ["Insurance"]
 tags: ["commercial-auto-insurance", "business-insurance", "fleet-insurance", "truck-insurance", "liability-coverage"]
 keywords: ["commercial auto insurance comparison", "best commercial auto insurance", "business vehicle insurance rates", "commercial fleet insurance", "cheap commercial auto insurance"]

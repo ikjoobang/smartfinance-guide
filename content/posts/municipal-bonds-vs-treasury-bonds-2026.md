@@ -2,7 +2,7 @@
 title: "Municipal Bonds vs Treasury Bonds — Smartest 2026 Picks"
 description: "Compare municipal bonds vs treasury bonds in 2026. Analyze tax equivalent yields, interest rate risks, and safety to build your fixed income portfolio today."
 date: 2026-03-02
-lastmod: 2026-03-02
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["municipal bonds", "treasury bonds", "fixed income", "tax efficiency", "bond investing"]

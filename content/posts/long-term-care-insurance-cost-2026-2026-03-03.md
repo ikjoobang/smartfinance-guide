@@ -3,7 +3,7 @@ title: "Long Term Care Insurance Cost 2026"
 description: "Discover the real Long Term Care Insurance Cost 2026. See rates by age, compare top providers like Mutual of Omaha and Genworth, and get expert tips to save."
 date: 2026-03-03T21:20:00+09:00
 lastmod: 2026-03-03T21:20:00+09:00
-draft: false
+draft: true
 categories: ["Insurance"]
 tags: ["longtermcare", "insurancecosts", "retirementplanning", "seniorfinance", "healthinsurance", "mutualofomaha", "genworth"]
 keywords: ["long term care insurance cost 2026", "ltc insurance premiums", "average cost of nursing home insurance", "best long term care insurance companies 2026", "hybrid long term care insurance"]

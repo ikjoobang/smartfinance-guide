@@ -3,7 +3,7 @@ title: "HSA vs FSA — 의료비 절감 2026년 최적 가이드"
 description: "2026년 HSA와 FSA의 차이점과 한도를 완벽 분석했습니다. health savings account와 flexible spending account 중 본인에게 맞는 혜택을 지금 확인해 보세요."
 date: 2026-03-03
 lastmod: 2026-03-03
-draft: false
+draft: true
 categories: ["보험비교"]
 tags: ["HSAvsFSA", "건강저축계좌", "의료비절감", "2026보험한도", "세액공제", "FSA한도", "의료비관리"]
 keywords: ["health savings account", "flexible spending account", "HSA benefits", "FSA limits 2026", "HSA vs FSA 2026"]

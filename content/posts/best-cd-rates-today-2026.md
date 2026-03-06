@@ -2,7 +2,7 @@
 title: "Best CD Rates Today 2026 — Highest APY Certificates of Deposit"
 description: "Find the best CD rates today for 2026. Compare top banks offering the highest APY on 6-month, 1-year, and 5-year certificates of deposit."
 date: 2026-01-12
-lastmod: 2026-01-12
+lastmod: 2026-03-06
 draft: false
 categories: ["Savings"]
 tags: ["best CD rates", "CD rates today", "highest CD rates 2026", "certificate of deposit", "CD ladder strategy"]
@@ -122,3 +122,15 @@ After analyzing dozens of best cd rates options for 2026, our top recommendation
 - [Best Homeowners Insurance 2026](/posts/best-homeowners-insurance-2026/)
 - [Capital Gains Tax Guide 2026](/posts/capital-gains-tax-guide-2026/)
 - [Best Credit Cards for Cash Back](/posts/best-credit-cards-cashback-2026/)
+
+---
+
+## You May Also Like
+
+- [Best Auto Insurance Rates 2026 — How to Save $1,200/Year](/posts/best-auto-insurance-rates-2026/)
+- [Best Car Loan Rates 2026 — Complete Comparison & Expert Picks](/posts/best-car-loan-rates-2026/)
+- [Best Home Equity Loan Rates 2026 — Top 7 Lenders Compared](/posts/best-home-equity-loan-rates-2026/)
+- [Best High-Yield Savings Account Rates 2026 — Top 10 Compared](/posts/best-savings-account-rates-2026/)
+- [Best Business Credit Cards 2026 — Complete Guide & Expert Comparison](/posts/business-credit-card-best-2026/)
+
+📝 Found this helpful? Share it with someone who needs this information!

@@ -2,7 +2,7 @@
 title: "Best Fractional Share Investing Apps — Own Stocks for $1"
 description: "Discover the best fractional share investing apps to diversify your portfolio with little money. Compare fees, features, and user experience for 2026."
 date: 2026-03-04
-lastmod: 2026-03-04
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["fractional shares", "investing apps", "stock trading", "micro investing", "portfolio diversification"]

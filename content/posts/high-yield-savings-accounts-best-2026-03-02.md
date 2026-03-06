@@ -2,7 +2,7 @@
 title: "High-Yield Savings Accounts Best Rates 2026"
 description: "Discover the best high-yield savings accounts of 2026. Compare rates from Marcus, Ally, and Capital One to maximize your emergency fund growth today."
 date: 2026-03-02T18:23:00+09:00
-lastmod: 2026-03-02T18:23:00+09:00
+lastmod: 2026-03-06
 draft: false
 categories: ["Banking"]
 tags: ["high-yield-savings", "online-banks", "APY", "emergency-fund", "personal-finance", "savings-rates", "money-market"]

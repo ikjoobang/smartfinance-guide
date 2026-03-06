@@ -3,7 +3,7 @@ title: "Best Pet Insurance 2026 — Compare Plans for Dogs & Cats"
 description: "Complete guide to pet insurance in 2026. Compare dog insurance and cat insurance options. Expert analysis and recommendations."
 date: 2026-01-17
 lastmod: 2026-01-17
-draft: false
+draft: true
 categories: ["Insurance"]
 tags: ["pet-insurance", "dog-insurance", "cat-insurance", "insurance", "2026"]
 keywords: ["pet insurance 2026", "dog insurance comparison", "cat insurance guide"]

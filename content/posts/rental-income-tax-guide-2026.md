@@ -2,7 +2,7 @@
 title: "Rental Income Tax — Complete Landlord Guide 2026"
 description: "Complete guide to rental income tax for 2026. Expert analysis of deductions, depreciation, passive income rules, and tax strategies for landlords and property investors."
 date: 2026-02-17
-lastmod: 2026-02-17
+lastmod: 2026-03-06
 draft: false
 categories: ["Insurance"]
 tags: ['rental income tax', 'landlord deductions', 'property tax', 'rental deductions 2026', 'real estate tax']
@@ -141,3 +141,14 @@ Landlord Tax Deductions continues to evolve, and staying informed about the late
 - [Tax Loss Harvesting Guide](/posts/tax-loss-harvesting-guide-2026/)
 - [Best Index Funds S&P 500](/posts/best-index-funds-sp500-2026/)
 
+---
+
+## You May Also Like
+
+- [Foreign Tax Credit Guide — Your Complete 2026 Guide](/posts/foreign-tax-credit-guide-2026/)
+- [Quarterly Tax Payment Guide — Your Complete 2026 Guide](/posts/quarterly-tax-payment-guide-2026/)
+- [Tax Brackets Guide 2026 — Federal Income Tax Rates and Strategies](/posts/tax-brackets-guide-2026/)
+- [Side Hustle Tax Guide — Your Complete 2026 Guide](/posts/side-hustle-tax-guide-2026/)
+- [Cryptocurrency Tax Guide 2026 — How to Report Crypto on Taxes](/posts/cryptocurrency-tax-guide-2026/)
+
+📝 Found this helpful? Share it with someone who needs this information!

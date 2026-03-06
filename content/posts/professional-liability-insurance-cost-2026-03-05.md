@@ -2,7 +2,7 @@
 title: "Professional Liability Insurance Cost 2026"
 description: "Discover the real cost of Professional Liability Insurance in 2026. Compare rates from Hiscox, Nationwide, and Liberty Mutual to protect your business."
 date: 2026-03-05T20:40:00+09:00
-lastmod: 2026-03-05T20:40:00+09:00
+lastmod: 2026-03-06
 draft: false
 categories: ["Insurance"]
 tags: ["professional-liability", "errors-omissions", "business-insurance", "insurance-costs", "small-business", "liability-coverage", "E&O-insurance"]

@@ -2,7 +2,7 @@
 title: "Commercial General Liability Insurance Guide — Essential 2026 Protection"
 description: "Master the commercial general liability insurance guide for 2026. Learn coverage limits, costs, and how to protect your business from lawsuits and claims today."
 date: 2026-01-12
-lastmod: 2026-01-12
+lastmod: 2026-03-06
 draft: false
 image: "/images/posts/commercial-general-liability-insurance-guide-2026-v4.webp"
 categories: ["Finance"]

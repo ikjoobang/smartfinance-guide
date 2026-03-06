@@ -2,8 +2,8 @@
 title: "Term vs Whole Life Insurance Guide 2026"
 description: "Confused about Term vs Whole Life Insurance? We break down costs, coverage, and the best companies like State Farm and Northwestern Mutual to help you decide."
 date: 2026-03-02T21:20:00+09:00
-lastmod: 2026-03-02T21:20:00+09:00
-draft: false
+lastmod: 2026-03-06
+draft: true
 categories: ["Insurance"]
 tags: ["term-life", "whole-life", "life-insurance", "financial-planning", "insurance-comparison", "2026-rates", "money-tips"]
 keywords: ["term vs whole life insurance guide", "term life insurance cost", "whole life insurance cash value", "best life insurance companies 2026", "life insurance for families"]

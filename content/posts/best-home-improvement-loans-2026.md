@@ -2,7 +2,7 @@
 title: "Best Home Improvement Loans — Top Rates 2026"
 description: "Discover the best home improvement loans for 2026. Compare rates, terms, and pros of HELOCs vs. personal loans to finance your renovation smartly."
 date: 2026-01-22
-lastmod: 2026-01-22
+lastmod: 2026-03-06
 draft: false
 image: "/images/posts/best-home-improvement-loans-2026.webp"
 categories: ["Finance"]

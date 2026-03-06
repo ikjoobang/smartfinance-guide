@@ -2,7 +2,7 @@
 title: "Voluntary Benefits Employees Guide — Maximize Your 2026 Pay"
 description: "The ultimate voluntary benefits employees guide for 2026. Learn how to choose the right supplemental insurance, perks, and financial wellness options to boost your net pay."
 date: 2026-01-27
-lastmod: 2026-01-27
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["employee benefits", "compensation", "financial planning", "HR strategies", "paycheck optimization"]

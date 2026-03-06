@@ -2,7 +2,7 @@
 title: "Home Insurance Cost Calculator 2026"
 description: "Use our Home Insurance Cost Calculator 2026 guide. Compare real rates from State Farm, Allstate, and Liberty Mutual to save $500+/year."
 date: 2026-03-02T22:00:00+09:00
-lastmod: 2026-03-02T22:00:00+09:00
+lastmod: 2026-03-06
 draft: false
 categories: ["Insurance"]
 tags: ["homeinsurance", "insurancecalculator", "homeownership", "rates2026", "insurancecosts", "financetips", "mortgage"]

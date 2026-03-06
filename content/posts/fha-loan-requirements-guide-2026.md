@@ -2,7 +2,7 @@
 title: "FHA Loan Requirements Guide — 2026 Rules to Qualify"
 description: "Discover the 2026 FHA loan requirements guide. Learn about credit scores, down payments, and DTI limits to secure your low-down-payment home loan today."
 date: 2026-02-16
-lastmod: 2026-02-21
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["FHA Loans", "Mortgage Requirements", "Home Buying", "Real Estate Finance", "Credit Scores"]

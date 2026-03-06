@@ -2,7 +2,7 @@
 title: "medicare supplement plan g vs n — Which Medigap Plan Fits You Best?"
 description: "Comparing Medicare Supplement Plan G vs N in 2026. Understand costs, coverage, and choose the right Medigap plan. Get a free quote today!"
 date: 2026-02-14
-lastmod: 2026-02-14
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["medicare supplement plan", "finance guide", "2026"]

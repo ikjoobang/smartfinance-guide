@@ -1,8 +1,8 @@
 ---
 title: "Cyber Insurance for Small Business 2026 Guide"
-description: "Protect your company from data breaches. Compare top cyber insurance for small business rates, coverage limits, and get a free quote today."
+description: "Protect your company from data breaches. Compare top cyber insurance for small business rates, coverage limits, and get a free quote today (Updated March 2026)"
 date: 2026-03-05T20:00:00+09:00
-lastmod: 2026-03-05T20:00:00+09:00
+lastmod: 2026-03-06
 draft: false
 categories: ["Insurance"]
 tags: ["cyberinsurance", "databreach", "cybersecurity", "smallbusiness", "riskmanagement", "liabilitycoverage", "insurancetech"]

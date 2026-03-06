@@ -2,7 +2,7 @@
 title: "Best Alternative Investments Beginners — 7 Smart Assets for 2026"
 description: "Discover the best alternative investments beginners can use to hedge inflation and diversify portfolios. Explore real estate, crypto, art, and more."
 date: 2026-03-02
-lastmod: 2026-03-02
+lastmod: 2026-03-06
 draft: false
 categories: ["Finance"]
 tags: ["Alternative Investments", "Portfolio Diversification", "Beginner Investing", "Asset Allocation", "2026 Financial Outlook"]
