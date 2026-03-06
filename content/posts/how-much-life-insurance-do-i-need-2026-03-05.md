@@ -1,5 +1,4 @@
 ---
-
 title: "How Much Life Insurance Do I Need"
 description: "Calculate exactly how much life insurance do I need with the 10x income rule and DIME method. Secure your family's future in 2026."
 date: 2026-03-05T22:40:00+09:00
