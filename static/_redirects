@@ -311,3 +311,35 @@
 /posts/zero-based-budgeting-guide/ /posts/zero-based-budgeting-guide-2026/ 301
 /posts/zero-down-home-loans/ /posts/zero-down-home-loans-2026/ 301
 /posts/zero-interest-credit-cards/ /posts/zero-interest-credit-cards-2026/ 301
+
+# === 카테고리 33→8 통합 (2026-03-07 CT 지시) ===
+/categories/insurance-finance/       /categories/insurance/   301
+/categories/insurance-comparison/     /categories/insurance/   301
+/categories/auto-insurance/           /categories/insurance/   301
+/categories/health-insurance/         /categories/insurance/   301
+/categories/life-insurance/           /categories/insurance/   301
+/categories/insurance-&-finance/      /categories/insurance/   301
+/categories/finance-guide/            /categories/finance/     301
+/categories/financial-planning/       /categories/finance/     301
+/categories/financial-education/      /categories/finance/     301
+/categories/personal-finance/         /categories/finance/     301
+/categories/home-loans/               /categories/loans-credit/ 301
+/categories/loans-&-real-estate/      /categories/loans-credit/ 301
+/categories/personal-loans/           /categories/loans-credit/ 301
+/categories/credit-cards/             /categories/loans-credit/ 301
+/categories/credit/                   /categories/loans-credit/ 301
+/categories/loans/                    /categories/loans-credit/ 301
+/categories/tax-&-retirement/         /categories/retirement-tax/ 301
+/categories/taxes/                    /categories/retirement-tax/ 301
+/categories/tax-planning/             /categories/retirement-tax/ 301
+/categories/planning/                 /categories/retirement-tax/ 301
+/categories/retirement/               /categories/retirement-tax/ 301
+/categories/banking-&-savings/        /categories/banking-savings/ 301
+/categories/savings/                  /categories/banking-savings/ 301
+/categories/budgeting/                /categories/banking-savings/ 301
+/categories/banking/                  /categories/banking-savings/ 301
+/categories/ai/                       /categories/ai-tools/    301
+/categories/tools/                    /categories/ai-tools/    301
+/categories/career/                   /categories/career-business/ 301
+/categories/business/                 /categories/career-business/ 301
+/categories/보험비교/                  /                        301
